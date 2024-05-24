@@ -1,0 +1,18 @@
+# Alaattin Aktaş
+
+- [Faiz değişmedi, likidite fazlası için ek önlemler geldi](alaattin-aktas-2024-05-24.md)
+- [‘Sen bu işin sonunu düşünmedin mi?'](alaattin-aktas-2024-05-23.md)
+- [Heyecansız bir PPK toplantısı daha...](alaattin-aktas-2024-05-22.md)
+- [Türk parasının tercih edilme nedeni enflasyondaki düşüş beklentisi değil ki...](alaattin-aktas-2024-05-21.md)
+- [Vatandaş da carry trade uzmanı oldu!](alaattin-aktas-2024-05-20.md)
+- [Dolar yıl sonunda kaç lira olur?](alaattin-aktas-2024-05-17.md)
+- [Gelirini kendisi artıramayanlar dışında enflasyondan herkes memnun!](alaattin-aktas-2024-05-16.md)
+- [Seyahat geliri ve net hatadaki revizyon doğru bir işlemdir](alaattin-aktas-2024-05-15.md)
+- [Her tasarruf paketi, “Tasarruf etmiyorduk” itirafıdır](alaattin-aktas-2024-05-14.md)
+- [Enflasyon düşecek ama geçim zorluğu asla geride kalmayacak!](alaattin-aktas-2024-05-14.md)
+- ['Bizim için küçük, dünya için büyük bir revizyon!'](alaattin-aktas-2024-05-11.md)
+- [Bir yıllık enflasyon tahmininiz %19.67 ama bunu gizliyorsunuz; hayırdır!](alaattin-aktas-2024-05-09.md)
+- [Suçu normal görmeyin, göstermeyin; “Hep böyle yapıyorlar” demeyin!](alaattin-aktas-2024-05-08.md)
+- [Enflasyon tahmini değişir mi, değişmeli mi?](alaattin-aktas-2024-05-07.md)
+- [Geçmiş enflasyonu bırakın, siz mayısa bakın!](alaattin-aktas-2024-05-09.md)
+- [Sıradan görünürken kritik hale gelen enflasyon...](alaattin-aktas-2024-05-03.md)
