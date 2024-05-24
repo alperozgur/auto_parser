@@ -26,4 +26,4 @@ jobs:
         pip install requests beautifulsoup4
     - name: Run the app
       run: |
-        python app.py
+        sudo python app.py
