@@ -1,0 +1,22 @@
+{
+    "columnists": [
+        {
+            "writer": "Barış Terkoğlu",
+            "url": "https://www.cumhuriyet.com.tr/yazarlar/baris-terkoglu",
+            "simple_name": "baris-terkoglu",
+            "media": "cumhuriyet"
+        },
+        {
+            "writer": "Çiğdem Toker",
+            "url": "https://t24.com.tr/yazarlar/cigdem-toker",
+            "simple_name": "cigdem-toker",
+            "media": "t24"
+        },
+        {
+            "writer": "Alaattin Aktaş",
+            "url": "https://www.ekonomim.com/yazar/alaattin-aktas/30",
+            "simple_name": "alaattin-aktas",
+            "media": "ekonomim"
+        }
+    ]
+}
