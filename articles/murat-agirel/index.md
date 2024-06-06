@@ -1,0 +1,16 @@
+# Murat Ağırel
+
+- [Emniyet'te neler oluyor?](murat-agirel-2024-06-04.md)
+- [Tasarruf gayretleri!](murat-agirel-2024-06-01.md)
+- [Mehmet Şimşek şovu bıraksın ihalelere baksın](murat-agirel-2024-05-28.md)
+- [Bu yüzden Hindistanlaştık, Pakistanlaştık](murat-agirel-2024-05-25.md)
+- [İstatistikler çok şey söylüyor](murat-agirel-2024-05-21.md)
+- [Mahkemeden Terkoğlu’na özel ceza](murat-agirel-2024-05-18.md)
+- [Borsada neler oluyor?](murat-agirel-2024-05-14.md)
+- [Futbolda garip bir maç daha](murat-agirel-2024-05-11.md)
+- [Kadir Mısıroğlu ölmedi yaşıyor!](murat-agirel-2024-05-04.md)
+- [Bu tabloya kim izin verdi?](murat-agirel-2024-04-30.md)
+- [AKP'den CHP'ye geçen belediyede seçim gecesi yaşananlar](murat-agirel-2024-04-27.md)
+- [Uyuşturucu milli güvenlik sorunu](murat-agirel-2024-04-23.md)
+- [‘Belediyenin içinden geçmişler!’](murat-agirel-2024-04-20.md)
+- [Almanları soyan çete](murat-agirel-2024-04-16.md)

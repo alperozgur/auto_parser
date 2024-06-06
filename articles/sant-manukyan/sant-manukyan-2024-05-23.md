@@ -1,0 +1,12 @@
+# Şant Manukyan
+
+### Yayımlanma tarihi: 2024-05-23
+
+# Sadece Fed vs ECB mi yoksa ABD vs AB mi?
+
+İsviçre Merkez Bankası’nın faiz indiriminin ardından İsveç Merkez Bankası da beklendiği gibi bir faiz indirimi gerçekleştirdi. Her iki merkez bankasının adımı global piyasalarda büyük bir dalgalanma yaratacak nitelikte olmasa da beklentileri yönlendirmeleri açısından önemli. Zira haziran ayında yakın tarihte örneği olmayan bir şekilde ECB’nin Fed’den önce faiz indirmesine şahit olacağız. Sadece ECB değil grafikte görebileceğiniz üzere Bundesbank döneminde de söz konusu olmayan bir durum bu . Hem ülke olarak dünyanın en büyük ekonomisi olması hem de finansal koşullar üzerinde Fed’in diğer merkez bankalarından çok daha etkin olması nedeni ile öncü merkez bankası rolünün Fed’de olması çok şaşırtıcı değil. Olası bir ayrışma beklentisi belli orandan fiyatlandığı için sene başı şirket raporlarının aksine Euro dolara karşı değer kazanmış değil, değer kaybetmiş durumda. Şayet ECB Haziran ayında her toplantıda koşulları değerlendirerek hareket etme stratejisini benimsemez ve bir indirim serisinin başladığını ilan ederse Euro değer kaybetmeye devam edecektir. Bu düşük bir ihtimal değil zira Almanya’da iflasların gererek arttığını ve hem büyümenin hem de enflasyonun ABD’de oranla çok daha düşük seviyelerde seyrettiğini görüyoruz.
+
+
+
+Fed vs ECB ayrışması elbette para piyasaları açısından önemli bir ayrışma ve şu anda ne kadar fiyatlandığına bağlı olarak tüm varlık sınıflarını belli oranda etkileyecektir. Ancak asıl sormamız gereken soru bu daha büyük bir ayrışmanın, yani dönemsel değil kalıcı bir ekonomik ayrışmanın işareti olabilir mi? Enerji güvenliğine sahip ABD ekonomisi vs ucuz enerji dönemi kapanmış olan Avrupa ekonomisi. Silahlanma harcamaları zaten yüksek olan ABD vs çok düşük bir bazdan hızla yükselmesi gereken bir Avrupa. Çin ile rekabet etmek için ittifaklar oluşturan ve üretimi topraklarına çekmeye çalışan bir ABD vs Çin ile mücadeleye henüz yeni başlayan bir Avrupa. Yapay zeka, elektrikli araçlar vb teknolojilerde Çin ile yarışan bir ABD vs bu alanlarda daha az girişken olan, regülasyonlara daha önem veren bir Avrupa? Yaşlanan bir Avrupa vs henüz demografisi daha sağlıklı olan bir ABD. Ben ikinci ihtimalin çok yüksek olduğunu ve Avrupa’nın global gelişmelerde , sadece ekonomik değil politik olarak da, ağırlığının gidere azalacağı bir döneme girdiğini düşünüyorum. Bu doğru bir tez ise yatırım kararlarını da  da kökten etkileyecektir.
+

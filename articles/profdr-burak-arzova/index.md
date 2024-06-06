@@ -1,0 +1,18 @@
+# Burak Arzova
+
+- [Sürünen kur rejimi ile ihracatçıdan katkı beklemek çok gerçekçi durmuyor](profdr-burak-arzova-2024-05-31.md)
+- [Agresif rezerv biriktirmenin iki ucu](profdr-burak-arzova-2024-05-24.md)
+- [Boş çuval dik durmaz](profdr-burak-arzova-2024-05-26.md)
+- [Enflasyonun görünen ve görünmeyen yüzü](profdr-burak-arzova-2024-05-10.md)
+- [Kamuda nereden tasarruf etmeliyiz sorusuna cevap: Sayıştay raporları](profdr-burak-arzova-2024-05-03.md)
+- [Türkiye için de mali kurallara ihtiyaç var](profdr-burak-arzova-2024-04-26.md)
+- [Enflasyonla mücadelenin en büyük düşmanı: Eylemsizlik](profdr-burak-arzova-2024-04-19.md)
+- [Seçim sonrası ekonomi senaryoları](profdr-burak-arzova-2024-04-05.md)
+- [Azalan emekli refahından gümüş ekonomi doğar mı?](profdr-burak-arzova-2024-03-29.md)
+- [Enflasyonla mücadelede Merkez Bankası’nın yaptıkları ve yapamadıkları](profdr-burak-arzova-2024-03-22.md)
+- [Para ihtiyacı Türkiye’yi yeniden hukuk devleti statüsüne oturtabilir](profdr-burak-arzova-2024-03-18.md)
+- [Enflasyonda kalıcı iyileşme gıda enflasyonuna bağlı](profdr-burak-arzova-2024-03-15.md)
+- [Enflasyonda kalıcı iyileşme gıda enflasyonuna bağlı](profdr-burak-arzova-2024-03-08.md)
+- [Büyüme mi, enflasyon mu?](profdr-burak-arzova-2024-03-04.md)
+- [Büyüme mi? Enflasyon mu?](profdr-burak-arzova-2024-03-01.md)
+- [Kredi kartına ilişkin sert düzenlemeler ekonomiyi boğabilir](profdr-burak-arzova-2024-02-23.md)

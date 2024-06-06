@@ -1,5 +1,9 @@
 # Barış Terkoğlu
 
+- [CHP’den bakana ‘normalleşme’ telefonu](baris-terkoglu-2024-06-06.md)
+- [Umut astsubayın haber olmayan ölümü](baris-terkoglu-2024-06-03.md)
+- [Her gördüğün kamuflajlıyı asker sanma](baris-terkoglu-2024-05-30.md)
+- [Ana baba bacı kardaş üniversitesi](baris-terkoglu-2024-05-27.md)
 - [Güle güle terörist!](baris-terkoglu-2024-05-23.md)
 - [Yok artık daha neler göreceğiz](baris-terkoglu-2024-05-20.md)
 - [Darbe mi yoksa darbe bahane mi?](baris-terkoglu-2024-05-16.md)
@@ -11,7 +15,3 @@
 - [Uğur Dündar’ın babalık davası](baris-terkoglu-2024-04-25.md)
 - [Erdoğan görevi bırakmalı](baris-terkoglu-2024-04-22.md)
 - [Baskın yapılan evden çıkan hâkim](baris-terkoglu-2024-04-18.md)
-- [İsmi lazım değil!](baris-terkoglu-2024-04-15.md)
-- [Az kalsın bütün Beyoğlu elden gidiyormuş!](baris-terkoglu-2024-04-11.md)
-- [Menzil de yenildi İsmailağa da](baris-terkoglu-2024-04-08.md)
-- [Atı alan Van’ı geçemedi](baris-terkoglu-2024-04-04.md)

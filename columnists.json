@@ -7,15 +7,57 @@
             "media": "cumhuriyet"
         },
         {
+            "writer": "Barış Pehlivan",
+            "url": "https://www.cumhuriyet.com.tr/yazarlar/baris-pehlivan",
+            "simple_name": "baris-pehlivan",
+            "media": "cumhuriyet"
+        },
+        {
+            "writer": "Murat Ağırel",
+            "url": "https://www.cumhuriyet.com.tr/yazarlar/murat-agirel",
+            "simple_name": "murat-agirel",
+            "media": "cumhuriyet"
+        },
+        {
             "writer": "Çiğdem Toker",
             "url": "https://t24.com.tr/yazarlar/cigdem-toker",
             "simple_name": "cigdem-toker",
             "media": "t24"
         },
         {
-            "writer": "Alaattin Aktaş",
-            "url": "https://www.ekonomim.com/yazar/alaattin-aktas/30",
-            "simple_name": "alaattin-aktas",
+            "writer": "Tolga Şardan",
+            "url": "https://t24.com.tr/yazarlar/tolga-sardan-buyutec",
+            "simple_name": "tolga-sardan-buyutec",
+            "media": "t24"
+        },
+        {
+            "writer": "Emre Alkin",
+            "url": "https://www.ekonomim.com/yazar/emre-alkin/242",
+            "simple_name": "emre-alkin",
+            "media": "ekonomim"
+        },
+        {
+            "writer": "Şant Manukyan",
+            "url": "https://www.ekonomim.com/yazar/sant-manukyan/163",
+            "simple_name": "sant-manukyan",
+            "media": "ekonomim"
+        },
+        {
+            "writer": "Hakan Kara",
+            "url": "https://www.ekonomim.com/yazar/hakan-kara/1116",
+            "simple_name": "hakan-kara",
+            "media": "ekonomim"
+        },
+        {
+            "writer": "Burak Arzova",
+            "url": "https://www.ekonomim.com/yazar/profdr-burak-arzova/1412",
+            "simple_name": "profdr-burak-arzova",
+            "media": "ekonomim"
+        },
+        {
+            "writer": "Ali Ekber Yıldırım",
+            "url": "https://www.ekonomim.com/yazar/ali-ekber-yildirim/57",
+            "simple_name": "ali-ekber-yildirim",
             "media": "ekonomim"
         }
     ]

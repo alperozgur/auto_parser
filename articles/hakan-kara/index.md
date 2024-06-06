@@ -1,0 +1,18 @@
+# Hakan Kara
+
+- [Para basmanın binbir yolu](hakan-kara-2022-04-05.md)
+- [Yapısal bütçe dengesi: Deniz bitiyor mu?](hakan-kara-2022-01-26.md)
+- [İhracat personeli](hakan-kara-2021-11-22.md)
+- [Hangi çekirdek?](hakan-kara-2021-09-22.md)
+- [Jackson Hole makaleleri Fed politikasına dair ne ima ediyor?](hakan-kara-2021-08-31.md)
+- [Noktaları birleştirip resmi tamamlamak](hakan-kara-2021-07-02.md)
+- [Deja vu](hakan-kara-2021-04-06.md)
+- [Sabrın sonu selamet mi?](hakan-kara-2021-02-15.md)
+- [Enflasyon tek haneye iner mi?](hakan-kara-2021-02-02.md)
+- [Sisifos olmak TCMB’nin kaderi mi?](hakan-kara-2020-12-28.md)
+- [Kepçeyle boşaltıp kaşıkla doldurmak](hakan-kara-2020-12-03.md)
+- [Kur artışı enflasyona neden yansımadı?](hakan-kara-2020-11-14.md)
+- [Yumuşak iniş mümkün mü?](hakan-kara-2020-11-11.md)
+- [Yumuşak iniş mümkün mü?](hakan-kara-2020-11-12.md)
+- [Cari açık nereye koşuyor?](hakan-kara-2020-10-15.md)
+- [Rekabetçi kur üzerine](hakan-kara-2020-10-14.md)

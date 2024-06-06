@@ -1,0 +1,18 @@
+# Şant Manukyan
+
+- [Bakır ayrışması](sant-manukyan-2024-05-31.md)
+- [Yeni bir dünya kurulur altın yerini alır](sant-manukyan-2024-05-24.md)
+- [Sadece Fed vs ECB mi yoksa ABD vs AB mi?](sant-manukyan-2024-05-23.md)
+- [Altın bir kırılmaya mı işaret ediyor?](sant-manukyan-2024-04-26.md)
+- [ABD ve Çin](sant-manukyan-2024-04-05.md)
+- [Kısık ateş](sant-manukyan-2024-03-22.md)
+- [ABD seçimlerinde bir siyah kuğu](sant-manukyan-2024-03-15.md)
+- [Piyasalar: Yenilgiye doymayan pehlivan](sant-manukyan-2024-02-02.md)
+- [Fed ve Piyasa](sant-manukyan-2024-01-19.md)
+- [Dow Jones’ta tarihi zirve ve Fed](sant-manukyan-2023-12-15.md)
+- [Piyasanın söylediği Fed’in anladığı](sant-manukyan-2023-12-01.md)
+- [Enflasyon gerilerken](sant-manukyan-2023-11-17.md)
+- [Piyasalar: Duygular vs gerçekler](sant-manukyan-2023-11-10.md)
+- [Bitcoin’de mutlu sona doğru](sant-manukyan-2023-10-27.md)
+- [Klasik tepkiler](sant-manukyan-2023-10-20.md)
+- [Faiz yükselişi nelere kadir](sant-manukyan-2023-10-06.md)
