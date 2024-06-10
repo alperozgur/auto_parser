@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [İşte o dosya böyle kapatıldı](baris-pehlivan-2024-06-07.md)
 - [Keşke bu yazıdakiler yalan olsa](baris-pehlivan-2024-06-05.md)
 - [AKP kendi teklifini nasıl geri çekti](baris-pehlivan-2024-05-31.md)
 - [Kim bu videoları izleyenler?](baris-pehlivan-2024-05-29.md)
@@ -14,4 +15,3 @@
 - [Bahçeli’nin şarkısının söz yazarı konuştu](baris-pehlivan-2024-04-26.md)
 - [Süleymancıların yeni hedefi](baris-pehlivan-2024-04-24.md)
 - [Bu haber Türkiye’de yok](baris-pehlivan-2024-04-19.md)
-- [‘Bekle’ dedi, o da bekledi](baris-pehlivan-2024-04-17.md)

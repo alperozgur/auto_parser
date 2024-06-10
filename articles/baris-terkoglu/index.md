@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Gümrükten valiz kaçıran komutan](baris-terkoglu-2024-06-10.md)
 - [CHP’den bakana ‘normalleşme’ telefonu](baris-terkoglu-2024-06-06.md)
 - [Umut astsubayın haber olmayan ölümü](baris-terkoglu-2024-06-03.md)
 - [Her gördüğün kamuflajlıyı asker sanma](baris-terkoglu-2024-05-30.md)
@@ -14,4 +15,3 @@
 - [Ölen yine öldüğüyle kaldı](baris-terkoglu-2024-04-29.md)
 - [Uğur Dündar’ın babalık davası](baris-terkoglu-2024-04-25.md)
 - [Erdoğan görevi bırakmalı](baris-terkoglu-2024-04-22.md)
-- [Baskın yapılan evden çıkan hâkim](baris-terkoglu-2024-04-18.md)

@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Mahkemeye sunulan 199 sayfalık polis raporunda skandal ifadeler: Yargıtay üyesi Yüksel Kocaman’ın villasındaki mobilyaları Ayhan Bora Kaplan mı yaptırdı!](tolga-sardan-buyutec-2024-06-07.md)
 - [Sisli Vadi soruşturmasında gelişme: Vali'nin koruduğu AFAD Müdürü'ne yargılama kararı, kaçak tesiste adliye pikniği!](tolga-sardan-buyutec-2024-06-04.md)
 - [Sinan Ateş cinayeti zanlısı Avukat Öktem'in tutukluğa itirazını mahkeme "kaçma şüphesi var" diyerek reddetti](tolga-sardan-buyutec-2024-05-31.md)
 - [Sinan Ateş dosyasının bilirkişisi polise ne oldu? Emniyet YDK'da "emeklilik" krizi!](tolga-sardan-buyutec-2024-05-28.md)
@@ -11,4 +12,3 @@
 - [Evladının katilinin peşine düşen babanın iddiasını doğrulayan bilirkişi raporu](tolga-sardan-buyutec-2024-05-07.md)
 - [Sinan Ateş cinayetinden gözaltına alınan iki polis, nasıl Özel Harekatçı oldu?](tolga-sardan-buyutec-2024-05-03.md)
 - [Özel Harekat'ta neler oluyor?](tolga-sardan-buyutec-2024-04-30.md)
-- [Bir trafik kazasının anatomisi: 35 saatte belirlenemeyen kimlik ve soruşturmada yaşanan gariplikler](tolga-sardan-buyutec-2024-04-26.md)
