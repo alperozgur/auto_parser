@@ -2,7 +2,7 @@ name: Run parser app
 
 on:
   schedule:
-    - cron: "32 20 * * *"    #runs at 20:32 UTC everyday
+    - cron: "00 08 * * *"    #runs at 08:00 UTC everyday
 
 jobs:
   getarticles:
