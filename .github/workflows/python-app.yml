@@ -1,6 +1,8 @@
 name: Run parser app
 
-on: push
+on:
+  schedule:
+    - cron: "32 20 * * *"    #runs at 20:32 UTC everyday
 
 jobs:
   getarticles:
