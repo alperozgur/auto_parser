@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Tarımsal planlamanın “amiral gemisi” battı](ali-ekber-yildirim-2024-06-11.md)
 - [Canlı hayvan ve karkas et ithalatında son durum](ali-ekber-yildirim-2024-05-29.md)
 - [Kuzey Kıbrıs çiftçisi ithal ete karşı eylemde](ali-ekber-yildirim-2024-05-28.md)
 - [Buğday fiyatı ne zaman açıklanacak?](ali-ekber-yildirim-2024-05-22.md)
@@ -15,4 +16,3 @@
 - [ABD Tarım Bakanlığı’na göre Türkiye’nin yağlı tohum ithalatı artacak](ali-ekber-yildirim-2024-03-27.md)
 - [Tarım ve gıdada ihracat pazarları da tehlikede](ali-ekber-yildirim-2024-03-20.md)
 - [Et fiyatları 2-3 yıl daha cep yakacak](ali-ekber-yildirim-2024-03-19.md)
-- [Tarımda çok zorlu bir sürece giriliyor](ali-ekber-yildirim-2024-03-13.md)

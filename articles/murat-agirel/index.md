@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Vergi vermeyen milyonluk mekânlar](murat-agirel-2024-06-11.md)
 - [Nasırlarına basmaya devam edeceğim](murat-agirel-2024-06-08.md)
 - [Emniyet'te neler oluyor?](murat-agirel-2024-06-04.md)
 - [Tasarruf gayretleri!](murat-agirel-2024-06-01.md)
@@ -13,4 +14,3 @@
 - [Bu tabloya kim izin verdi?](murat-agirel-2024-04-30.md)
 - [AKP'den CHP'ye geçen belediyede seçim gecesi yaşananlar](murat-agirel-2024-04-27.md)
 - [Uyuşturucu milli güvenlik sorunu](murat-agirel-2024-04-23.md)
-- [‘Belediyenin içinden geçmişler!’](murat-agirel-2024-04-20.md)
