@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-# Mapping of Turkish month names to month numbers
+# Mapping of Turkish month names to month numberss
 turkish_months = {
     "Ocak": "01",
     "Şubat": "02",
