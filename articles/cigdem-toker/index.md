@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [TÜİK enflasyonu nasıl hesaplıyor?](cigdem-toker-2024-06-12.md)
 - [Avrupa’da kara para kuralları katılaşıyor](cigdem-toker-2024-06-07.md)
 - [İGA Holding'e dev sermaye, patronlarına teşvik](cigdem-toker-2024-06-05.md)
 - [Bir maskeleme aracı olarak "yapısal reform"](cigdem-toker-2024-05-31.md)
@@ -11,4 +12,3 @@
 - [TÜİK kimin tarafında duruyor?](cigdem-toker-2024-05-10.md)
 - [Yargıya saygılı bir TÜİK aranıyor](cigdem-toker-2024-05-08.md)
 - [Kamu tasarrufunda farkı ne yaratacak?](cigdem-toker-2024-05-03.md)
-- ["Zarar"ın kıyısında dolaşmak](cigdem-toker-2024-05-01.md)
