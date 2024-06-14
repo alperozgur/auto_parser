@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Sen misin örgütü çökerten!](baris-pehlivan-2024-06-14.md)
 - [Köpeğin havlamasından rahatsız olan başkan](baris-pehlivan-2024-06-12.md)
 - [İşte o dosya böyle kapatıldı](baris-pehlivan-2024-06-07.md)
 - [Keşke bu yazıdakiler yalan olsa](baris-pehlivan-2024-06-05.md)
@@ -14,4 +15,3 @@
 - [Milli projedeki sırlar](baris-pehlivan-2024-05-03.md)
 - [İYİ Parti’nin yeni rotası nasıl olacak](baris-pehlivan-2024-05-01.md)
 - [Bahçeli’nin şarkısının söz yazarı konuştu](baris-pehlivan-2024-04-26.md)
-- [Süleymancıların yeni hedefi](baris-pehlivan-2024-04-24.md)
