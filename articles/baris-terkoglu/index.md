@@ -15,4 +15,3 @@
 - [Erdoğan’ın ‘görüşmeyin’ dediği lider](baris-terkoglu-2024-05-02.md)
 - [Ölen yine öldüğüyle kaldı](baris-terkoglu-2024-04-29.md)
 - [Uğur Dündar’ın babalık davası](baris-terkoglu-2024-04-25.md)
-- [Yoksa 'beşli çete'yi unuttuk mu](baris-terkoglu-2024-06-13.md)
