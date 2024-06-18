@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Hiçbir başarı cezasız kalmaz!](murat-agirel-2024-06-18.md)
 - ['Vergiden kaçınmak' ve Dilan Polat davası](murat-agirel-2024-06-15.md)
 - [Vergi vermeyen milyonluk mekânlar](murat-agirel-2024-06-11.md)
 - [Nasırlarına basmaya devam edeceğim](murat-agirel-2024-06-08.md)
@@ -13,4 +14,3 @@
 - [Futbolda garip bir maç daha](murat-agirel-2024-05-11.md)
 - [Kadir Mısıroğlu ölmedi yaşıyor!](murat-agirel-2024-05-04.md)
 - [Bu tabloya kim izin verdi?](murat-agirel-2024-04-30.md)
-- [AKP'den CHP'ye geçen belediyede seçim gecesi yaşananlar](murat-agirel-2024-04-27.md)
