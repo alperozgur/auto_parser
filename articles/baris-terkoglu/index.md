@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [OYAK’ta neler oluyor!](baris-terkoglu-2024-06-20.md)
 - [Bayrama kalmış seyran notları](baris-terkoglu-2024-06-17.md)
 - [Yoksa 'beşli çete'yi unuttuk mu](baris-terkoglu-2024-06-13.md)
 - [Gümrükten valiz kaçıran komutan](baris-terkoglu-2024-06-10.md)
@@ -14,4 +15,4 @@
 - [Tepedekilerin ölüm dağıtan çocukları](baris-terkoglu-2024-05-09.md)
 - [Yaptım, yapıyorum, yine yapacağım!](baris-terkoglu-2024-05-06.md)
 - [Erdoğan’ın ‘görüşmeyin’ dediği lider](baris-terkoglu-2024-05-02.md)
-- [Ölen yine öldüğüyle kaldı](baris-terkoglu-2024-04-29.md)
+- [OYAK’ta neler oluyor!](baris-terkoglu-2024-06-20.md)
