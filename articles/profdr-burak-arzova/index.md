@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Maslow’un piramidinin en altında debelenip duruyoruz](profdr-burak-arzova-2024-06-21.md)
 - [Hazine ve Maliye Bakanlığı aracı kurum gibi hareket edemez](profdr-burak-arzova-2024-06-14.md)
 - [İhracatçıları bekleyen asıl tehlike sabit kur rejimi değil](profdr-burak-arzova-2024-06-07.md)
 - [Sürünen kur rejimi ile ihracatçıdan katkı beklemek çok gerçekçi durmuyor](profdr-burak-arzova-2024-05-31.md)
@@ -15,4 +16,3 @@
 - [Para ihtiyacı Türkiye’yi yeniden hukuk devleti statüsüne oturtabilir](profdr-burak-arzova-2024-03-18.md)
 - [Enflasyonda kalıcı iyileşme gıda enflasyonuna bağlı](profdr-burak-arzova-2024-03-15.md)
 - [Enflasyonda kalıcı iyileşme gıda enflasyonuna bağlı](profdr-burak-arzova-2024-03-08.md)
-- [Büyüme mi, enflasyon mu?](profdr-burak-arzova-2024-03-04.md)

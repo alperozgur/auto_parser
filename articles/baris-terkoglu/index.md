@@ -15,4 +15,3 @@
 - [Tepedekilerin ölüm dağıtan çocukları](baris-terkoglu-2024-05-09.md)
 - [Yaptım, yapıyorum, yine yapacağım!](baris-terkoglu-2024-05-06.md)
 - [Erdoğan’ın ‘görüşmeyin’ dediği lider](baris-terkoglu-2024-05-02.md)
-- [OYAK’ta neler oluyor!](baris-terkoglu-2024-06-20.md)

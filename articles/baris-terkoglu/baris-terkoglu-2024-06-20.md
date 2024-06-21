@@ -21,9 +21,13 @@ TSK personelinin emekliliğe kadar, maaşlarının yüzde 10’u OYAK üye aidat
 
 “OYAK; bugün Koç, Sabancı, Eczacıbaşı, Anadolu Holding gibi Türkiye’nin en büyük holdingleriyle kıyaslanabilecek bir organizasyon. 2023 yılı KAP’a bildirilen kâr payı dağıtım oranları Koç Holding yüzde 720, Eczacıbaşı Holding 486, Anadolu Holding 287, Sabancı Holding 265. Benim 1 milyon TL rezervim Koç Holding’de olsaydı 7 milyon 200 bin TL, Eczacıbaşı Holding’de olsaydı 4 milyon 860 bin TL olacaktı. Bizler OYAK üyeleri olarak otuz yıllık emeğimizin böylesine hunharca ziyan edilmesine çok üzüldük.”
 
+
+
 Üçok’a OYAK’ın faaliyet gösterdiği otomotiv, demir çelik, çimento, gübre sektörlerdeki ürünlerin bir yılda yüzde 100’ün üzerinde artış gösterdiğini hatırlattım, cevap verdi:
 
 “OYAK yönetimi, bizim 30 yıl uğraşıp biriktirdiğimiz rezervlerimizi bankaların fonlarına yatırsaydı bize verdiği nemanın dört beş katı gelir elde edecektik. Örneğin Tacirler Değişken Fonu’nun son beş yıllık getirisi yüzde 3436, İş Bankası’nın Bist Fonu yüzde 2272 getirdi. Daha ilgincini söyleyeyim. OYAK’ın kendi portföyü olan birinci hisse senedi fonunun son beş yıllık getirisi yüzde 1697. OYAK’ın bize son beş yılda verdiği nema yüzde 946. OYAK Yöneticileri kendi fonlarında bizim birikimlerimizi değerlendirselerdi yaklaşık iki katı fazla gelirimiz olacaktı.”
+
+
 
 
 ### MESELE SİYASİ
