@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Üç hilalin gölgesindeki suç örgütü](baris-terkoglu-2024-06-24.md)
 - [OYAK’ta neler oluyor!](baris-terkoglu-2024-06-20.md)
 - [Bayrama kalmış seyran notları](baris-terkoglu-2024-06-17.md)
 - [Yoksa 'beşli çete'yi unuttuk mu](baris-terkoglu-2024-06-13.md)
@@ -14,4 +15,4 @@
 - [Adalet mafyanın temelidir!](baris-terkoglu-2024-05-13.md)
 - [Tepedekilerin ölüm dağıtan çocukları](baris-terkoglu-2024-05-09.md)
 - [Yaptım, yapıyorum, yine yapacağım!](baris-terkoglu-2024-05-06.md)
-- [Erdoğan’ın ‘görüşmeyin’ dediği lider](baris-terkoglu-2024-05-02.md)
+- [Üç hilalin gölgesindeki suç örgütü](baris-terkoglu-2024-06-24.md)
