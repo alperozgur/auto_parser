@@ -15,4 +15,3 @@
 - [Adalet mafyanın temelidir!](baris-terkoglu-2024-05-13.md)
 - [Tepedekilerin ölüm dağıtan çocukları](baris-terkoglu-2024-05-09.md)
 - [Yaptım, yapıyorum, yine yapacağım!](baris-terkoglu-2024-05-06.md)
-- [Üç hilalin gölgesindeki suç örgütü](baris-terkoglu-2024-06-24.md)

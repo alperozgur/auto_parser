@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Yargıç Gül Altınok’un önlenemeyen yasadışı ilişkileri nasıl sürdü? 'Adliye'nin perde arkası](murat-agirel-2024-06-25.md)
 - [Biz gazetecilik yaptıkça zıplayacaklar](murat-agirel-2024-06-22.md)
 - [Hiçbir başarı cezasız kalmaz!](murat-agirel-2024-06-18.md)
 - ['Vergiden kaçınmak' ve Dilan Polat davası](murat-agirel-2024-06-15.md)
@@ -13,4 +14,3 @@
 - [Mahkemeden Terkoğlu’na özel ceza](murat-agirel-2024-05-18.md)
 - [Borsada neler oluyor?](murat-agirel-2024-05-14.md)
 - [Futbolda garip bir maç daha](murat-agirel-2024-05-11.md)
-- [Kadir Mısıroğlu ölmedi yaşıyor!](murat-agirel-2024-05-04.md)

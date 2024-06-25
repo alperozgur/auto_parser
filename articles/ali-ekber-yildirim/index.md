@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Savaştaki Rusya ve Ukrayna’nın buğday üretimi ve ihracatı](ali-ekber-yildirim-2024-06-25.md)
 - [Buğdayda tek sorun düşük fiyat değil](ali-ekber-yildirim-2024-06-13.md)
 - [Tarımsal planlamanın “amiral gemisi” battı](ali-ekber-yildirim-2024-06-11.md)
 - [Canlı hayvan ve karkas et ithalatında son durum](ali-ekber-yildirim-2024-05-29.md)
@@ -15,4 +16,3 @@
 - [Köy Enstitüleri’nin 84. yılı](ali-ekber-yildirim-2024-04-17.md)
 - [Ayçiçeğinde yerli tohum, üretim ve verimliliğin önemi](ali-ekber-yildirim-2024-04-16.md)
 - [ABD Tarım Bakanlığı’na göre Türkiye’nin yağlı tohum ithalatı artacak](ali-ekber-yildirim-2024-03-27.md)
-- [Tarım ve gıdada ihracat pazarları da tehlikede](ali-ekber-yildirim-2024-03-20.md)

@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Başsavcı Uçar'ın mektubunda son durum: Hangi hâkime ihraç istendi?](tolga-sardan-buyutec-2024-06-25.md)
 - [FETÖ'den tutuklanan MHP'linin dosyasındaki MİT yazışmalarının detaylarında neler var?](tolga-sardan-buyutec-2024-06-21.md)
 - [İçişleri Bakanlığı soruşturma başlattı: Seçim döneminde Altınok'a çalışan AKP seçim araçlarının benzini belediyeden alınmış](tolga-sardan-buyutec-2024-06-18.md)
 - [Emniyet, İçişleri Bakanı'na operasyon mu yapıyor?](tolga-sardan-buyutec-2024-06-14.md)
@@ -11,4 +12,3 @@
 - [Yeni Yargıtay Başkanı'nın ilk sınavı; yargıdaki yolsuzluk iddialarının üzerine gitmek!](tolga-sardan-buyutec-2024-05-24.md)
 - [Tutuklanan polis müdürü 22 polisle korunuyormuş: Kaplan soruşturmasında el konulan Rolex'ler sahte çıktı!](tolga-sardan-buyutec-2024-05-21.md)
 - [Emniyet’te gizli tanık skandalında yeni gelişmeler: Darbe girişimi emniyette biliniyor muydu, Garson listesine karşı MİT’e operasyon mu var?](tolga-sardan-buyutec-2024-05-17.md)
-- [Ankara Emniyeti'ndeki "gizli tanık skandalı"nda son gelişmeler: Doktor raporundaki şüphe ve kamerasız odada olanlar](tolga-sardan-buyutec-2024-05-14.md)
