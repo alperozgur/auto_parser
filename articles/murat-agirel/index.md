@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [1128 yıl hapis cezası alıp nasıl tahliye olursunuz?](murat-agirel-2024-06-26.md)
 - [Yargıç Gül Altınok’un önlenemeyen yasadışı ilişkileri nasıl sürdü? 'Adliye'nin perde arkası](murat-agirel-2024-06-25.md)
 - [Biz gazetecilik yaptıkça zıplayacaklar](murat-agirel-2024-06-22.md)
 - [Hiçbir başarı cezasız kalmaz!](murat-agirel-2024-06-18.md)

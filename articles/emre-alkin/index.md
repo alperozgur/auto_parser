@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“İnsanları binalara hapsetme kültürü…”](emre-alkin-2024-06-26.md)
 - [“Müzakere aynı zamanda mücadeledir...”](emre-alkin-2024-06-12.md)
 - [“Yanlış veri, yanlış reçete yazdırır…”](emre-alkin-2024-06-05.md)
 - [Konut arzı artınca fiyatlar ve kiralar düşmez](emre-alkin-2024-05-30.md)
@@ -15,4 +16,3 @@
 - ["Temmuz ayından sonra enflasyon düşecek mi?.."](emre-alkin-2024-03-20.md)
 - ["Dur bakalım ne olacak derken hikayenin sonu süper bono olacak.."](emre-alkin-2024-03-13.md)
 - ["Mesele dolara koşmak değil, TL'den kaçmak..."](emre-alkin-2024-03-06.md)
-- ["Ulusal paranın değeri üzerine (Revisited)..."](emre-alkin-2024-02-28.md)

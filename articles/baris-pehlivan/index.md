@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Cemaatten daire başkanlığına...](baris-pehlivan-2024-06-26.md)
 - [Sen misin örgütü çökerten!](baris-pehlivan-2024-06-14.md)
 - [Köpeğin havlamasından rahatsız olan başkan](baris-pehlivan-2024-06-12.md)
 - [İşte o dosya böyle kapatıldı](baris-pehlivan-2024-06-07.md)
@@ -14,4 +15,3 @@
 - [O MHP’li cinayete nasıl yardım etti?](baris-pehlivan-2024-05-08.md)
 - [Milli projedeki sırlar](baris-pehlivan-2024-05-03.md)
 - [İYİ Parti’nin yeni rotası nasıl olacak](baris-pehlivan-2024-05-01.md)
-- [Bahçeli’nin şarkısının söz yazarı konuştu](baris-pehlivan-2024-04-26.md)
