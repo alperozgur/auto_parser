@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Hakan Fidan’a yollanan ifşa mesajı](baris-terkoglu-2024-06-27.md)
 - [Üç hilalin gölgesindeki suç örgütü](baris-terkoglu-2024-06-24.md)
 - [OYAK’ta neler oluyor!](baris-terkoglu-2024-06-20.md)
 - [Bayrama kalmış seyran notları](baris-terkoglu-2024-06-17.md)
@@ -14,4 +15,4 @@
 - [Darbe mi yoksa darbe bahane mi?](baris-terkoglu-2024-05-16.md)
 - [Adalet mafyanın temelidir!](baris-terkoglu-2024-05-13.md)
 - [Tepedekilerin ölüm dağıtan çocukları](baris-terkoglu-2024-05-09.md)
-- [Yaptım, yapıyorum, yine yapacağım!](baris-terkoglu-2024-05-06.md)
+- [Hakan Fidan’a yollanan ifşa mesajı](baris-terkoglu-2024-06-27.md)
