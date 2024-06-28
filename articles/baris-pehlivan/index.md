@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [MİT Gerçeği](baris-pehlivan-2024-06-28.md)
 - [Cemaatten daire başkanlığına...](baris-pehlivan-2024-06-26.md)
 - [Sen misin örgütü çökerten!](baris-pehlivan-2024-06-14.md)
 - [Köpeğin havlamasından rahatsız olan başkan](baris-pehlivan-2024-06-12.md)
@@ -14,4 +15,3 @@
 - [Hayal bu ya...](baris-pehlivan-2024-05-10.md)
 - [O MHP’li cinayete nasıl yardım etti?](baris-pehlivan-2024-05-08.md)
 - [Milli projedeki sırlar](baris-pehlivan-2024-05-03.md)
-- [İYİ Parti’nin yeni rotası nasıl olacak](baris-pehlivan-2024-05-01.md)

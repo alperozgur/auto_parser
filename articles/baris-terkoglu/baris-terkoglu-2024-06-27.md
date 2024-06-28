@@ -12,7 +12,7 @@ Adı Mehmet Fidan. 37 yıl Dışişleri’nde çalışmış. 2022’de emekli ol
 
 Türkiye onu gri pasaport skandalıyla tanıdı. Hatırlayın, Malatya’nın Yeşilyurt ilçesinde belediye etkinliği için alınan hizmet pasaportlarıyla Almanya’ya giden 45 kişiden 43’ü iltica etmiş, skandal Türkiye gündemini aylarca meşgul etmişti. İşte o günlerde hem Türk hem Alman basınında, skandalı ortaya çıkaran Hannover Başkonsolosluğu çalışanları Mehmet ve Güler Fidan’ın cezalandırıldığı, iki ismin bu nedenle merkeze çekildiği haberleri yer aldı. Dışişleri Bakanlığı ise Fidan çiftinin merkeze çekilmesinin "konu, sebep ve zamansal açıdan" skandalla ilgili olmadığını söyledi. Ancak skandalın ayrıntılarını duyuran Mehmet Fidan hakkında "sosyal medya paylaşımlarındaki iddialarının Alman basınında da yer alması, Hannover Başkonsolosluğumuzun ve Devletimizin diğer kurumlarının insan kaçakçılığına göz yumduğu şeklinde algı yaratılmasına neden olduğu" gerekçesiyle memuriyetten çıkarma cezası verdi.
 
-Güler, idari mahkemesine başvurarak bu kararı iptal ettirdi. Kendisi emekli oldu.
+Fidan, idari mahkemesine başvurarak bu kararı iptal ettirdi. Kendisi emekli oldu.
 
 Ancak Hannover Konsolosluğu’nun kapısına eşyalarının kutu içinde bırakılması, sitemli serzenişleriyle hafızalara kazındı. Dışişleri Bakanlığı’na göre geçimsiz, huysuz, uyumsuz, memuriyet kurallarına uymayan biriydi. Ona göre ise başına gelenlerin sebebi, bazı ödeneklerin kötüye kullanılmasından usulsüz işlere kadar bir dizi olumsuzluğa sessiz kalmamasıydı.
 

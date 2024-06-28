@@ -1,5 +1,6 @@
 # Şant Manukyan
 
+- [Gelir Bilgi dağılımı eşitsizliğine dikkat](sant-manukyan-2024-06-28.md)
 - [Bakır ayrışması](sant-manukyan-2024-05-31.md)
 - [Yeni bir dünya kurulur altın yerini alır](sant-manukyan-2024-05-24.md)
 - [Sadece Fed vs ECB mi yoksa ABD vs AB mi?](sant-manukyan-2024-05-23.md)
@@ -15,4 +16,3 @@
 - [Piyasalar: Duygular vs gerçekler](sant-manukyan-2023-11-10.md)
 - [Bitcoin’de mutlu sona doğru](sant-manukyan-2023-10-27.md)
 - [Klasik tepkiler](sant-manukyan-2023-10-20.md)
-- [Faiz yükselişi nelere kadir](sant-manukyan-2023-10-06.md)

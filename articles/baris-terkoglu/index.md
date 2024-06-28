@@ -15,4 +15,3 @@
 - [Darbe mi yoksa darbe bahane mi?](baris-terkoglu-2024-05-16.md)
 - [Adalet mafyanın temelidir!](baris-terkoglu-2024-05-13.md)
 - [Tepedekilerin ölüm dağıtan çocukları](baris-terkoglu-2024-05-09.md)
-- [Hakan Fidan’a yollanan ifşa mesajı](baris-terkoglu-2024-06-27.md)

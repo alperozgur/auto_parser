@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Rüşvet tescilliyken Gri Liste'den çıkmak](cigdem-toker-2024-06-28.md)
 - [Rüşvet suçu kara paranın öncülü değil miydi?](cigdem-toker-2024-06-26.md)
 - [Tasarruf paketi umursanmadı](cigdem-toker-2024-06-21.md)
 - ["Fonlandırılan öğretmenler"](cigdem-toker-2024-06-19.md)
@@ -11,4 +12,3 @@
 - [Aydın Denizli otoyolu nereye uzanıyor?](cigdem-toker-2024-05-29.md)
 - [Uyutmak değil öldürmek](cigdem-toker-2024-05-24.md)
 - [İhale sisteminde zihniyet değişmedikçe...](cigdem-toker-2024-05-22.md)
-- [Bir "kaçış rampası" olarak Dışişleri Vakfı](cigdem-toker-2024-05-17.md)
