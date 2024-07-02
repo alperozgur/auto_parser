@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Dolandırıcılıkta yapay zekâ dönemi başladı!](murat-agirel-2024-07-02.md)
 - [Kabinede neler oluyor?](murat-agirel-2024-06-29.md)
 - [1128 yıl hapis cezası alıp nasıl tahliye olursunuz?](murat-agirel-2024-06-26.md)
 - [Yargıç Gül Altınok’un önlenemeyen yasadışı ilişkileri nasıl sürdü? 'Adliye'nin perde arkası](murat-agirel-2024-06-25.md)
@@ -14,4 +15,3 @@
 - [Bu yüzden Hindistanlaştık, Pakistanlaştık](murat-agirel-2024-05-25.md)
 - [İstatistikler çok şey söylüyor](murat-agirel-2024-05-21.md)
 - [Mahkemeden Terkoğlu’na özel ceza](murat-agirel-2024-05-18.md)
-- [Borsada neler oluyor?](murat-agirel-2024-05-14.md)
