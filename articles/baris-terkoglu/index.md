@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Torbacılar ve tetikçiler ittifakı kaybedecek!](baris-terkoglu-2024-07-04.md)
 - [Hacda protokol bekleyen general](baris-terkoglu-2024-07-01.md)
 - [Hakan Fidan’a yollanan ifşa mesajı](baris-terkoglu-2024-06-27.md)
 - [Üç hilalin gölgesindeki suç örgütü](baris-terkoglu-2024-06-24.md)
@@ -14,4 +15,3 @@
 - [Güle güle terörist!](baris-terkoglu-2024-05-23.md)
 - [Yok artık daha neler göreceğiz](baris-terkoglu-2024-05-20.md)
 - [Darbe mi yoksa darbe bahane mi?](baris-terkoglu-2024-05-16.md)
-- [Adalet mafyanın temelidir!](baris-terkoglu-2024-05-13.md)
