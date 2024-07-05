@@ -1,5 +1,6 @@
 # Şant Manukyan
 
+- [ABD siyaseti](sant-manukyan-2024-07-05.md)
 - [Gelir Bilgi dağılımı eşitsizliğine dikkat](sant-manukyan-2024-06-28.md)
 - [Bakır ayrışması](sant-manukyan-2024-05-31.md)
 - [Yeni bir dünya kurulur altın yerini alır](sant-manukyan-2024-05-24.md)
@@ -15,4 +16,3 @@
 - [Enflasyon gerilerken](sant-manukyan-2023-11-17.md)
 - [Piyasalar: Duygular vs gerçekler](sant-manukyan-2023-11-10.md)
 - [Bitcoin’de mutlu sona doğru](sant-manukyan-2023-10-27.md)
-- [Klasik tepkiler](sant-manukyan-2023-10-20.md)

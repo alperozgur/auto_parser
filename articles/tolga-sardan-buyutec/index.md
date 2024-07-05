@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [CMK ile kullanılması gereken kayıt cihazı şubeden nasıl çıktı?](tolga-sardan-buyutec-2024-07-05.md)
 - [350 bin personeli olan Emniyet teşkilatının geleceği, "bir kişiye" mi bağlı?](tolga-sardan-buyutec-2024-07-02.md)
 - [Hülya Şellavcı'nın katledilmesinde İçişleri Bakanlığı kusurlu bulunup tazminat ödeyecek ancak tazminata neden polisler beraat etti!](tolga-sardan-buyutec-2024-06-28.md)
 - [Başsavcı Uçar'ın mektubunda son durum: Hangi hâkime ihraç istendi?](tolga-sardan-buyutec-2024-06-25.md)
@@ -11,4 +12,3 @@
 - [Sisli Vadi soruşturmasında gelişme: Vali'nin koruduğu AFAD Müdürü'ne yargılama kararı, kaçak tesiste adliye pikniği!](tolga-sardan-buyutec-2024-06-04.md)
 - [Sinan Ateş cinayeti zanlısı Avukat Öktem'in tutukluğa itirazını mahkeme "kaçma şüphesi var" diyerek reddetti](tolga-sardan-buyutec-2024-05-31.md)
 - [Sinan Ateş dosyasının bilirkişisi polise ne oldu? Emniyet YDK'da "emeklilik" krizi!](tolga-sardan-buyutec-2024-05-28.md)
-- [Yeni Yargıtay Başkanı'nın ilk sınavı; yargıdaki yolsuzluk iddialarının üzerine gitmek!](tolga-sardan-buyutec-2024-05-24.md)

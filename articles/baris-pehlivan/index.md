@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Tek kişi mi öldürdü?](baris-pehlivan-2024-07-05.md)
 - [Koca’nın beklenmeyen konuşması](baris-pehlivan-2024-07-03.md)
 - [MİT Gerçeği](baris-pehlivan-2024-06-28.md)
 - [Cemaatten daire başkanlığına...](baris-pehlivan-2024-06-26.md)
@@ -14,4 +15,3 @@
 - [Boğulacağımız lağım](baris-pehlivan-2024-05-17.md)
 - [Çok korkun ama...](baris-pehlivan-2024-05-15.md)
 - [Hayal bu ya...](baris-pehlivan-2024-05-10.md)
-- [O MHP’li cinayete nasıl yardım etti?](baris-pehlivan-2024-05-08.md)
