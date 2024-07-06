@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Sinan Ateş davasında neler gördüm](murat-agirel-2024-07-06.md)
 - [Dolandırıcılıkta yapay zekâ dönemi başladı!](murat-agirel-2024-07-02.md)
 - [Kabinede neler oluyor?](murat-agirel-2024-06-29.md)
 - [1128 yıl hapis cezası alıp nasıl tahliye olursunuz?](murat-agirel-2024-06-26.md)
@@ -14,4 +15,3 @@
 - [Mehmet Şimşek şovu bıraksın ihalelere baksın](murat-agirel-2024-05-28.md)
 - [Bu yüzden Hindistanlaştık, Pakistanlaştık](murat-agirel-2024-05-25.md)
 - [İstatistikler çok şey söylüyor](murat-agirel-2024-05-21.md)
-- [Mahkemeden Terkoğlu’na özel ceza](murat-agirel-2024-05-18.md)
