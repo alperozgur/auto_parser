@@ -15,4 +15,3 @@
 - [Ana baba bacı kardaş üniversitesi](baris-terkoglu-2024-05-27.md)
 - [Güle güle terörist!](baris-terkoglu-2024-05-23.md)
 - [Yok artık daha neler göreceğiz](baris-terkoglu-2024-05-20.md)
-- [İki saatlik OYAK tartışması](baris-terkoglu-2024-07-08.md)

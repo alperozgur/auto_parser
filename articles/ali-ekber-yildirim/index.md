@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Yeterli limonumuz var ama kilosu 100 liracık](ali-ekber-yildirim-2024-07-09.md)
 - [Adana tarımında öne çıkan sorunlar ve çözüm önerileri](ali-ekber-yildirim-2024-07-03.md)
 - [Savaştaki Rusya ve Ukrayna’nın buğday üretimi ve ihracatı](ali-ekber-yildirim-2024-06-25.md)
 - [Buğdayda tek sorun düşük fiyat değil](ali-ekber-yildirim-2024-06-13.md)
@@ -15,4 +16,3 @@
 - [İhracattan dönen gıdaları bize mi yediriyorlar?](ali-ekber-yildirim-2024-04-24.md)
 - [Toprağa umut eken çiftçilerin umudunu yeşertmek](ali-ekber-yildirim-2024-04-23.md)
 - [Köy Enstitüleri’nin 84. yılı](ali-ekber-yildirim-2024-04-17.md)
-- [Ayçiçeğinde yerli tohum, üretim ve verimliliğin önemi](ali-ekber-yildirim-2024-04-16.md)
