@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Enflasyon verisini budamak!..”](emre-alkin-2024-07-10.md)
 - [“Gri liste, enflasyon ve vergiler…”](emre-alkin-2024-07-03.md)
 - [“İnsanları binalara hapsetme kültürü…”](emre-alkin-2024-06-26.md)
 - [“Müzakere aynı zamanda mücadeledir...”](emre-alkin-2024-06-12.md)
@@ -15,4 +16,3 @@
 - ["Ekonomi yönetimi ?!..."](emre-alkin-2024-04-03.md)
 - [“Cesaretten değil mecburiyetten…”](emre-alkin-2024-03-27.md)
 - ["Temmuz ayından sonra enflasyon düşecek mi?.."](emre-alkin-2024-03-20.md)
-- ["Dur bakalım ne olacak derken hikayenin sonu süper bono olacak.."](emre-alkin-2024-03-13.md)

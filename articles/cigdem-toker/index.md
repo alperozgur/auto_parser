@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Akkuyu A.Ş'nin medya atağı](cigdem-toker-2024-07-10.md)
 - [Akkuyu yönetiminde yolsuzluk bitmiyor](cigdem-toker-2024-07-05.md)
 - [Asgari mahcubiyet](cigdem-toker-2024-07-03.md)
 - [Rüşvet tescilliyken Gri Liste'den çıkmak](cigdem-toker-2024-06-28.md)
@@ -11,4 +12,3 @@
 - [Avrupa’da kara para kuralları katılaşıyor](cigdem-toker-2024-06-07.md)
 - [İGA Holding'e dev sermaye, patronlarına teşvik](cigdem-toker-2024-06-05.md)
 - [Bir maskeleme aracı olarak "yapısal reform"](cigdem-toker-2024-05-31.md)
-- [Aydın Denizli otoyolu nereye uzanıyor?](cigdem-toker-2024-05-29.md)
