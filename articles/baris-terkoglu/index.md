@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Sedat Peker’in uyardığı şirket](baris-terkoglu-2024-07-11.md)
 - [İki saatlik OYAK tartışması](baris-terkoglu-2024-07-08.md)
 - [Torbacılar ve tetikçiler ittifakı kaybedecek!](baris-terkoglu-2024-07-04.md)
 - [Hacda protokol bekleyen general](baris-terkoglu-2024-07-01.md)
@@ -14,4 +15,3 @@
 - [Her gördüğün kamuflajlıyı asker sanma](baris-terkoglu-2024-05-30.md)
 - [Ana baba bacı kardaş üniversitesi](baris-terkoglu-2024-05-27.md)
 - [Güle güle terörist!](baris-terkoglu-2024-05-23.md)
-- [Yok artık daha neler göreceğiz](baris-terkoglu-2024-05-20.md)
