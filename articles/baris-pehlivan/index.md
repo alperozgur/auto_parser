@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Yandı, bitti, kül oldu](baris-pehlivan-2024-07-12.md)
 - [Ne olacak bu 17 kişinin hali?](baris-pehlivan-2024-07-10.md)
 - [Tek kişi mi öldürdü?](baris-pehlivan-2024-07-05.md)
 - [Koca’nın beklenmeyen konuşması](baris-pehlivan-2024-07-03.md)
@@ -14,4 +15,3 @@
 - [Tetikçinin silinen görüşmeleri](baris-pehlivan-2024-05-24.md)
 - [Kayıp altın dosyasında garip işler](baris-pehlivan-2024-05-22.md)
 - [Boğulacağımız lağım](baris-pehlivan-2024-05-17.md)
-- [Çok korkun ama...](baris-pehlivan-2024-05-15.md)

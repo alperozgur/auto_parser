@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Kurban edilen Kumburnu](murat-agirel-2024-07-12.md)
 - [Fethiye’de dönen dalavere](murat-agirel-2024-07-11.md)
 - [Plajları parsel parsel satan hangi iktidar?](murat-agirel-2024-07-09.md)
 - [Sinan Ateş davasında neler gördüm](murat-agirel-2024-07-06.md)
@@ -14,4 +15,3 @@
 - [Nasırlarına basmaya devam edeceğim](murat-agirel-2024-06-08.md)
 - [Emniyet'te neler oluyor?](murat-agirel-2024-06-04.md)
 - [Tasarruf gayretleri!](murat-agirel-2024-06-01.md)
-- [Mehmet Şimşek şovu bıraksın ihalelere baksın](murat-agirel-2024-05-28.md)

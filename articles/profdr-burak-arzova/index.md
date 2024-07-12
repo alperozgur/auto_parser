@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Rasyonelleşme mutlaka TÜİK’e de uğramalı](profdr-burak-arzova-2024-07-12.md)
 - [Hangi enflasyon rakamına inanacağız?](profdr-burak-arzova-2024-07-05.md)
 - [Sanayide ivme kaybı devam ediyor](profdr-burak-arzova-2024-06-28.md)
 - [Maslow’un piramidinin en altında debelenip duruyoruz](profdr-burak-arzova-2024-06-21.md)
@@ -15,4 +16,3 @@
 - [Seçim sonrası ekonomi senaryoları](profdr-burak-arzova-2024-04-05.md)
 - [Azalan emekli refahından gümüş ekonomi doğar mı?](profdr-burak-arzova-2024-03-29.md)
 - [Enflasyonla mücadelede Merkez Bankası’nın yaptıkları ve yapamadıkları](profdr-burak-arzova-2024-03-22.md)
-- [Para ihtiyacı Türkiye’yi yeniden hukuk devleti statüsüne oturtabilir](profdr-burak-arzova-2024-03-18.md)
