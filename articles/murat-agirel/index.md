@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Engin Polat'ın Gürcistan seyahatleri](murat-agirel-2024-07-13.md)
 - [Kurban edilen Kumburnu](murat-agirel-2024-07-12.md)
 - [Fethiye’de dönen dalavere](murat-agirel-2024-07-11.md)
 - [Plajları parsel parsel satan hangi iktidar?](murat-agirel-2024-07-09.md)
@@ -14,4 +15,4 @@
 - [Vergi vermeyen milyonluk mekânlar](murat-agirel-2024-06-11.md)
 - [Nasırlarına basmaya devam edeceğim](murat-agirel-2024-06-08.md)
 - [Emniyet'te neler oluyor?](murat-agirel-2024-06-04.md)
-- [Tasarruf gayretleri!](murat-agirel-2024-06-01.md)
+- [Engin Polat'ın Gürcistan seyahatleri](murat-agirel-2024-07-13.md)
