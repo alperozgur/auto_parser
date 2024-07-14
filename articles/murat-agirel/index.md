@@ -15,4 +15,3 @@
 - [Vergi vermeyen milyonluk mekânlar](murat-agirel-2024-06-11.md)
 - [Nasırlarına basmaya devam edeceğim](murat-agirel-2024-06-08.md)
 - [Emniyet'te neler oluyor?](murat-agirel-2024-06-04.md)
-- [Engin Polat'ın Gürcistan seyahatleri](murat-agirel-2024-07-13.md)
