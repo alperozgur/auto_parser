@@ -15,4 +15,3 @@
 - [Umut astsubayın haber olmayan ölümü](baris-terkoglu-2024-06-03.md)
 - [Her gördüğün kamuflajlıyı asker sanma](baris-terkoglu-2024-05-30.md)
 - [Ana baba bacı kardaş üniversitesi](baris-terkoglu-2024-05-27.md)
-- [Soylu’nun tasfiye ettiği 15 Temmuz gazisi](baris-terkoglu-2024-07-15.md)

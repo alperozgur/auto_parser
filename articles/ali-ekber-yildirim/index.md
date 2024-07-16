@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Afgan çobanlara muhtaç olmak](ali-ekber-yildirim-2024-07-16.md)
 - [Yeterli limonumuz var ama kilosu 100 liracık](ali-ekber-yildirim-2024-07-09.md)
 - [Adana tarımında öne çıkan sorunlar ve çözüm önerileri](ali-ekber-yildirim-2024-07-03.md)
 - [Savaştaki Rusya ve Ukrayna’nın buğday üretimi ve ihracatı](ali-ekber-yildirim-2024-06-25.md)
@@ -15,4 +16,3 @@
 - [Zeytinyağı ihracatını kim engelliyor?](ali-ekber-yildirim-2024-05-07.md)
 - [İhracattan dönen gıdaları bize mi yediriyorlar?](ali-ekber-yildirim-2024-04-24.md)
 - [Toprağa umut eken çiftçilerin umudunu yeşertmek](ali-ekber-yildirim-2024-04-23.md)
-- [Köy Enstitüleri’nin 84. yılı](ali-ekber-yildirim-2024-04-17.md)

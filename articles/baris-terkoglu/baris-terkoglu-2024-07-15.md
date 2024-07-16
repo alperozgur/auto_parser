@@ -6,7 +6,7 @@
 
 "Bu satırları yazarken müzmin hastalığım akciğer yetmezliği nedeniyle hastanedeyim. Durumumun oldukça kritik olduğunun bilincindeyim. Bu süreci atlatabilir miyim, bilmiyorum. Atlatamazsam, tüm dostlara selam olsun! Bu kitabı da onlara emanet ediyorum. Yaşadıklarımın bir çığlığı olarak kabul edilsin! Son sözüm, vatan sağ olsun! Türk milleti sonsuza kadar var olsun!"
 
-Bugün 15 Temmuz. Fethulllahçı çetenin, 8 yıl önce, darbeyle iktidarı ele geçirme girişiminin yıldönümü. Televizyonlarda, gazetelerde, meydanlarda, salonlarda çok kişi konuşacak. Kalbiyle söz söyleyenlerin arasına; yalancı çobanlar, duruma göre vaziyet alanlar, FETÖ'nün eski suç ortakları, devirle saf değiştiren kriptolar karışacak. Gelgelelim, toprağın altından kafasını kaldırıp konuşamayacak olanlar da var!
+Bugün 15 Temmuz. Fethullahçı çetenin, 8 yıl önce, darbeyle iktidarı ele geçirme girişiminin yıldönümü. Televizyonlarda, gazetelerde, meydanlarda, salonlarda çok kişi konuşacak. Kalbiyle söz söyleyenlerin arasına; yalancı çobanlar, duruma göre vaziyet alanlar, FETÖ'nün eski suç ortakları, devirle saf değiştiren kriptolar karışacak. Gelgelelim, toprağın altından kafasını kaldırıp konuşamayacak olanlar da var!
 
 15 Temmuz Gazisi Güven Şağban...
 

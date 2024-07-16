@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Yaşadıklarımın Çığlığı](murat-agirel-2024-07-16.md)
 - [İddianamenin ayrıntıları](murat-agirel-2024-07-15.md)
 - [Engin Polat'ın Gürcistan seyahatleri](murat-agirel-2024-07-13.md)
 - [Kurban edilen Kumburnu](murat-agirel-2024-07-12.md)
@@ -14,4 +15,3 @@
 - [Hiçbir başarı cezasız kalmaz!](murat-agirel-2024-06-18.md)
 - ['Vergiden kaçınmak' ve Dilan Polat davası](murat-agirel-2024-06-15.md)
 - [Vergi vermeyen milyonluk mekânlar](murat-agirel-2024-06-11.md)
-- [Nasırlarına basmaya devam edeceğim](murat-agirel-2024-06-08.md)
