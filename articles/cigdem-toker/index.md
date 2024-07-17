@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Emekliye sefalet artışı dışarıya IMF jargonu](cigdem-toker-2024-07-17.md)
 - [Var mı TÜİK'e yan bakan?](cigdem-toker-2024-07-12.md)
 - [Akkuyu A.Ş'nin medya atağı](cigdem-toker-2024-07-10.md)
 - [Akkuyu yönetiminde yolsuzluk bitmiyor](cigdem-toker-2024-07-05.md)
@@ -11,4 +12,3 @@
 - [TÜİK açıkladı ama yine anlaşılmadı](cigdem-toker-2024-06-14.md)
 - [TÜİK enflasyonu nasıl hesaplıyor?](cigdem-toker-2024-06-12.md)
 - [Avrupa’da kara para kuralları katılaşıyor](cigdem-toker-2024-06-07.md)
-- [İGA Holding'e dev sermaye, patronlarına teşvik](cigdem-toker-2024-06-05.md)
