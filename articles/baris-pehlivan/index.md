@@ -15,4 +15,3 @@
 - [Kim bu videoları izleyenler?](baris-pehlivan-2024-05-29.md)
 - [Tetikçinin silinen görüşmeleri](baris-pehlivan-2024-05-24.md)
 - [Kayıp altın dosyasında garip işler](baris-pehlivan-2024-05-22.md)
-- [Soylu ne yapmaya çalışıyor?](baris-pehlivan-2024-07-17.md)
