@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Hizmet enflasyonu küresel ekonomi için hala bir tehdit](profdr-burak-arzova-2024-07-19.md)
 - [Rasyonelleşme mutlaka TÜİK’e de uğramalı](profdr-burak-arzova-2024-07-12.md)
 - [Hangi enflasyon rakamına inanacağız?](profdr-burak-arzova-2024-07-05.md)
 - [Sanayide ivme kaybı devam ediyor](profdr-burak-arzova-2024-06-28.md)
@@ -15,4 +16,3 @@
 - [Enflasyonla mücadelenin en büyük düşmanı: Eylemsizlik](profdr-burak-arzova-2024-04-19.md)
 - [Seçim sonrası ekonomi senaryoları](profdr-burak-arzova-2024-04-05.md)
 - [Azalan emekli refahından gümüş ekonomi doğar mı?](profdr-burak-arzova-2024-03-29.md)
-- [Enflasyonla mücadelede Merkez Bankası’nın yaptıkları ve yapamadıkları](profdr-burak-arzova-2024-03-22.md)
