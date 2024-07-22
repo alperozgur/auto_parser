@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [MHP'nin hedefindeki 154 kişi](baris-terkoglu-2024-07-22.md)
 - [Darbecilerin terfisi devlet sırrı oldu](baris-terkoglu-2024-07-18.md)
 - [Soylu’nun tasfiye ettiği 15 Temmuz gazisi](baris-terkoglu-2024-07-15.md)
 - [Sedat Peker’in uyardığı şirket](baris-terkoglu-2024-07-11.md)
@@ -14,4 +15,4 @@
 - [Gümrükten valiz kaçıran komutan](baris-terkoglu-2024-06-10.md)
 - [CHP’den bakana ‘normalleşme’ telefonu](baris-terkoglu-2024-06-06.md)
 - [Umut astsubayın haber olmayan ölümü](baris-terkoglu-2024-06-03.md)
-- [Her gördüğün kamuflajlıyı asker sanma](baris-terkoglu-2024-05-30.md)
+- [MHP'nin hedefindeki 154 kişi](baris-terkoglu-2024-07-22.md)
