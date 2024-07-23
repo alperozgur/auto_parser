@@ -15,4 +15,3 @@
 - [Gümrükten valiz kaçıran komutan](baris-terkoglu-2024-06-10.md)
 - [CHP’den bakana ‘normalleşme’ telefonu](baris-terkoglu-2024-06-06.md)
 - [Umut astsubayın haber olmayan ölümü](baris-terkoglu-2024-06-03.md)
-- [MHP'nin hedefindeki 154 kişi](baris-terkoglu-2024-07-22.md)

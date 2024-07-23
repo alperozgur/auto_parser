@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Sahilleri kimler sömürüyor](murat-agirel-2024-07-23.md)
 - [Vergi kültürü](murat-agirel-2024-07-20.md)
 - [Yaşadıklarımın Çığlığı](murat-agirel-2024-07-16.md)
 - [İddianamenin ayrıntıları](murat-agirel-2024-07-15.md)
@@ -14,4 +15,3 @@
 - [Yargıç Gül Altınok’un önlenemeyen yasadışı ilişkileri nasıl sürdü? 'Adliye'nin perde arkası](murat-agirel-2024-06-25.md)
 - [Biz gazetecilik yaptıkça zıplayacaklar](murat-agirel-2024-06-22.md)
 - [Hiçbir başarı cezasız kalmaz!](murat-agirel-2024-06-18.md)
-- ['Vergiden kaçınmak' ve Dilan Polat davası](murat-agirel-2024-06-15.md)
