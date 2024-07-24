@@ -99,7 +99,7 @@ Ancak personelin kendi içindeki iletişimi sayesinde bazı tespitler var.
 
 Örneğin, Edirne'de yardımcısı uyuşturucu ticaretine karıştığı iddiasıyla yargılanan ve merkeze çekilen Mustafa Alçalar bu isimlerden birisi.
 
-Örneğin, Mersin'de kardeşi hakkında uyuşturucu ticareti soruşturması başlatılan Mehmet Aslan diğer isimlerden.
+Örneğin, Mersin'de kardeşi hakkında sigara kaçakçılığı soruşturması yürütülen Mehmet Aslan diğer isimlerden.
 
 Örneğin, Adana'dan alınan Doğan İnci. Bodrum ve Marmaris'te ortaya atılan kimi iddialar sonrasında Muğla'dan merkeze çekilen Suvat Dilberoğlu.
 

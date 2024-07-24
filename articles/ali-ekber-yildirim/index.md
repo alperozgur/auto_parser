@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Fındıkta hasat öncesi fiyat beklentisi](ali-ekber-yildirim-2024-07-24.md)
 - [Hayvancılıkta 5 yıllık yol haritasının Amerika’ya sağladığı fırsatlar](ali-ekber-yildirim-2024-07-17.md)
 - [Afgan çobanlara muhtaç olmak](ali-ekber-yildirim-2024-07-16.md)
 - [Yeterli limonumuz var ama kilosu 100 liracık](ali-ekber-yildirim-2024-07-09.md)
@@ -15,4 +16,3 @@
 - [Çiftçilerin sesine kulak verilmeli](ali-ekber-yildirim-2024-05-14.md)
 - [Geyve ayvası üretiminde yaşanan sorunlar ve öneriler](ali-ekber-yildirim-2024-05-08.md)
 - [Zeytinyağı ihracatını kim engelliyor?](ali-ekber-yildirim-2024-05-07.md)
-- [İhracattan dönen gıdaları bize mi yediriyorlar?](ali-ekber-yildirim-2024-04-24.md)

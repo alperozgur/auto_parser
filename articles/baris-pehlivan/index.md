@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Bahçeli’nin dilinin altındaki iki isim](baris-pehlivan-2024-07-24.md)
 - [Soylu ne yapmaya çalışıyor?](baris-pehlivan-2024-07-17.md)
 - [Yandı, bitti, kül oldu](baris-pehlivan-2024-07-12.md)
 - [Ne olacak bu 17 kişinin hali?](baris-pehlivan-2024-07-10.md)
@@ -14,4 +15,3 @@
 - [AKP kendi teklifini nasıl geri çekti](baris-pehlivan-2024-05-31.md)
 - [Kim bu videoları izleyenler?](baris-pehlivan-2024-05-29.md)
 - [Tetikçinin silinen görüşmeleri](baris-pehlivan-2024-05-24.md)
-- [Kayıp altın dosyasında garip işler](baris-pehlivan-2024-05-22.md)
