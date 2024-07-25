@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [154’lükler şimdi ne yapacak?](baris-terkoglu-2024-07-25.md)
 - [MHP'nin hedefindeki 154 kişi](baris-terkoglu-2024-07-22.md)
 - [Darbecilerin terfisi devlet sırrı oldu](baris-terkoglu-2024-07-18.md)
 - [Soylu’nun tasfiye ettiği 15 Temmuz gazisi](baris-terkoglu-2024-07-15.md)
@@ -14,4 +15,3 @@
 - [Yoksa 'beşli çete'yi unuttuk mu](baris-terkoglu-2024-06-13.md)
 - [Gümrükten valiz kaçıran komutan](baris-terkoglu-2024-06-10.md)
 - [CHP’den bakana ‘normalleşme’ telefonu](baris-terkoglu-2024-06-06.md)
-- [Umut astsubayın haber olmayan ölümü](baris-terkoglu-2024-06-03.md)
