@@ -15,4 +15,3 @@
 - [Keşke bu yazıdakiler yalan olsa](baris-pehlivan-2024-06-05.md)
 - [AKP kendi teklifini nasıl geri çekti](baris-pehlivan-2024-05-31.md)
 - [Kim bu videoları izleyenler?](baris-pehlivan-2024-05-29.md)
-- [AKP’li Külünk: ‘Erdoğan sosyolojisi eriyor’](baris-pehlivan-2024-07-26.md)
