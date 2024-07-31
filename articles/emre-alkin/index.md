@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Bıraksalar ekonomi kendi kendine düzelir...”](emre-alkin-2024-07-31.md)
 - [“Not artışı ve ötesi…”](emre-alkin-2024-07-24.md)
 - ["Tok açın halinden anlamaz..."](emre-alkin-2024-07-17.md)
 - [“Enflasyon verisini budamak!..”](emre-alkin-2024-07-10.md)
@@ -15,4 +16,3 @@
 - [“AVM’den KKM’ye…”](emre-alkin-2024-04-24.md)
 - ["Avrupa'dan pahalı olmayı nasıl başardık?..."](emre-alkin-2024-04-17.md)
 - [“Seçimden sonra olmadı, bayramdan sonra belki…”](emre-alkin-2024-04-10.md)
-- ["Ekonomi yönetimi ?!..."](emre-alkin-2024-04-03.md)

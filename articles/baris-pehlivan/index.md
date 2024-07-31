@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Hayvan gibi yas tutamayanlar](baris-pehlivan-2024-07-31.md)
 - [AKP’li Külünk: ‘Erdoğan sosyolojisi eriyor’](baris-pehlivan-2024-07-26.md)
 - [Bahçeli’nin dilinin altındaki iki isim](baris-pehlivan-2024-07-24.md)
 - [Soylu ne yapmaya çalışıyor?](baris-pehlivan-2024-07-17.md)
@@ -14,4 +15,3 @@
 - [İşte o dosya böyle kapatıldı](baris-pehlivan-2024-06-07.md)
 - [Keşke bu yazıdakiler yalan olsa](baris-pehlivan-2024-06-05.md)
 - [AKP kendi teklifini nasıl geri çekti](baris-pehlivan-2024-05-31.md)
-- [Kim bu videoları izleyenler?](baris-pehlivan-2024-05-29.md)
