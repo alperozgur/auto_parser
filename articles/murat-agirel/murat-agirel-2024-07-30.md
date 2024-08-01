@@ -18,7 +18,7 @@ Yine Göcek bölgesindeki Ayten Koyu için ise Çevre Bakanlığı Tabiat Varlı
 
 Ama amaç başka tabii. Ayrıntıya gireyim...
 
-Ayten Koyu, 33 yıllık bir sözleşmeyle yıllık 700 bin TL bedelle, kâğıt üstünde 46 tekne konaklamasına müsait bir marina yapılması amacıyla kiraya verildi.
+Ali Boratov’un maviyolculukrehberi.net adlı sitesinde yer alan habere göre, Ayten Koyu, 33 yıllık bir sözleşmeyle yıllık 700 bin TL bedelle, kâğıt üstünde 46 tekne konaklamasına müsait bir marina yapılması amacıyla kiraya verildi.
 
 Buna karşılık, kiracı şirket (Ege Marina AŞ) ÇED başvurusunda 13 milyon TL değerinde yatırım yapılacağını belirtti.
 

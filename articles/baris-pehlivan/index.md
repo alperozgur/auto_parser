@@ -11,7 +11,7 @@
 - [MİT Gerçeği](baris-pehlivan-2024-06-28.md)
 - [Cemaatten daire başkanlığına...](baris-pehlivan-2024-06-26.md)
 - [Sen misin örgütü çökerten!](baris-pehlivan-2024-06-14.md)
-- [Köpeğin havlamasından rahatsız olan başkan](baris-pehlivan-2024-06-12.md)
 - [İşte o dosya böyle kapatıldı](baris-pehlivan-2024-06-07.md)
 - [Keşke bu yazıdakiler yalan olsa](baris-pehlivan-2024-06-05.md)
 - [AKP kendi teklifini nasıl geri çekti](baris-pehlivan-2024-05-31.md)
+- [Kim bu videoları izleyenler?](baris-pehlivan-2024-05-29.md)

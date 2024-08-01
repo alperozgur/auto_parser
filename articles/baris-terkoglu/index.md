@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Mossad’ın Türkiye’deki suikast hazırlığı](baris-terkoglu-2024-08-01.md)
 - [Devleti esir alan zorbalık](baris-terkoglu-2024-07-29.md)
 - [154’lükler şimdi ne yapacak?](baris-terkoglu-2024-07-25.md)
 - [MHP'nin hedefindeki 154 kişi](baris-terkoglu-2024-07-22.md)
@@ -14,4 +15,4 @@
 - [OYAK’ta neler oluyor!](baris-terkoglu-2024-06-20.md)
 - [Bayrama kalmış seyran notları](baris-terkoglu-2024-06-17.md)
 - [Yoksa 'beşli çete'yi unuttuk mu](baris-terkoglu-2024-06-13.md)
-- [Gümrükten valiz kaçıran komutan](baris-terkoglu-2024-06-10.md)
+- [Mossad’ın Türkiye’deki suikast hazırlığı](baris-terkoglu-2024-08-01.md)
