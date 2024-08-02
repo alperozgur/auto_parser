@@ -15,4 +15,3 @@
 - [OYAK’ta neler oluyor!](baris-terkoglu-2024-06-20.md)
 - [Bayrama kalmış seyran notları](baris-terkoglu-2024-06-17.md)
 - [Yoksa 'beşli çete'yi unuttuk mu](baris-terkoglu-2024-06-13.md)
-- [Mossad’ın Türkiye’deki suikast hazırlığı](baris-terkoglu-2024-08-01.md)

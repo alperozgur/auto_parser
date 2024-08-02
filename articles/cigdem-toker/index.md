@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- ["Çok kazanandan çok" masalı sıktı](cigdem-toker-2024-08-02.md)
 - [Sahipsiz hayvanlar ve ekonomik buhran](cigdem-toker-2024-07-31.md)
 - [Ekonominin sahte şenliği](cigdem-toker-2024-07-24.md)
 - [KÖİ patronlarının vergisi nereye gidecek?](cigdem-toker-2024-07-19.md)
@@ -11,4 +12,3 @@
 - [Rüşvet tescilliyken Gri Liste'den çıkmak](cigdem-toker-2024-06-28.md)
 - [Rüşvet suçu kara paranın öncülü değil miydi?](cigdem-toker-2024-06-26.md)
 - [Tasarruf paketi umursanmadı](cigdem-toker-2024-06-21.md)
-- ["Fonlandırılan öğretmenler"](cigdem-toker-2024-06-19.md)
