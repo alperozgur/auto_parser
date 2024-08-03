@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Gözünüz açık olsun](murat-agirel-2024-08-03.md)
 - [Marina projeleriyle sahilleri halka kapattılar](murat-agirel-2024-07-30.md)
 - [Göcek’te neler oluyor](murat-agirel-2024-07-27.md)
 - [Sahilleri kimler sömürüyor](murat-agirel-2024-07-23.md)
@@ -14,4 +15,3 @@
 - [Dolandırıcılıkta yapay zekâ dönemi başladı!](murat-agirel-2024-07-02.md)
 - [Kabinede neler oluyor?](murat-agirel-2024-06-29.md)
 - [1128 yıl hapis cezası alıp nasıl tahliye olursunuz?](murat-agirel-2024-06-26.md)
-- [Yargıç Gül Altınok’un önlenemeyen yasadışı ilişkileri nasıl sürdü? 'Adliye'nin perde arkası](murat-agirel-2024-06-25.md)
