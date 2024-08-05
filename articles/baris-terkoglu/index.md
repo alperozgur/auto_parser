@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Şûrası olmayan şûra](baris-terkoglu-2024-08-05.md)
 - [Mossad’ın Türkiye’deki suikast hazırlığı](baris-terkoglu-2024-08-01.md)
 - [Devleti esir alan zorbalık](baris-terkoglu-2024-07-29.md)
 - [154’lükler şimdi ne yapacak?](baris-terkoglu-2024-07-25.md)
@@ -14,4 +15,3 @@
 - [Üç hilalin gölgesindeki suç örgütü](baris-terkoglu-2024-06-24.md)
 - [OYAK’ta neler oluyor!](baris-terkoglu-2024-06-20.md)
 - [Bayrama kalmış seyran notları](baris-terkoglu-2024-06-17.md)
-- [Yoksa 'beşli çete'yi unuttuk mu](baris-terkoglu-2024-06-13.md)
