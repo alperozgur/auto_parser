@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Çukurova’da su bitti, çiftçiye “ekmeyin” mesajı gönderildi](ali-ekber-yildirim-2024-08-06.md)
 - [Hayvancılık destekleri sorunları çözmeye yeter mi?](ali-ekber-yildirim-2024-07-31.md)
 - [Fındıkta hasat öncesi fiyat beklentisi](ali-ekber-yildirim-2024-07-24.md)
 - [Hayvancılıkta 5 yıllık yol haritasının Amerika’ya sağladığı fırsatlar](ali-ekber-yildirim-2024-07-17.md)
@@ -15,4 +16,3 @@
 - [Tahılda arz güvenliği, tehditler ve çözüm önerileri](ali-ekber-yildirim-2024-05-21.md)
 - [Tarımın başladığı topraklar; Çayönü Tepesi](ali-ekber-yildirim-2024-05-17.md)
 - [Çiftçilerin sesine kulak verilmeli](ali-ekber-yildirim-2024-05-14.md)
-- [Geyve ayvası üretiminde yaşanan sorunlar ve öneriler](ali-ekber-yildirim-2024-05-08.md)

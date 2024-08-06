@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Yerlikaya'nın konutundan çıkan ikamet izinlerinin arkasında ne var?](tolga-sardan-buyutec-2024-08-06.md)
 - [Sonunda bu da oldu: İçişleri Bakanı Yerlikaya'nın konutundan, iki yabancı adına kayıtlı iki ikamet izni çıktı!](tolga-sardan-buyutec-2024-08-02.md)
 - [MHP'li Yönter'in kardeşine rüşvet suçlaması: Savcılık, 6 yıldan 16 yıla kadar hapis cezası istedi](tolga-sardan-buyutec-2024-07-30.md)
 - [Ayhan Bora Kaplan’ın Emniyet’teki bağlantılarını araştıran iki polis başmüfettişi emekli edildi!](tolga-sardan-buyutec-2024-07-26.md)
@@ -11,4 +12,3 @@
 - [350 bin personeli olan Emniyet teşkilatının geleceği, "bir kişiye" mi bağlı?](tolga-sardan-buyutec-2024-07-02.md)
 - [Hülya Şellavcı'nın katledilmesinde İçişleri Bakanlığı kusurlu bulunup tazminat ödeyecek ancak tazminata neden polisler beraat etti!](tolga-sardan-buyutec-2024-06-28.md)
 - [Başsavcı Uçar'ın mektubunda son durum: Hangi hâkime ihraç istendi?](tolga-sardan-buyutec-2024-06-25.md)
-- [FETÖ'den tutuklanan MHP'linin dosyasındaki MİT yazışmalarının detaylarında neler var?](tolga-sardan-buyutec-2024-06-21.md)
