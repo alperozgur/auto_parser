@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [İçerden ayçiçeği alana ucuz ithalat kapısı açıldı](ali-ekber-yildirim-2024-08-07.md)
 - [Çukurova’da su bitti, çiftçiye “ekmeyin” mesajı gönderildi](ali-ekber-yildirim-2024-08-06.md)
 - [Hayvancılık destekleri sorunları çözmeye yeter mi?](ali-ekber-yildirim-2024-07-31.md)
 - [Fındıkta hasat öncesi fiyat beklentisi](ali-ekber-yildirim-2024-07-24.md)
@@ -15,4 +16,3 @@
 - [Buğday fiyatı ne zaman açıklanacak?](ali-ekber-yildirim-2024-05-22.md)
 - [Tahılda arz güvenliği, tehditler ve çözüm önerileri](ali-ekber-yildirim-2024-05-21.md)
 - [Tarımın başladığı topraklar; Çayönü Tepesi](ali-ekber-yildirim-2024-05-17.md)
-- [Çiftçilerin sesine kulak verilmeli](ali-ekber-yildirim-2024-05-14.md)

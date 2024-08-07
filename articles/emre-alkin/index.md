@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- ["Erken faiz indirimi kapıda mı, değil mi?"](emre-alkin-2024-08-07.md)
 - [“Bıraksalar ekonomi kendi kendine düzelir...”](emre-alkin-2024-07-31.md)
 - [“Not artışı ve ötesi…”](emre-alkin-2024-07-24.md)
 - ["Tok açın halinden anlamaz..."](emre-alkin-2024-07-17.md)
@@ -15,4 +16,3 @@
 - [Ekonomi yönetiminin sorunları çözmek için sağlam bir reçetesi yok!](emre-alkin-2024-05-01.md)
 - [“AVM’den KKM’ye…”](emre-alkin-2024-04-24.md)
 - ["Avrupa'dan pahalı olmayı nasıl başardık?..."](emre-alkin-2024-04-17.md)
-- [“Seçimden sonra olmadı, bayramdan sonra belki…”](emre-alkin-2024-04-10.md)
