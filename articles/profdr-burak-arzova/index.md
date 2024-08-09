@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Instagram yasağı bir yasaktan daha ötesi](profdr-burak-arzova-2024-08-09.md)
 - [Sanayi için durum gitgide kötüleşiyor](profdr-burak-arzova-2024-08-02.md)
 - [Rekabet noksanlığı enflasyonun temel sebeplerinden biri](profdr-burak-arzova-2024-07-26.md)
 - [Hizmet enflasyonu küresel ekonomi için hala bir tehdit](profdr-burak-arzova-2024-07-19.md)
@@ -15,4 +16,3 @@
 - [Enflasyonun görünen ve görünmeyen yüzü](profdr-burak-arzova-2024-05-10.md)
 - [Kamuda nereden tasarruf etmeliyiz sorusuna cevap: Sayıştay raporları](profdr-burak-arzova-2024-05-03.md)
 - [Türkiye için de mali kurallara ihtiyaç var](profdr-burak-arzova-2024-04-26.md)
-- [Enflasyonla mücadelenin en büyük düşmanı: Eylemsizlik](profdr-burak-arzova-2024-04-19.md)

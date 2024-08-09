@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Ev satın alırken nasıl dolandırıldılar](baris-pehlivan-2024-08-09.md)
 - [Ya Erdoğan kimin adayıydı?](baris-pehlivan-2024-08-07.md)
 - [Genco Erkal’ı neden yalnız bıraktınız?](baris-pehlivan-2024-08-02.md)
 - [Hayvan gibi yas tutamayanlar](baris-pehlivan-2024-07-31.md)
@@ -14,4 +15,3 @@
 - [Cemaatten daire başkanlığına...](baris-pehlivan-2024-06-26.md)
 - [Sen misin örgütü çökerten!](baris-pehlivan-2024-06-14.md)
 - [İşte o dosya böyle kapatıldı](baris-pehlivan-2024-06-07.md)
-- [Keşke bu yazıdakiler yalan olsa](baris-pehlivan-2024-06-05.md)

@@ -1,5 +1,6 @@
 # Şant Manukyan
 
+- [İzin verin tanıştırayım](sant-manukyan-2024-08-09.md)
 - [Kolay para](sant-manukyan-2024-07-26.md)
 - [ABD siyaseti](sant-manukyan-2024-07-05.md)
 - [Gelir Bilgi dağılımı eşitsizliğine dikkat](sant-manukyan-2024-06-28.md)
@@ -15,4 +16,3 @@
 - [Dow Jones’ta tarihi zirve ve Fed](sant-manukyan-2023-12-15.md)
 - [Piyasanın söylediği Fed’in anladığı](sant-manukyan-2023-12-01.md)
 - [Enflasyon gerilerken](sant-manukyan-2023-11-17.md)
-- [Piyasalar: Duygular vs gerçekler](sant-manukyan-2023-11-10.md)
