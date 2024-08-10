@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Evreşe talanı](murat-agirel-2024-08-10.md)
 - [‘Bungalov tatili’ dolandırıcıları](murat-agirel-2024-08-06.md)
 - [Gözünüz açık olsun](murat-agirel-2024-08-03.md)
 - [Marina projeleriyle sahilleri halka kapattılar](murat-agirel-2024-07-30.md)
@@ -14,4 +15,3 @@
 - [Plajları parsel parsel satan hangi iktidar?](murat-agirel-2024-07-09.md)
 - [Sinan Ateş davasında neler gördüm](murat-agirel-2024-07-06.md)
 - [Dolandırıcılıkta yapay zekâ dönemi başladı!](murat-agirel-2024-07-02.md)
-- [Kabinede neler oluyor?](murat-agirel-2024-06-29.md)
