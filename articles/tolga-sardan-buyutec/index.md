@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [İşte Masquarade’ın sicili!](tolga-sardan-buyutec-2024-08-14.md)
 - [Beşiktaş yangınını soruşturan müfettişlerin raporundan çıkan skandal!](tolga-sardan-buyutec-2024-08-13.md)
 - [Emniyet'te borçlu emeklilik ve liyakat meselesi, TFF Başkanı ve Aksaray'da yıkılan otogarın öyküsü](tolga-sardan-buyutec-2024-08-09.md)
 - [Yerlikaya'nın konutundan çıkan ikamet izinlerinin arkasında ne var?](tolga-sardan-buyutec-2024-08-06.md)
@@ -11,4 +12,3 @@
 - [15 Temmuz'un "kritik ismi" ilk kez konuştu: "2015'teki YAŞ atamaları büyük hataydı"](tolga-sardan-buyutec-2024-07-16.md)
 - [İzin...](tolga-sardan-buyutec-2024-07-09.md)
 - [CMK ile kullanılması gereken kayıt cihazı şubeden nasıl çıktı?](tolga-sardan-buyutec-2024-07-05.md)
-- [350 bin personeli olan Emniyet teşkilatının geleceği, "bir kişiye" mi bağlı?](tolga-sardan-buyutec-2024-07-02.md)

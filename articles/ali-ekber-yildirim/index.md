@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Kavun, karpuz, domates tarlada bedava, rafta ateş pahası](ali-ekber-yildirim-2024-08-14.md)
 - [İçerden ayçiçeği alana ucuz ithalat kapısı açıldı](ali-ekber-yildirim-2024-08-07.md)
 - [Çukurova’da su bitti, çiftçiye “ekmeyin” mesajı gönderildi](ali-ekber-yildirim-2024-08-06.md)
 - [Hayvancılık destekleri sorunları çözmeye yeter mi?](ali-ekber-yildirim-2024-07-31.md)
@@ -15,4 +16,3 @@
 - [Kuzey Kıbrıs çiftçisi ithal ete karşı eylemde](ali-ekber-yildirim-2024-05-28.md)
 - [Buğday fiyatı ne zaman açıklanacak?](ali-ekber-yildirim-2024-05-22.md)
 - [Tahılda arz güvenliği, tehditler ve çözüm önerileri](ali-ekber-yildirim-2024-05-21.md)
-- [Tarımın başladığı topraklar; Çayönü Tepesi](ali-ekber-yildirim-2024-05-17.md)

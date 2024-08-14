@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [İşsizlik oranı işine gelmeyince](cigdem-toker-2024-08-14.md)
 - ["Keenlemyekun" yahut yok hükmünde](cigdem-toker-2024-08-09.md)
 - ["Çok kötü vergi"nin sorumlusu kim?](cigdem-toker-2024-08-07.md)
 - ["Çok kazanandan çok" masalı sıktı](cigdem-toker-2024-08-02.md)
@@ -11,4 +12,3 @@
 - [Akkuyu A.Ş'nin medya atağı](cigdem-toker-2024-07-10.md)
 - [Akkuyu yönetiminde yolsuzluk bitmiyor](cigdem-toker-2024-07-05.md)
 - [Asgari mahcubiyet](cigdem-toker-2024-07-03.md)
-- [Rüşvet tescilliyken Gri Liste'den çıkmak](cigdem-toker-2024-06-28.md)
