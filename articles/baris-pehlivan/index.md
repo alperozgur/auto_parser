@@ -15,4 +15,3 @@
 - [MİT Gerçeği](baris-pehlivan-2024-06-28.md)
 - [Cemaatten daire başkanlığına...](baris-pehlivan-2024-06-26.md)
 - [Sen misin örgütü çökerten!](baris-pehlivan-2024-06-14.md)
-- [AKP’de aslında neler oluyor?](baris-pehlivan-2024-08-14.md)
