@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Neden başaramadığımızı anlatan mektup](baris-pehlivan-2024-08-16.md)
 - [AKP’de aslında neler oluyor?](baris-pehlivan-2024-08-14.md)
 - [Ev satın alırken nasıl dolandırıldılar](baris-pehlivan-2024-08-09.md)
 - [Ya Erdoğan kimin adayıydı?](baris-pehlivan-2024-08-07.md)
@@ -14,4 +15,4 @@
 - [Koca’nın beklenmeyen konuşması](baris-pehlivan-2024-07-03.md)
 - [MİT Gerçeği](baris-pehlivan-2024-06-28.md)
 - [Cemaatten daire başkanlığına...](baris-pehlivan-2024-06-26.md)
-- [Sen misin örgütü çökerten!](baris-pehlivan-2024-06-14.md)
+- [Neden başaramadığımızı anlatan mektup](baris-pehlivan-2024-08-16.md)

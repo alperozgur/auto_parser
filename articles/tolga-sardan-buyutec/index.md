@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Santa Maria Kilisesi saldırısının Moskova bağı](tolga-sardan-buyutec-2024-08-16.md)
 - [İşte Masquarade’ın sicili!](tolga-sardan-buyutec-2024-08-14.md)
 - [Beşiktaş yangınını soruşturan müfettişlerin raporundan çıkan skandal!](tolga-sardan-buyutec-2024-08-13.md)
 - [Emniyet'te borçlu emeklilik ve liyakat meselesi, TFF Başkanı ve Aksaray'da yıkılan otogarın öyküsü](tolga-sardan-buyutec-2024-08-09.md)
@@ -11,4 +12,3 @@
 - [AKP dönemindeki ilk "partili vali" ataması ve Özel Harekât'taki fotoğraf!](tolga-sardan-buyutec-2024-07-19.md)
 - [15 Temmuz'un "kritik ismi" ilk kez konuştu: "2015'teki YAŞ atamaları büyük hataydı"](tolga-sardan-buyutec-2024-07-16.md)
 - [İzin...](tolga-sardan-buyutec-2024-07-09.md)
-- [CMK ile kullanılması gereken kayıt cihazı şubeden nasıl çıktı?](tolga-sardan-buyutec-2024-07-05.md)
