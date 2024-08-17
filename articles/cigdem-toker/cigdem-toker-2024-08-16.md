@@ -24,7 +24,7 @@ Bu kararlılık, KÖİ müteahhitleriyle kurdukları çok özel iş birliğinin 
 
 Emek’in aktardığı bilgilere göre:
 
--25 yıl için kira olarak DHMİ’ye toplam 297 bin 100 avro+KDV avro ödeyecek olan şirkete, toplamda 126 milyon 421 bin 212 avro gelir garantisi verildi.
+-25 yıl için kira olarak DHMİ’ye toplam 297 milyon 100 bin avro+KDV avro ödeyecek olan şirkete, toplamda 126 milyon 421 bin 212 avro gelir garantisi verildi.
 
 Bu da bugünün kuruyla yaklaşık 4,7 milyar TL’ye karşılık geliyor.
 

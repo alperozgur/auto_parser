@@ -15,4 +15,3 @@
 - [Koca’nın beklenmeyen konuşması](baris-pehlivan-2024-07-03.md)
 - [MİT Gerçeği](baris-pehlivan-2024-06-28.md)
 - [Cemaatten daire başkanlığına...](baris-pehlivan-2024-06-26.md)
-- [Neden başaramadığımızı anlatan mektup](baris-pehlivan-2024-08-16.md)
