@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Defterleri karıştırdıkça](murat-agirel-2024-08-20.md)
 - [Adana bunu unutmaz](murat-agirel-2024-08-17.md)
 - [Antik kent kapısı rant kapısı](murat-agirel-2024-08-13.md)
 - [Evreşe talanı](murat-agirel-2024-08-10.md)
@@ -14,4 +15,3 @@
 - [Engin Polat'ın Gürcistan seyahatleri](murat-agirel-2024-07-13.md)
 - [Kurban edilen Kumburnu](murat-agirel-2024-07-12.md)
 - [Fethiye’de dönen dalavere](murat-agirel-2024-07-11.md)
-- [Plajları parsel parsel satan hangi iktidar?](murat-agirel-2024-07-09.md)
