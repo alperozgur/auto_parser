@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Enflasyonda düşüş beklentileri neden oluşmuyor?](profdr-burak-arzova-2024-08-23.md)
 - [Türkiye stagflasyonun eşiğinde mi?](profdr-burak-arzova-2024-08-16.md)
 - [Instagram yasağı bir yasaktan daha ötesi](profdr-burak-arzova-2024-08-09.md)
 - [Sanayi için durum gitgide kötüleşiyor](profdr-burak-arzova-2024-08-02.md)
@@ -15,4 +16,3 @@
 - [Agresif rezerv biriktirmenin iki ucu](profdr-burak-arzova-2024-05-24.md)
 - [Boş çuval dik durmaz](profdr-burak-arzova-2024-05-26.md)
 - [Enflasyonun görünen ve görünmeyen yüzü](profdr-burak-arzova-2024-05-10.md)
-- [Kamuda nereden tasarruf etmeliyiz sorusuna cevap: Sayıştay raporları](profdr-burak-arzova-2024-05-03.md)

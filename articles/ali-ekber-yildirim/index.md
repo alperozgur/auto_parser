@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Tarım Bakanlığı 2 yıl ekilmeyen tarım arazilerini kiraya verecek](ali-ekber-yildirim-2024-08-23.md)
 - [Güngör Uras’ın yıllar geçse de eskimeyen yazıları](ali-ekber-yildirim-2024-08-20.md)
 - [Kavun, karpuz, domates tarlada bedava, rafta ateş pahası](ali-ekber-yildirim-2024-08-14.md)
 - [İçerden ayçiçeği alana ucuz ithalat kapısı açıldı](ali-ekber-yildirim-2024-08-07.md)
@@ -15,4 +16,3 @@
 - [Tarımsal planlamanın “amiral gemisi” battı](ali-ekber-yildirim-2024-06-11.md)
 - [Canlı hayvan ve karkas et ithalatında son durum](ali-ekber-yildirim-2024-05-29.md)
 - [Kuzey Kıbrıs çiftçisi ithal ete karşı eylemde](ali-ekber-yildirim-2024-05-28.md)
-- [Buğday fiyatı ne zaman açıklanacak?](ali-ekber-yildirim-2024-05-22.md)

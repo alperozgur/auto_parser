@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Diyarbakır - Mersin hattında skunk operasyonundan yansıyanlar ve yeni Emniyet Genel Müdürü’nü bekleyen tablo](tolga-sardan-buyutec-2024-08-23.md)
 - [Jandarma'yı sarsan aşk skandalı ve Emniyet'te MHP'siz atamalarla değişen dengeler](tolga-sardan-buyutec-2024-08-20.md)
 - [Santa Maria Kilisesi saldırısının Moskova bağı](tolga-sardan-buyutec-2024-08-16.md)
 - [İşte Masquarade’ın sicili!](tolga-sardan-buyutec-2024-08-14.md)
@@ -11,4 +12,3 @@
 - [Ayhan Bora Kaplan’ın Emniyet’teki bağlantılarını araştıran iki polis başmüfettişi emekli edildi!](tolga-sardan-buyutec-2024-07-26.md)
 - [Emniyet'i karıştıran emeklilikler ve kuruldan çıkan "korsan karar" iddiası!](tolga-sardan-buyutec-2024-07-23.md)
 - [AKP dönemindeki ilk "partili vali" ataması ve Özel Harekât'taki fotoğraf!](tolga-sardan-buyutec-2024-07-19.md)
-- [15 Temmuz'un "kritik ismi" ilk kez konuştu: "2015'teki YAŞ atamaları büyük hataydı"](tolga-sardan-buyutec-2024-07-16.md)
