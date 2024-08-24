@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Kitabım toplatılmak isteniyor](murat-agirel-2024-08-24.md)
 - [Defterleri karıştırdıkça](murat-agirel-2024-08-20.md)
 - [Adana bunu unutmaz](murat-agirel-2024-08-17.md)
 - [Antik kent kapısı rant kapısı](murat-agirel-2024-08-13.md)
@@ -14,4 +15,3 @@
 - [İddianamenin ayrıntıları](murat-agirel-2024-07-15.md)
 - [Engin Polat'ın Gürcistan seyahatleri](murat-agirel-2024-07-13.md)
 - [Kurban edilen Kumburnu](murat-agirel-2024-07-12.md)
-- [Fethiye’de dönen dalavere](murat-agirel-2024-07-11.md)
