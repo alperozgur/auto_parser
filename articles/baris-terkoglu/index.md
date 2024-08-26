@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Jandarma’da neler oluyor](baris-terkoglu-2024-08-26.md)
 - [Hâkimlerin yargılayacağı hâkimler](baris-terkoglu-2024-08-22.md)
 - [Şûrası olmayan şûra](baris-terkoglu-2024-08-05.md)
 - [Mossad’ın Türkiye’deki suikast hazırlığı](baris-terkoglu-2024-08-01.md)
@@ -14,4 +15,4 @@
 - [Hacda protokol bekleyen general](baris-terkoglu-2024-07-01.md)
 - [Hakan Fidan’a yollanan ifşa mesajı](baris-terkoglu-2024-06-27.md)
 - [Üç hilalin gölgesindeki suç örgütü](baris-terkoglu-2024-06-24.md)
-- [OYAK’ta neler oluyor!](baris-terkoglu-2024-06-20.md)
+- [Jandarma’da neler oluyor](baris-terkoglu-2024-08-26.md)
