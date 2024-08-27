@@ -14,7 +14,7 @@ Yine garip bir dolandırıcılık. Bu kez gerçekten herkesin başına gelebilec
 
 İ.K., 12 Aralık 2024 tarihinde Safir Bungalov isimli işletmeyi aradı, kiralama için Vahide Selin Tek’e ait hesaba 7 bin TL para aktardı.
 
-H.K., 6 Eylül 2023 tarihinde “safirbungalovevleri.com” sitesi üzerinden tatil yapmak için Murat Karakelle adlı kişiyle anlaştı, 7 bin TL gönderdi.
+H.K., 6 Eylül 2023 tarihinde “safirbungalovevleri.com” sitesi üzerinden tatil yapmak için Osmaniye'de ikamet eden Murat Karakelle adlı kişiyle anlaştı, 7 bin TL gönderdi.
 
 Uzatmayayım... Tam 16 kişi son dönemde yapılan reklamlar ile iyi meşhur olan ve tercih edilen konuma gelen bungalov evlerde tatil yapmak umudu ile en kalitelisini en ucuza bulmak adına internette arama yaparken dolandırıldı.
 

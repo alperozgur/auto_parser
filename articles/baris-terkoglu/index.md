@@ -15,4 +15,3 @@
 - [Hacda protokol bekleyen general](baris-terkoglu-2024-07-01.md)
 - [Hakan Fidan’a yollanan ifşa mesajı](baris-terkoglu-2024-06-27.md)
 - [Üç hilalin gölgesindeki suç örgütü](baris-terkoglu-2024-06-24.md)
-- [Jandarma’da neler oluyor](baris-terkoglu-2024-08-26.md)
