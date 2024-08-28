@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Enflasyonda doğru reçeteyi yazmak için…”](emre-alkin-2024-08-28.md)
 - [“Çok şükür demek yerine başardık diyoruz…”](emre-alkin-2024-08-21.md)
 - [“Başarısızlığa kayıtsız kalmak başarıyı önemsizleştirir..."](emre-alkin-2024-08-14.md)
 - ["Erken faiz indirimi kapıda mı, değil mi?"](emre-alkin-2024-08-07.md)
@@ -15,4 +16,3 @@
 - [“Bakalım müzik durunca kim ayakta kalacak?”](emre-alkin-2024-05-22.md)
 - ["Kamuda tasarruf ve enflasyon raporu…"](emre-alkin-2024-05-15.md)
 - [“Kredi notu arttı: Bu kadar düşük olması zaten garipti…”](emre-alkin-2024-05-08.md)
-- [Ekonomi yönetiminin sorunları çözmek için sağlam bir reçetesi yok!](emre-alkin-2024-05-01.md)
