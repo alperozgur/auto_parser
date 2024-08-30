@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [İçişleri Bakanlığı, Bodrum'da 4 bin 200 kaçak yapı tespit etti!](tolga-sardan-buyutec-2024-08-30.md)
 - [Mersin'de sonu gelmeyen sıkıntılar…](tolga-sardan-buyutec-2024-08-27.md)
 - [Diyarbakır - Mersin hattında skunk operasyonundan yansıyanlar ve yeni Emniyet Genel Müdürü’nü bekleyen tablo](tolga-sardan-buyutec-2024-08-23.md)
 - [Jandarma'yı sarsan aşk skandalı ve Emniyet'te MHP'siz atamalarla değişen dengeler](tolga-sardan-buyutec-2024-08-20.md)
@@ -11,4 +12,3 @@
 - [Sonunda bu da oldu: İçişleri Bakanı Yerlikaya'nın konutundan, iki yabancı adına kayıtlı iki ikamet izni çıktı!](tolga-sardan-buyutec-2024-08-02.md)
 - [MHP'li Yönter'in kardeşine rüşvet suçlaması: Savcılık, 6 yıldan 16 yıla kadar hapis cezası istedi](tolga-sardan-buyutec-2024-07-30.md)
 - [Ayhan Bora Kaplan’ın Emniyet’teki bağlantılarını araştıran iki polis başmüfettişi emekli edildi!](tolga-sardan-buyutec-2024-07-26.md)
-- [Emniyet'i karıştıran emeklilikler ve kuruldan çıkan "korsan karar" iddiası!](tolga-sardan-buyutec-2024-07-23.md)

@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Mazot ve gübre desteği kaldırıldı, yerine temel destek ödenecek](ali-ekber-yildirim-2024-08-30.md)
 - [İklim değişikliği gıda enflasyonunu tehdit ediyor](ali-ekber-yildirim-2024-08-28.md)
 - [İş Bankası’nın 100. yılında tarımda yeni bir hikâye yazılıyor](ali-ekber-yildirim-2024-08-26.md)
 - [Tarım Bakanlığı 2 yıl ekilmeyen tarım arazilerini kiraya verecek](ali-ekber-yildirim-2024-08-23.md)
@@ -15,4 +16,3 @@
 - [Adana tarımında öne çıkan sorunlar ve çözüm önerileri](ali-ekber-yildirim-2024-07-03.md)
 - [Savaştaki Rusya ve Ukrayna’nın buğday üretimi ve ihracatı](ali-ekber-yildirim-2024-06-25.md)
 - [Buğdayda tek sorun düşük fiyat değil](ali-ekber-yildirim-2024-06-13.md)
-- [Tarımsal planlamanın “amiral gemisi” battı](ali-ekber-yildirim-2024-06-11.md)

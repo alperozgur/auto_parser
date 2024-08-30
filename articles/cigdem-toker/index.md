@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [DPT yeniden açılabilir mi?](cigdem-toker-2024-08-30.md)
 - [Küfürsüz konuşamamak](cigdem-toker-2024-08-28.md)
 - [Muhafazakâr iktidarın ağaç sevgisi](cigdem-toker-2024-08-23.md)
 - [Arhavi'de madencilik istenmiyor](cigdem-toker-2024-08-21.md)
@@ -11,4 +12,3 @@
 - [Sahipsiz hayvanlar ve ekonomik buhran](cigdem-toker-2024-07-31.md)
 - [Ekonominin sahte şenliği](cigdem-toker-2024-07-24.md)
 - [KÖİ patronlarının vergisi nereye gidecek?](cigdem-toker-2024-07-19.md)
-- [Emekliye sefalet artışı dışarıya IMF jargonu](cigdem-toker-2024-07-17.md)

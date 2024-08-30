@@ -1,5 +1,6 @@
 # Şant Manukyan
 
+- [Ne dilediğinize dikkat edin!](sant-manukyan-2024-08-30.md)
 - [Sahnede Fed, geride Çin](sant-manukyan-2024-08-16.md)
 - [İzin verin tanıştırayım](sant-manukyan-2024-08-09.md)
 - [Kolay para](sant-manukyan-2024-07-26.md)
@@ -15,4 +16,3 @@
 - [Piyasalar: Yenilgiye doymayan pehlivan](sant-manukyan-2024-02-02.md)
 - [Fed ve Piyasa](sant-manukyan-2024-01-19.md)
 - [Dow Jones’ta tarihi zirve ve Fed](sant-manukyan-2023-12-15.md)
-- [Piyasanın söylediği Fed’in anladığı](sant-manukyan-2023-12-01.md)

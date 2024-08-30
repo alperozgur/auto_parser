@@ -43,5 +43,5 @@ O "ekmek"in karşılığında, sabah akşam kazma sallayan, iş makinesi kullana
 
 "Ekmek vermek", "ekmeğini yemek"; emeğin gerçek karşılığını bulamadığı, yerine minnetin ikame edildiği toplumların normalleştirdiği deyimlerdir.
 
-Kim kimin ekmeğini yiyor sorusu üzerine ne kadar düşünsek az. Düşünmeye kamu ihalelerin sonuçlarına ve vergi tahsilatlarına bakmaktan başlayabiliriz
+Kim kimin ekmeğini yiyor sorusu üzerine ne kadar düşünsek az. Düşünmeye kamu ihalelerin sonuçlarına ve vergi tahsilatlarına bakmaktan başlayabiliriz.
 
