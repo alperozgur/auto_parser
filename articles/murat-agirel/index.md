@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Çürüme](murat-agirel-2024-08-31.md)
 - [Adliyelerde neler oluyor: Adalet borsası](murat-agirel-2024-08-27.md)
 - [Kitabım toplatılmak isteniyor](murat-agirel-2024-08-24.md)
 - [Defterleri karıştırdıkça](murat-agirel-2024-08-20.md)
@@ -14,4 +15,3 @@
 - [Vergi kültürü](murat-agirel-2024-07-20.md)
 - [Yaşadıklarımın Çığlığı](murat-agirel-2024-07-16.md)
 - [İddianamenin ayrıntıları](murat-agirel-2024-07-15.md)
-- [Engin Polat'ın Gürcistan seyahatleri](murat-agirel-2024-07-13.md)
