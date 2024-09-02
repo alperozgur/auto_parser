@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Zapsu: Ya Mehmet Şimşek ya faşizm](baris-terkoglu-2024-09-02.md)
 - [Vaniköy’deki araziyi sahibinden dinleyin!](baris-terkoglu-2024-08-29.md)
 - [Jandarma’da neler oluyor](baris-terkoglu-2024-08-26.md)
 - [Hâkimlerin yargılayacağı hâkimler](baris-terkoglu-2024-08-22.md)
@@ -14,4 +15,3 @@
 - [İki saatlik OYAK tartışması](baris-terkoglu-2024-07-08.md)
 - [Torbacılar ve tetikçiler ittifakı kaybedecek!](baris-terkoglu-2024-07-04.md)
 - [Hacda protokol bekleyen general](baris-terkoglu-2024-07-01.md)
-- [Hakan Fidan’a yollanan ifşa mesajı](baris-terkoglu-2024-06-27.md)
