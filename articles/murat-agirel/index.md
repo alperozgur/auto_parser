@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Mustafa Kemal'in askerleriyiz](murat-agirel-2024-09-03.md)
 - [Çürüme](murat-agirel-2024-08-31.md)
 - [Adliyelerde neler oluyor: Adalet borsası](murat-agirel-2024-08-27.md)
 - [Kitabım toplatılmak isteniyor](murat-agirel-2024-08-24.md)
@@ -14,4 +15,3 @@
 - [Sahilleri kimler sömürüyor](murat-agirel-2024-07-23.md)
 - [Vergi kültürü](murat-agirel-2024-07-20.md)
 - [Yaşadıklarımın Çığlığı](murat-agirel-2024-07-16.md)
-- [İddianamenin ayrıntıları](murat-agirel-2024-07-15.md)
