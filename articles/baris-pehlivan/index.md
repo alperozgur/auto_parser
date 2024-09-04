@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Saldırıya uğrayan ismin saklı öyküsü](baris-pehlivan-2024-09-04.md)
 - [AKP’ye geçen ‘muhalif’ vekilin borçları](baris-pehlivan-2024-08-30.md)
 - [Okçuların hocasından yanıt var](baris-pehlivan-2024-08-28.md)
 - [Neden başaramadığımızı anlatan mektup](baris-pehlivan-2024-08-16.md)
@@ -14,4 +15,3 @@
 - [Yandı, bitti, kül oldu](baris-pehlivan-2024-07-12.md)
 - [Ne olacak bu 17 kişinin hali?](baris-pehlivan-2024-07-10.md)
 - [Tek kişi mi öldürdü?](baris-pehlivan-2024-07-05.md)
-- [Koca’nın beklenmeyen konuşması](baris-pehlivan-2024-07-03.md)
