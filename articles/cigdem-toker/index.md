@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [OVP fotoğrafı kimin için?](cigdem-toker-2024-09-05.md)
 - [Ankara'nın çayına bak](cigdem-toker-2024-09-04.md)
 - [DPT yeniden açılabilir mi?](cigdem-toker-2024-08-30.md)
 - [Küfürsüz konuşamamak](cigdem-toker-2024-08-28.md)
@@ -11,4 +12,3 @@
 - ["Çok kötü vergi"nin sorumlusu kim?](cigdem-toker-2024-08-07.md)
 - ["Çok kazanandan çok" masalı sıktı](cigdem-toker-2024-08-02.md)
 - [Sahipsiz hayvanlar ve ekonomik buhran](cigdem-toker-2024-07-31.md)
-- [Ekonominin sahte şenliği](cigdem-toker-2024-07-24.md)
