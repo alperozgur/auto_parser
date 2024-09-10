@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Çiftçi gözüyle tarımda yeni destekleme modeli](ali-ekber-yildirim-2024-09-10.md)
 - [Mazot ve gübre desteği kaldırıldı, yerine temel destek ödenecek](ali-ekber-yildirim-2024-08-30.md)
 - [İklim değişikliği gıda enflasyonunu tehdit ediyor](ali-ekber-yildirim-2024-08-28.md)
 - [İş Bankası’nın 100. yılında tarımda yeni bir hikâye yazılıyor](ali-ekber-yildirim-2024-08-26.md)
@@ -15,4 +16,3 @@
 - [Yeterli limonumuz var ama kilosu 100 liracık](ali-ekber-yildirim-2024-07-09.md)
 - [Adana tarımında öne çıkan sorunlar ve çözüm önerileri](ali-ekber-yildirim-2024-07-03.md)
 - [Savaştaki Rusya ve Ukrayna’nın buğday üretimi ve ihracatı](ali-ekber-yildirim-2024-06-25.md)
-- [Buğdayda tek sorun düşük fiyat değil](ali-ekber-yildirim-2024-06-13.md)

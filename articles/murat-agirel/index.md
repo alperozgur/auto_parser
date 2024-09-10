@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Narin ve bataklık](murat-agirel-2024-09-10.md)
 - [Özür dilerim](murat-agirel-2024-09-07.md)
 - [Mustafa Kemal'in askerleriyiz](murat-agirel-2024-09-03.md)
 - [Çürüme](murat-agirel-2024-08-31.md)
@@ -14,4 +15,3 @@
 - [Marina projeleriyle sahilleri halka kapattılar](murat-agirel-2024-07-30.md)
 - [Göcek’te neler oluyor](murat-agirel-2024-07-27.md)
 - [Sahilleri kimler sömürüyor](murat-agirel-2024-07-23.md)
-- [Vergi kültürü](murat-agirel-2024-07-20.md)

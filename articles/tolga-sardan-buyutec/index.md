@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Narin, aile içinde olmaması gereken 'uygunsuz' bir sürece mi tanıklık etti; teğmenlerin yemin krizinin arkasında neler konuşuluyor?](tolga-sardan-buyutec-2024-09-10.md)
 - [Emniyet'ten skunk, kokain ve metamfetamin uyarısı…](tolga-sardan-buyutec-2024-09-07.md)
 - [Emniyet'in yıllık uyuşturucuyla mücadele raporundan yansıyanlar: Tablo her geçen gün daha vahim hale dönüşüyor](tolga-sardan-buyutec-2024-09-06.md)
 - [Gizli tanık Sertçelik'in firarıyla ilgili İçişleri Bakanlığı müfettişleri hangi bilgilere ulaştı?](tolga-sardan-buyutec-2024-09-03.md)
@@ -11,4 +12,3 @@
 - [İşte Masquarade’ın sicili!](tolga-sardan-buyutec-2024-08-14.md)
 - [Beşiktaş yangınını soruşturan müfettişlerin raporundan çıkan skandal!](tolga-sardan-buyutec-2024-08-13.md)
 - [Emniyet'te borçlu emeklilik ve liyakat meselesi, TFF Başkanı ve Aksaray'da yıkılan otogarın öyküsü](tolga-sardan-buyutec-2024-08-09.md)
-- [Yerlikaya'nın konutundan çıkan ikamet izinlerinin arkasında ne var?](tolga-sardan-buyutec-2024-08-06.md)
