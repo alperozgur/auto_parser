@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Hayırlısı olsun denir böylesine…”](emre-alkin-2024-09-11.md)
 - [“Büyüme rakamı bize kısaca ne diyor?”](emre-alkin-2024-09-04.md)
 - [“Enflasyonda doğru reçeteyi yazmak için…”](emre-alkin-2024-08-28.md)
 - [“Çok şükür demek yerine başardık diyoruz…”](emre-alkin-2024-08-21.md)
@@ -15,4 +16,3 @@
 - [“Yanlış veri, yanlış reçete yazdırır…”](emre-alkin-2024-06-05.md)
 - [Konut arzı artınca fiyatlar ve kiralar düşmez](emre-alkin-2024-05-30.md)
 - [“Bakalım müzik durunca kim ayakta kalacak?”](emre-alkin-2024-05-22.md)
-- ["Kamuda tasarruf ve enflasyon raporu…"](emre-alkin-2024-05-15.md)

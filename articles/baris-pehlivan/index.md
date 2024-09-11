@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Hani kalbin kuruyacaktı?](baris-pehlivan-2024-09-11.md)
 - [Emri vereni sorgulayacak cesaretiniz var mı?](baris-pehlivan-2024-09-06.md)
 - [Saldırıya uğrayan ismin saklı öyküsü](baris-pehlivan-2024-09-04.md)
 - [AKP’ye geçen ‘muhalif’ vekilin borçları](baris-pehlivan-2024-08-30.md)
@@ -14,4 +15,3 @@
 - [Bahçeli’nin dilinin altındaki iki isim](baris-pehlivan-2024-07-24.md)
 - [Soylu ne yapmaya çalışıyor?](baris-pehlivan-2024-07-17.md)
 - [Yandı, bitti, kül oldu](baris-pehlivan-2024-07-12.md)
-- [Ne olacak bu 17 kişinin hali?](baris-pehlivan-2024-07-10.md)
