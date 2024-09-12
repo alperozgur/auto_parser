@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Sesini kaybeden masumiyet](baris-terkoglu-2024-09-12.md)
 - [‘Hata yaptık’ diyen karar](baris-terkoglu-2024-09-09.md)
 - [Zapsu: Ya Mehmet Şimşek ya faşizm](baris-terkoglu-2024-09-02.md)
 - [Vaniköy’deki araziyi sahibinden dinleyin!](baris-terkoglu-2024-08-29.md)
@@ -14,4 +15,3 @@
 - [Soylu’nun tasfiye ettiği 15 Temmuz gazisi](baris-terkoglu-2024-07-15.md)
 - [Sedat Peker’in uyardığı şirket](baris-terkoglu-2024-07-11.md)
 - [İki saatlik OYAK tartışması](baris-terkoglu-2024-07-08.md)
-- [Torbacılar ve tetikçiler ittifakı kaybedecek!](baris-terkoglu-2024-07-04.md)
