@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Belediyeler Birliği'nden çarpıcı deprem raporu](cigdem-toker-2024-09-13.md)
 - [Vahdettin Köşkü'nde Kalkınma Fonu](cigdem-toker-2024-09-11.md)
 - [OVP fotoğrafı kimin için?](cigdem-toker-2024-09-05.md)
 - [Ankara'nın çayına bak](cigdem-toker-2024-09-04.md)
@@ -11,4 +12,3 @@
 - [İşsizlik oranı işine gelmeyince](cigdem-toker-2024-08-14.md)
 - ["Keenlemyekun" yahut yok hükmünde](cigdem-toker-2024-08-09.md)
 - ["Çok kötü vergi"nin sorumlusu kim?](cigdem-toker-2024-08-07.md)
-- ["Çok kazanandan çok" masalı sıktı](cigdem-toker-2024-08-02.md)

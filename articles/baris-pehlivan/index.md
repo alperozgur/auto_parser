@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Boy değil işlev](baris-pehlivan-2024-09-13.md)
 - [Hani kalbin kuruyacaktı?](baris-pehlivan-2024-09-11.md)
 - [Emri vereni sorgulayacak cesaretiniz var mı?](baris-pehlivan-2024-09-06.md)
 - [Saldırıya uğrayan ismin saklı öyküsü](baris-pehlivan-2024-09-04.md)
@@ -14,4 +15,3 @@
 - [AKP’li Külünk: ‘Erdoğan sosyolojisi eriyor’](baris-pehlivan-2024-07-26.md)
 - [Bahçeli’nin dilinin altındaki iki isim](baris-pehlivan-2024-07-24.md)
 - [Soylu ne yapmaya çalışıyor?](baris-pehlivan-2024-07-17.md)
-- [Yandı, bitti, kül oldu](baris-pehlivan-2024-07-12.md)

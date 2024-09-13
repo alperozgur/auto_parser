@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Sanayi üretim rakamlarından trichet raporuna bakış](profdr-burak-arzova-2024-09-13.md)
 - [Ağustos ayı enflasyonu moral bozdu](profdr-burak-arzova-2024-09-06.md)
 - [Sanayi kesimi para politikasının etkileri iliklerine kadar hissediyor](profdr-burak-arzova-2024-08-30.md)
 - [Enflasyonda düşüş beklentileri neden oluşmuyor?](profdr-burak-arzova-2024-08-23.md)
@@ -15,4 +16,3 @@
 - [Hazine ve Maliye Bakanlığı aracı kurum gibi hareket edemez](profdr-burak-arzova-2024-06-14.md)
 - [İhracatçıları bekleyen asıl tehlike sabit kur rejimi değil](profdr-burak-arzova-2024-06-07.md)
 - [Sürünen kur rejimi ile ihracatçıdan katkı beklemek çok gerçekçi durmuyor](profdr-burak-arzova-2024-05-31.md)
-- [Agresif rezerv biriktirmenin iki ucu](profdr-burak-arzova-2024-05-24.md)
