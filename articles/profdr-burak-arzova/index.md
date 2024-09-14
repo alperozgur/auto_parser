@@ -1,6 +1,6 @@
 # Burak Arzova
 
-- [Sanayi üretim rakamlarından trichet raporuna bakış](profdr-burak-arzova-2024-09-13.md)
+- [Sanayi üretim rakamlarından Draghi raporuna bakış](profdr-burak-arzova-2024-09-13.md)
 - [Ağustos ayı enflasyonu moral bozdu](profdr-burak-arzova-2024-09-06.md)
 - [Sanayi kesimi para politikasının etkileri iliklerine kadar hissediyor](profdr-burak-arzova-2024-08-30.md)
 - [Enflasyonda düşüş beklentileri neden oluşmuyor?](profdr-burak-arzova-2024-08-23.md)

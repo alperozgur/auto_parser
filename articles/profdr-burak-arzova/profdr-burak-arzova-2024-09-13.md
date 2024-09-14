@@ -2,7 +2,7 @@
 
 ### Yayımlanma tarihi: 2024-09-13
 
-# Sanayi üretim rakamlarından trichet raporuna bakış
+# Sanayi üretim rakamlarından Draghi raporuna bakış
 
 2024 yılının 3. Çeyrek Büyümesine ilişkin olarak öncü gösterge olarak kabul edebileceğimiz Temmuz ayı Sanayi Üretimi verisi 10.Eylül.2024 tarihinde TÜİK tarafından açıklandı.
 
@@ -10,7 +10,7 @@ Aylık bazda çok küçük de olsa (yüzde 0,4) bir artış var. İmalat sanayin
 
 Üçüncü ve dördüncü çeyrekte Türkiye Ekonomisindeki daralmanın daha sert olması beklenirken görece gelen veri talepte yeniden bir canlanma olduğunu gösteriyor. Nitekim ara malı üretimi yüzde 1,7, dayanıklı tüketim malı üretimi yüzde 3,6, dayanıksız tüketim malı üretimi ise yüzde 2,8 artış göstermiş. Düşük teknoloji üretimindeki yüzde 2,5’lik ve orta düşük teknolojideki yüzde 0,9’luk artışın kaynağı ise ihracat gibi duruyor.
 
-Görünen o ki yapısal dönüşümü yapmaktan hala çok uzağız. Yüksek teknoloji üretimindeki aylık değişim – yüzde 7,9. Yıllıkta durum felaket. Daralma yüzde 20,2. Orta yüksek teknoloji de aylık bazda yüzde 1,0 azalmış.
+Görünen o ki yapısal dönüşümü yapmaktan hala çok uzağız. Yüksek teknoloji üretimindeki aylık değişim - yüzde 7,9. Yıllıkta durum felaket. Daralma yüzde 20,2. Orta yüksek teknoloji de aylık bazda yüzde 1,0 azalmış.
 
 Dere tepe düz gidip orta yüksek ve yüksek teknoloji üretimi bir türlü ana üretim perspektifine sokamıyoruz.
 
@@ -18,9 +18,7 @@ Dere tepe düz gidip orta yüksek ve yüksek teknoloji üretimi bir türlü ana 
 
 Yüksek enflasyon ve sürekli düşen alım gücü de içeride rekabetçiliği de etkiliyor.
 
-Biz içeride Dolar, Faiz, Enflasyon üçgeni içerisinde dönüp dolaşırken, Avrupa Merkez Bankası Eski Başkanı Jean Claude Trichet çok ses getiren bir rapor yayınladı.
-
-Trichet’i kısaca bir hatırlamak gerekirse; 2003'ten 2011'e kadar Avrupa Merkez Bankası Başkanı ve 2010'dan 2011'e kadar Avrupa Sistemik Risk Kurulu Başkanı görevlerinde bulundu. Öncesinde ise Fransa Merkez Bankası Guvernörü (1993-2003) ve Fransız Hazine Müsteşarı (1987-93) olarak görev yapmıştı. Avrupa Borç Krizini başarıyla yönetmesi onu en başarılı Başkanlardan biri haline getirdi.
+Biz içeride Dolar, Faiz, Enflasyon üçgeni içerisinde dönüp dolaşırken, Avrupa Merkez Bankası Eski Başkanı Mario Draghi çok ses getiren bir rapor yayınladı.
 
 Raporun başlığı ‘Avrupa Rekabetçiliğinin Geleceği’. İlgilenenler için raporun internet adresini yazının en sonunda ekleyeceğim.
 
@@ -59,4 +57,6 @@ Rapora göre; büyük ölçekli veri işleme ve depolama için geniş altyapı g
 Bu hem büyük bir tehdit hem de oyunun dışında bırakabilecek bir tehlike.
 
 Aslında bizim de bizi çoraklaştıran tartışmalardan kurtulup bunları tartışıyor olmamız gerekmiyor mu?
+
+
 

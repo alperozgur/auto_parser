@@ -17,7 +17,7 @@ Belediyelerin de kurumsal manada depremzede olduğu; bina, insan gücü ekipman 
 
 Bu güçlendirme sağlanmadan, belediyelerin sorumluluklarını, sadece mevcut kendi yetki ve kaynaklarıyla yerine getirmesinin mümkün olmadığının altı çiziliyor. Adres tabii ki merkezi yönetim. Yani iktidar. Bu çerçevede, deprem bölgesi belediyelerinde denetim, hizmet, bürokratik kapasite güçlendirmesi için eleman karşılamaya yönelik programlar yürütülmesi gerektiği raporda yer aldı.
 
-TBMM raporunda depremzede belediyeler için öne çıkan öneri çerçevesi şöyle:
+TBB raporunda depremzede belediyeler için öne çıkan öneri çerçevesi şöyle:
 
 
 ### Kamu borçları silinmeli
