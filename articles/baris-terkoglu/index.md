@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Profesör doktor Erdoğan!](baris-terkoglu-2024-09-16.md)
 - [Sesini kaybeden masumiyet](baris-terkoglu-2024-09-12.md)
 - [‘Hata yaptık’ diyen karar](baris-terkoglu-2024-09-09.md)
 - [Zapsu: Ya Mehmet Şimşek ya faşizm](baris-terkoglu-2024-09-02.md)
@@ -14,4 +15,3 @@
 - [Darbecilerin terfisi devlet sırrı oldu](baris-terkoglu-2024-07-18.md)
 - [Soylu’nun tasfiye ettiği 15 Temmuz gazisi](baris-terkoglu-2024-07-15.md)
 - [Sedat Peker’in uyardığı şirket](baris-terkoglu-2024-07-11.md)
-- [İki saatlik OYAK tartışması](baris-terkoglu-2024-07-08.md)
