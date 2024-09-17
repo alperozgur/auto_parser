@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Narin'in amcasının aracında ağabeyi Enes de var mıydı, diğer iki genç nerede?](tolga-sardan-buyutec-2024-09-17.md)
 - [Mafya liderine tahsis edilen "çakarlı" vekil aracı ve Harp Okulu'ndaki yemin krizinde ikinci perde](tolga-sardan-buyutec-2024-09-13.md)
 - [Narin, aile içinde olmaması gereken 'uygunsuz' bir sürece mi tanıklık etti; teğmenlerin yemin krizinin arkasında neler konuşuluyor?](tolga-sardan-buyutec-2024-09-10.md)
 - [Emniyet'ten skunk, kokain ve metamfetamin uyarısı…](tolga-sardan-buyutec-2024-09-07.md)
@@ -11,4 +12,3 @@
 - [Jandarma'yı sarsan aşk skandalı ve Emniyet'te MHP'siz atamalarla değişen dengeler](tolga-sardan-buyutec-2024-08-20.md)
 - [Santa Maria Kilisesi saldırısının Moskova bağı](tolga-sardan-buyutec-2024-08-16.md)
 - [İşte Masquarade’ın sicili!](tolga-sardan-buyutec-2024-08-14.md)
-- [Beşiktaş yangınını soruşturan müfettişlerin raporundan çıkan skandal!](tolga-sardan-buyutec-2024-08-13.md)

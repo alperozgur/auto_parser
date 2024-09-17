@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Patates soğan düzeni](murat-agirel-2024-09-17.md)
 - [Karanlık feodal düzen](murat-agirel-2024-09-14.md)
 - [Narin ve bataklık](murat-agirel-2024-09-10.md)
 - [Özür dilerim](murat-agirel-2024-09-07.md)
@@ -14,4 +15,3 @@
 - [‘Bungalov tatili’ dolandırıcıları](murat-agirel-2024-08-06.md)
 - [Gözünüz açık olsun](murat-agirel-2024-08-03.md)
 - [Marina projeleriyle sahilleri halka kapattılar](murat-agirel-2024-07-30.md)
-- [Göcek’te neler oluyor](murat-agirel-2024-07-27.md)
