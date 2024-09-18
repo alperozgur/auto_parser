@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Bütçenin açık açmazı](cigdem-toker-2024-09-18.md)
 - [Belediyeler Birliği'nden çarpıcı deprem raporu](cigdem-toker-2024-09-13.md)
 - [Vahdettin Köşkü'nde Kalkınma Fonu](cigdem-toker-2024-09-11.md)
 - [OVP fotoğrafı kimin için?](cigdem-toker-2024-09-05.md)
@@ -11,4 +12,3 @@
 - [Bütçeye eklenecek 45. KÖİ yükümlüsü](cigdem-toker-2024-08-16.md)
 - [İşsizlik oranı işine gelmeyince](cigdem-toker-2024-08-14.md)
 - ["Keenlemyekun" yahut yok hükmünde](cigdem-toker-2024-08-09.md)
-- ["Çok kötü vergi"nin sorumlusu kim?](cigdem-toker-2024-08-07.md)
