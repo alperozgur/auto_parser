@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Bürokratın oğlundan istenen para](baris-pehlivan-2024-09-20.md)
 - [S.Ö.](baris-pehlivan-2024-09-18.md)
 - [Boy değil işlev](baris-pehlivan-2024-09-13.md)
 - [Hani kalbin kuruyacaktı?](baris-pehlivan-2024-09-11.md)
@@ -14,4 +15,3 @@
 - [Genco Erkal’ı neden yalnız bıraktınız?](baris-pehlivan-2024-08-02.md)
 - [Hayvan gibi yas tutamayanlar](baris-pehlivan-2024-07-31.md)
 - [AKP’li Külünk: ‘Erdoğan sosyolojisi eriyor’](baris-pehlivan-2024-07-26.md)
-- [Bahçeli’nin dilinin altındaki iki isim](baris-pehlivan-2024-07-24.md)

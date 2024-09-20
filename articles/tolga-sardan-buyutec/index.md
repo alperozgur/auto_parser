@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Vali kararnamesinde dikkat çeken ayrıntı: Vali tercihlerinde sıkıntı mı var?](tolga-sardan-buyutec-2024-09-20.md)
 - [Narin'in amcasının aracında ağabeyi Enes de var mıydı, diğer iki genç nerede?](tolga-sardan-buyutec-2024-09-17.md)
 - [Mafya liderine tahsis edilen "çakarlı" vekil aracı ve Harp Okulu'ndaki yemin krizinde ikinci perde](tolga-sardan-buyutec-2024-09-13.md)
 - [Narin, aile içinde olmaması gereken 'uygunsuz' bir sürece mi tanıklık etti; teğmenlerin yemin krizinin arkasında neler konuşuluyor?](tolga-sardan-buyutec-2024-09-10.md)
@@ -11,4 +12,3 @@
 - [Diyarbakır - Mersin hattında skunk operasyonundan yansıyanlar ve yeni Emniyet Genel Müdürü’nü bekleyen tablo](tolga-sardan-buyutec-2024-08-23.md)
 - [Jandarma'yı sarsan aşk skandalı ve Emniyet'te MHP'siz atamalarla değişen dengeler](tolga-sardan-buyutec-2024-08-20.md)
 - [Santa Maria Kilisesi saldırısının Moskova bağı](tolga-sardan-buyutec-2024-08-16.md)
-- [İşte Masquarade’ın sicili!](tolga-sardan-buyutec-2024-08-14.md)
