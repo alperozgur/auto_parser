@@ -20,5 +20,5 @@
 ### “CHP’lilerle temasta” iddiası
 
 
-### Artvin’in kaderi Mustafa Cengiz!
+### Artvin’in kaderi Mehmet Cengiz!
 
