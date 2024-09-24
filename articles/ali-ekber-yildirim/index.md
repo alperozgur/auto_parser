@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Trakya ve Anadolu’da çiftçi can çekişiyor](ali-ekber-yildirim-2024-09-24.md)
 - [Pancarda hasat var fiyat yok](ali-ekber-yildirim-2024-09-17.md)
 - [Çiftçi gözüyle tarımda yeni destekleme modeli](ali-ekber-yildirim-2024-09-10.md)
 - [Mazot ve gübre desteği kaldırıldı, yerine temel destek ödenecek](ali-ekber-yildirim-2024-08-30.md)
@@ -15,4 +16,3 @@
 - [Hayvancılıkta 5 yıllık yol haritasının Amerika’ya sağladığı fırsatlar](ali-ekber-yildirim-2024-07-17.md)
 - [Afgan çobanlara muhtaç olmak](ali-ekber-yildirim-2024-07-16.md)
 - [Yeterli limonumuz var ama kilosu 100 liracık](ali-ekber-yildirim-2024-07-09.md)
-- [Adana tarımında öne çıkan sorunlar ve çözüm önerileri](ali-ekber-yildirim-2024-07-03.md)

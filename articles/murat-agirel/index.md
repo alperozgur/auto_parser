@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Saatte 76 milyon TL faize gitti](murat-agirel-2024-09-24.md)
 - [Milli eğitim üzerinden adınızı kullanıyorlar](murat-agirel-2024-09-21.md)
 - [Patates soğan düzeni](murat-agirel-2024-09-17.md)
 - [Karanlık feodal düzen](murat-agirel-2024-09-14.md)
@@ -14,4 +15,3 @@
 - [Antik kent kapısı rant kapısı](murat-agirel-2024-08-13.md)
 - [Evreşe talanı](murat-agirel-2024-08-10.md)
 - [‘Bungalov tatili’ dolandırıcıları](murat-agirel-2024-08-06.md)
-- [Gözünüz açık olsun](murat-agirel-2024-08-03.md)
