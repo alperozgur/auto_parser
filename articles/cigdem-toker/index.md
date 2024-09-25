@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Üst Kurullar bütçe payında özensiz çıktı](cigdem-toker-2024-09-25.md)
 - [Anayasa'yı ihlal eden vekil](cigdem-toker-2024-09-20.md)
 - [Bütçenin açık açmazı](cigdem-toker-2024-09-18.md)
 - [Belediyeler Birliği'nden çarpıcı deprem raporu](cigdem-toker-2024-09-13.md)
@@ -11,4 +12,3 @@
 - [Muhafazakâr iktidarın ağaç sevgisi](cigdem-toker-2024-08-23.md)
 - [Arhavi'de madencilik istenmiyor](cigdem-toker-2024-08-21.md)
 - [Bütçeye eklenecek 45. KÖİ yükümlüsü](cigdem-toker-2024-08-16.md)
-- [İşsizlik oranı işine gelmeyince](cigdem-toker-2024-08-14.md)

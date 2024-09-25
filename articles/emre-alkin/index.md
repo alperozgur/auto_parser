@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Bunları biliyor muydunuz? Daha doğrusu: Biliyorlar mı?”](emre-alkin-2024-09-25.md)
 - [“Enflasyonla mücadele yarım porsiyon yapılmaz...”](emre-alkin-2024-09-18.md)
 - [“Hayırlısı olsun denir böylesine…”](emre-alkin-2024-09-11.md)
 - [“Büyüme rakamı bize kısaca ne diyor?”](emre-alkin-2024-09-04.md)
@@ -15,4 +16,3 @@
 - [“İnsanları binalara hapsetme kültürü…”](emre-alkin-2024-06-26.md)
 - [“Müzakere aynı zamanda mücadeledir...”](emre-alkin-2024-06-12.md)
 - [“Yanlış veri, yanlış reçete yazdırır…”](emre-alkin-2024-06-05.md)
-- [Konut arzı artınca fiyatlar ve kiralar düşmez](emre-alkin-2024-05-30.md)
