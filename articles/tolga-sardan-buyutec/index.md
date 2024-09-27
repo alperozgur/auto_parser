@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Polis Şeyda’yı şehit eden suç makinesi, polisin elinden nasıl kaçtı?](tolga-sardan-buyutec-2024-09-27.md)
 - [Emniyet'te deprem: Ankara'da iki polis müdürü Emniyet'ten ihraç edildi!](tolga-sardan-buyutec-2024-09-23.md)
 - [Vali kararnamesinde dikkat çeken ayrıntı: Vali tercihlerinde sıkıntı mı var?](tolga-sardan-buyutec-2024-09-20.md)
 - [Narin'in amcasının aracında ağabeyi Enes de var mıydı, diğer iki genç nerede?](tolga-sardan-buyutec-2024-09-17.md)
@@ -11,4 +12,3 @@
 - [İçişleri Bakanlığı, Bodrum'da 4 bin 200 kaçak yapı tespit etti!](tolga-sardan-buyutec-2024-08-30.md)
 - [Mersin'de sonu gelmeyen sıkıntılar…](tolga-sardan-buyutec-2024-08-27.md)
 - [Diyarbakır - Mersin hattında skunk operasyonundan yansıyanlar ve yeni Emniyet Genel Müdürü’nü bekleyen tablo](tolga-sardan-buyutec-2024-08-23.md)
-- [Jandarma'yı sarsan aşk skandalı ve Emniyet'te MHP'siz atamalarla değişen dengeler](tolga-sardan-buyutec-2024-08-20.md)

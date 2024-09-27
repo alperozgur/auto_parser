@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [O müdürün sırtını sıvazlayan karar](baris-pehlivan-2024-09-27.md)
 - [Size bunları anlatmıyorlar](baris-pehlivan-2024-09-25.md)
 - [Bürokratın oğlundan istenen para](baris-pehlivan-2024-09-20.md)
 - [S.Ö.](baris-pehlivan-2024-09-18.md)
@@ -14,4 +15,3 @@
 - [Ev satın alırken nasıl dolandırıldılar](baris-pehlivan-2024-08-09.md)
 - [Ya Erdoğan kimin adayıydı?](baris-pehlivan-2024-08-07.md)
 - [Genco Erkal’ı neden yalnız bıraktınız?](baris-pehlivan-2024-08-02.md)
-- [Hayvan gibi yas tutamayanlar](baris-pehlivan-2024-07-31.md)
