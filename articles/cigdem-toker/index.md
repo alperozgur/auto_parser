@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [1,5 trilyon bütçen olsun okulların pis olsun](cigdem-toker-2024-10-02.md)
 - [Göstere göstere](cigdem-toker-2024-09-27.md)
 - [Üst Kurullar bütçe payında özensiz çıktı](cigdem-toker-2024-09-25.md)
 - [Anayasa'yı ihlal eden vekil](cigdem-toker-2024-09-20.md)
@@ -11,4 +12,3 @@
 - [DPT yeniden açılabilir mi?](cigdem-toker-2024-08-30.md)
 - [Küfürsüz konuşamamak](cigdem-toker-2024-08-28.md)
 - [Muhafazakâr iktidarın ağaç sevgisi](cigdem-toker-2024-08-23.md)
-- [Arhavi'de madencilik istenmiyor](cigdem-toker-2024-08-21.md)
