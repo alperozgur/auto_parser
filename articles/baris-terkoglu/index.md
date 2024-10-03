@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [‘Beni Erdoğan görevden’ aldı diyen CHP’li](baris-terkoglu-2024-10-03.md)
 - [Devlet diyenler devleti yedi!](baris-terkoglu-2024-09-30.md)
 - [Çare: Sedat Peker!](baris-terkoglu-2024-09-26.md)
 - ['Tayyip'e sor' davası](baris-terkoglu-2024-09-23.md)
@@ -14,4 +15,3 @@
 - [Şûrası olmayan şûra](baris-terkoglu-2024-08-05.md)
 - [Mossad’ın Türkiye’deki suikast hazırlığı](baris-terkoglu-2024-08-01.md)
 - [Devleti esir alan zorbalık](baris-terkoglu-2024-07-29.md)
-- [154’lükler şimdi ne yapacak?](baris-terkoglu-2024-07-25.md)
