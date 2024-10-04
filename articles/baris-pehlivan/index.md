@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Apple ‘Sinan Ateş’ için ne diyecek?](baris-pehlivan-2024-10-04.md)
 - [Dördün biri](baris-pehlivan-2024-10-02.md)
 - [O müdürün sırtını sıvazlayan karar](baris-pehlivan-2024-09-27.md)
 - [Size bunları anlatmıyorlar](baris-pehlivan-2024-09-25.md)
@@ -14,4 +15,3 @@
 - [Neden başaramadığımızı anlatan mektup](baris-pehlivan-2024-08-16.md)
 - [AKP’de aslında neler oluyor?](baris-pehlivan-2024-08-14.md)
 - [Ev satın alırken nasıl dolandırıldılar](baris-pehlivan-2024-08-09.md)
-- [Ya Erdoğan kimin adayıydı?](baris-pehlivan-2024-08-07.md)

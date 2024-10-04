@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Enflasyon büyüme takası yakın olabilir](profdr-burak-arzova-2024-10-04.md)
 - [23 Eylül 2021: Anmasaydık olmazdı](profdr-burak-arzova-2024-09-27.md)
 - [Fed’in kararı TCMB üzerindeki baskıyı artırdı](profdr-burak-arzova-2024-09-20.md)
 - [Sanayi üretim rakamlarından Draghi raporuna bakış](profdr-burak-arzova-2024-09-13.md)
@@ -15,4 +16,3 @@
 - [Hangi enflasyon rakamına inanacağız?](profdr-burak-arzova-2024-07-05.md)
 - [Sanayide ivme kaybı devam ediyor](profdr-burak-arzova-2024-06-28.md)
 - [Maslow’un piramidinin en altında debelenip duruyoruz](profdr-burak-arzova-2024-06-21.md)
-- [Hazine ve Maliye Bakanlığı aracı kurum gibi hareket edemez](profdr-burak-arzova-2024-06-14.md)
