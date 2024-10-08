@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Belediyelerin SGK borçları](murat-agirel-2024-10-08.md)
 - [2023’te sporculara 48 bin altın dağıtıldı](murat-agirel-2024-10-05.md)
 - [Bu paranın hesabını veren var mı?](murat-agirel-2024-10-01.md)
 - [Sahte diploma furyası](murat-agirel-2024-09-28.md)
@@ -14,4 +15,3 @@
 - [Adliyelerde neler oluyor: Adalet borsası](murat-agirel-2024-08-27.md)
 - [Kitabım toplatılmak isteniyor](murat-agirel-2024-08-24.md)
 - [Defterleri karıştırdıkça](murat-agirel-2024-08-20.md)
-- [Adana bunu unutmaz](murat-agirel-2024-08-17.md)

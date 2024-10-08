@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Mafyada, cemaat tipi örgütlenme!](tolga-sardan-buyutec-2024-10-08.md)
 - [Başsavcı görevden alındı, Sisli Vadi’nin sisi kalkıyor!](tolga-sardan-buyutec-2024-10-04.md)
 - [Narin soruşturmasında baz verilerinden çıkan iki kişi kim?](tolga-sardan-buyutec-2024-10-01.md)
 - [Polis Şeyda’yı şehit eden suç makinesi, polisin elinden nasıl kaçtı?](tolga-sardan-buyutec-2024-09-27.md)
@@ -11,4 +12,3 @@
 - [Emniyet'ten skunk, kokain ve metamfetamin uyarısı…](tolga-sardan-buyutec-2024-09-07.md)
 - [Emniyet'in yıllık uyuşturucuyla mücadele raporundan yansıyanlar: Tablo her geçen gün daha vahim hale dönüşüyor](tolga-sardan-buyutec-2024-09-06.md)
 - [Gizli tanık Sertçelik'in firarıyla ilgili İçişleri Bakanlığı müfettişleri hangi bilgilere ulaştı?](tolga-sardan-buyutec-2024-09-03.md)
-- [İçişleri Bakanlığı, Bodrum'da 4 bin 200 kaçak yapı tespit etti!](tolga-sardan-buyutec-2024-08-30.md)
