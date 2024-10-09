@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Ekonomi yönetiminin başarıları?!..”](emre-alkin-2024-10-09.md)
 - [“Mesele o kadar karışık değil…”](emre-alkin-2024-10-02.md)
 - [“Bunları biliyor muydunuz? Daha doğrusu: Biliyorlar mı?”](emre-alkin-2024-09-25.md)
 - [“Enflasyonla mücadele yarım porsiyon yapılmaz...”](emre-alkin-2024-09-18.md)
@@ -15,4 +16,3 @@
 - [“Enflasyon verisini budamak!..”](emre-alkin-2024-07-10.md)
 - [“Gri liste, enflasyon ve vergiler…”](emre-alkin-2024-07-03.md)
 - [“İnsanları binalara hapsetme kültürü…”](emre-alkin-2024-06-26.md)
-- [“Müzakere aynı zamanda mücadeledir...”](emre-alkin-2024-06-12.md)

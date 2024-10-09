@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Pamuğun geleceği toprağın korunması ve suya bağlı](ali-ekber-yildirim-2024-10-09.md)
 - [Bu sezon domatesten çıkarılacak büyük dersler var](ali-ekber-yildirim-2024-09-25.md)
 - [Trakya ve Anadolu’da çiftçi can çekişiyor](ali-ekber-yildirim-2024-09-24.md)
 - [Pancarda hasat var fiyat yok](ali-ekber-yildirim-2024-09-17.md)
@@ -15,4 +16,3 @@
 - [Hayvancılık destekleri sorunları çözmeye yeter mi?](ali-ekber-yildirim-2024-07-31.md)
 - [Fındıkta hasat öncesi fiyat beklentisi](ali-ekber-yildirim-2024-07-24.md)
 - [Hayvancılıkta 5 yıllık yol haritasının Amerika’ya sağladığı fırsatlar](ali-ekber-yildirim-2024-07-17.md)
-- [Afgan çobanlara muhtaç olmak](ali-ekber-yildirim-2024-07-16.md)
