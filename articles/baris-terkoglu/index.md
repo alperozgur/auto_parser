@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [E-Nabız deyip geçmeyin!](baris-terkoglu-2024-10-10.md)
 - [Yasak kardeşim yasak!](baris-terkoglu-2024-10-07.md)
 - [‘Beni Erdoğan görevden’ aldı diyen CHP’li](baris-terkoglu-2024-10-03.md)
 - [Devlet diyenler devleti yedi!](baris-terkoglu-2024-09-30.md)
@@ -14,4 +15,3 @@
 - [Jandarma’da neler oluyor](baris-terkoglu-2024-08-26.md)
 - [Hâkimlerin yargılayacağı hâkimler](baris-terkoglu-2024-08-22.md)
 - [Şûrası olmayan şûra](baris-terkoglu-2024-08-05.md)
-- [Mossad’ın Türkiye’deki suikast hazırlığı](baris-terkoglu-2024-08-01.md)
