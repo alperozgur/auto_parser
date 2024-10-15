@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Sisli Vadi dosyasında önemli gelişme: Tesis yöneticisinin ölümüyle ilgili cinayet soruşturması başlatıldı!](tolga-sardan-buyutec-2024-10-15.md)
 - [Eski MHP ilçe başkanı, cinayet soruşturmasında tutuklandı!](tolga-sardan-buyutec-2024-10-11.md)
 - [Mafyada, cemaat tipi örgütlenme!](tolga-sardan-buyutec-2024-10-08.md)
 - [Başsavcı görevden alındı, Sisli Vadi’nin sisi kalkıyor!](tolga-sardan-buyutec-2024-10-04.md)
@@ -11,4 +12,3 @@
 - [Mafya liderine tahsis edilen "çakarlı" vekil aracı ve Harp Okulu'ndaki yemin krizinde ikinci perde](tolga-sardan-buyutec-2024-09-13.md)
 - [Narin, aile içinde olmaması gereken 'uygunsuz' bir sürece mi tanıklık etti; teğmenlerin yemin krizinin arkasında neler konuşuluyor?](tolga-sardan-buyutec-2024-09-10.md)
 - [Emniyet'ten skunk, kokain ve metamfetamin uyarısı…](tolga-sardan-buyutec-2024-09-07.md)
-- [Emniyet'in yıllık uyuşturucuyla mücadele raporundan yansıyanlar: Tablo her geçen gün daha vahim hale dönüşüyor](tolga-sardan-buyutec-2024-09-06.md)
