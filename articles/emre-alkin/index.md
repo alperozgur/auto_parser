@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Nobel Ekonomi Ödülü...”](emre-alkin-2024-10-16.md)
 - [“Ekonomi yönetiminin başarıları?!..”](emre-alkin-2024-10-09.md)
 - [“Mesele o kadar karışık değil…”](emre-alkin-2024-10-02.md)
 - [“Bunları biliyor muydunuz? Daha doğrusu: Biliyorlar mı?”](emre-alkin-2024-09-25.md)
@@ -15,4 +16,3 @@
 - ["Tok açın halinden anlamaz..."](emre-alkin-2024-07-17.md)
 - [“Enflasyon verisini budamak!..”](emre-alkin-2024-07-10.md)
 - [“Gri liste, enflasyon ve vergiler…”](emre-alkin-2024-07-03.md)
-- [“İnsanları binalara hapsetme kültürü…”](emre-alkin-2024-06-26.md)

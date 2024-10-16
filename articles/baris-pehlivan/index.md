@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Peki, Öcalan ne diyor?](baris-pehlivan-2024-10-16.md)
 - [İnternette yeni bir dönem mi başlıyor?](baris-pehlivan-2024-10-11.md)
 - [Suçun üstünü örttükleri bayrak](baris-pehlivan-2024-10-09.md)
 - [Apple ‘Sinan Ateş’ için ne diyecek?](baris-pehlivan-2024-10-04.md)
@@ -14,4 +15,3 @@
 - [Saldırıya uğrayan ismin saklı öyküsü](baris-pehlivan-2024-09-04.md)
 - [AKP’ye geçen ‘muhalif’ vekilin borçları](baris-pehlivan-2024-08-30.md)
 - [Okçuların hocasından yanıt var](baris-pehlivan-2024-08-28.md)
-- [Neden başaramadığımızı anlatan mektup](baris-pehlivan-2024-08-16.md)
