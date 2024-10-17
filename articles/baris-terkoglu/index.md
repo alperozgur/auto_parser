@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Meksika sınırındaki Türk çocuklar](baris-terkoglu-2024-10-17.md)
 - [E-Nabız bizimse parası da bizim olsun!](baris-terkoglu-2024-10-14.md)
 - [E-Nabız deyip geçmeyin!](baris-terkoglu-2024-10-10.md)
 - [Yasak kardeşim yasak!](baris-terkoglu-2024-10-07.md)
@@ -14,4 +15,3 @@
 - [Zapsu: Ya Mehmet Şimşek ya faşizm](baris-terkoglu-2024-09-02.md)
 - [Vaniköy’deki araziyi sahibinden dinleyin!](baris-terkoglu-2024-08-29.md)
 - [Jandarma’da neler oluyor](baris-terkoglu-2024-08-26.md)
-- [Hâkimlerin yargılayacağı hâkimler](baris-terkoglu-2024-08-22.md)

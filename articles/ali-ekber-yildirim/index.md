@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Çiftçi kadınların ilham veren hikayeleri-1](ali-ekber-yildirim-2024-10-17.md)
 - [Pamuğun geleceği toprağın korunması ve suya bağlı](ali-ekber-yildirim-2024-10-09.md)
 - [Bu sezon domatesten çıkarılacak büyük dersler var](ali-ekber-yildirim-2024-09-25.md)
 - [Trakya ve Anadolu’da çiftçi can çekişiyor](ali-ekber-yildirim-2024-09-24.md)
@@ -15,4 +16,3 @@
 - [Çukurova’da su bitti, çiftçiye “ekmeyin” mesajı gönderildi](ali-ekber-yildirim-2024-08-06.md)
 - [Hayvancılık destekleri sorunları çözmeye yeter mi?](ali-ekber-yildirim-2024-07-31.md)
 - [Fındıkta hasat öncesi fiyat beklentisi](ali-ekber-yildirim-2024-07-24.md)
-- [Hayvancılıkta 5 yıllık yol haritasının Amerika’ya sağladığı fırsatlar](ali-ekber-yildirim-2024-07-17.md)
