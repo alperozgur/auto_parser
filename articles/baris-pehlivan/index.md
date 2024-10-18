@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [O suçlar o yaşa nasıl sığdı](baris-pehlivan-2024-10-18.md)
 - [Peki, Öcalan ne diyor?](baris-pehlivan-2024-10-16.md)
 - [İnternette yeni bir dönem mi başlıyor?](baris-pehlivan-2024-10-11.md)
 - [Suçun üstünü örttükleri bayrak](baris-pehlivan-2024-10-09.md)
@@ -14,4 +15,3 @@
 - [Emri vereni sorgulayacak cesaretiniz var mı?](baris-pehlivan-2024-09-06.md)
 - [Saldırıya uğrayan ismin saklı öyküsü](baris-pehlivan-2024-09-04.md)
 - [AKP’ye geçen ‘muhalif’ vekilin borçları](baris-pehlivan-2024-08-30.md)
-- [Okçuların hocasından yanıt var](baris-pehlivan-2024-08-28.md)

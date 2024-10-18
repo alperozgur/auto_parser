@@ -1,5 +1,6 @@
 # Şant Manukyan
 
+- [Altın ve dünya](sant-manukyan-2024-10-18.md)
 - [Çin ve coşku](sant-manukyan-2024-10-04.md)
 - [Potansiyelimiz var, umudumuz da olsun](sant-manukyan-2024-09-27.md)
 - [AB üzerinde güneş batarken](sant-manukyan-2024-09-13.md)
@@ -15,4 +16,3 @@
 - [Altın bir kırılmaya mı işaret ediyor?](sant-manukyan-2024-04-26.md)
 - [ABD ve Çin](sant-manukyan-2024-04-05.md)
 - [Kısık ateş](sant-manukyan-2024-03-22.md)
-- [ABD seçimlerinde bir siyah kuğu](sant-manukyan-2024-03-15.md)

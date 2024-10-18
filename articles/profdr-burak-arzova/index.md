@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Dışlayıcı kurumları ile Türkiye çok iyi bir laboratuvar](profdr-burak-arzova-2024-10-18.md)
 - [Yeni reeskont kredisi sistemine geçiş ile akla takılan sorular](profdr-burak-arzova-2024-10-11.md)
 - [Enflasyon büyüme takası yakın olabilir](profdr-burak-arzova-2024-10-04.md)
 - [23 Eylül 2021: Anmasaydık olmazdı](profdr-burak-arzova-2024-09-27.md)
@@ -15,4 +16,3 @@
 - [Hizmet enflasyonu küresel ekonomi için hala bir tehdit](profdr-burak-arzova-2024-07-19.md)
 - [Rasyonelleşme mutlaka TÜİK’e de uğramalı](profdr-burak-arzova-2024-07-12.md)
 - [Hangi enflasyon rakamına inanacağız?](profdr-burak-arzova-2024-07-05.md)
-- [Sanayide ivme kaybı devam ediyor](profdr-burak-arzova-2024-06-28.md)

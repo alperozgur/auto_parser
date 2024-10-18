@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Atatürk Havalimanı ve bitmeyen kamu zararı](cigdem-toker-2024-10-18.md)
 - [İktidar, limite haraç öfkesini “gördü”](cigdem-toker-2024-10-16.md)
 - [Fernas’ın işçileri, milletin vekili](cigdem-toker-2024-10-11.md)
 - [Çok fonksiyonlu “yeni anayasa” kaldıracı](cigdem-toker-2024-10-09.md)
@@ -11,4 +12,3 @@
 - [Bütçenin açık açmazı](cigdem-toker-2024-09-18.md)
 - [Belediyeler Birliği'nden çarpıcı deprem raporu](cigdem-toker-2024-09-13.md)
 - [Vahdettin Köşkü'nde Kalkınma Fonu](cigdem-toker-2024-09-11.md)
-- [OVP fotoğrafı kimin için?](cigdem-toker-2024-09-05.md)
