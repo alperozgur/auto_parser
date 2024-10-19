@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [İsrail’e ticaret Filistin’e ticaret oldu](murat-agirel-2024-10-19.md)
 - [Sahte diploma ve yargının acizliği](murat-agirel-2024-10-15.md)
 - [Ne yediğimiz belli değil](murat-agirel-2024-10-12.md)
 - [Belediyelerin SGK borçları](murat-agirel-2024-10-08.md)
@@ -14,4 +15,3 @@
 - [Özür dilerim](murat-agirel-2024-09-07.md)
 - [Mustafa Kemal'in askerleriyiz](murat-agirel-2024-09-03.md)
 - [Çürüme](murat-agirel-2024-08-31.md)
-- [Adliyelerde neler oluyor: Adalet borsası](murat-agirel-2024-08-27.md)
