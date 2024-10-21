@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Hepiniz bal gibi biliyordunuz!](baris-terkoglu-2024-10-21.md)
 - [Meksika sınırındaki Türk çocuklar](baris-terkoglu-2024-10-17.md)
 - [E-Nabız bizimse parası da bizim olsun!](baris-terkoglu-2024-10-14.md)
 - [E-Nabız deyip geçmeyin!](baris-terkoglu-2024-10-10.md)
@@ -14,4 +15,3 @@
 - [‘Hata yaptık’ diyen karar](baris-terkoglu-2024-09-09.md)
 - [Zapsu: Ya Mehmet Şimşek ya faşizm](baris-terkoglu-2024-09-02.md)
 - [Vaniköy’deki araziyi sahibinden dinleyin!](baris-terkoglu-2024-08-29.md)
-- [Jandarma’da neler oluyor](baris-terkoglu-2024-08-26.md)
