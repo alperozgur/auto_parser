@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Tarımda kadının emeği var, söz hakkı yok!](ali-ekber-yildirim-2024-10-22.md)
 - [Çiftçi kadınların ilham veren hikayeleri- 2](ali-ekber-yildirim-2024-10-18.md)
 - [Çiftçi kadınların ilham veren hikayeleri-1](ali-ekber-yildirim-2024-10-17.md)
 - [Pamuğun geleceği toprağın korunması ve suya bağlı](ali-ekber-yildirim-2024-10-09.md)
@@ -15,4 +16,3 @@
 - [Kavun, karpuz, domates tarlada bedava, rafta ateş pahası](ali-ekber-yildirim-2024-08-14.md)
 - [İçerden ayçiçeği alana ucuz ithalat kapısı açıldı](ali-ekber-yildirim-2024-08-07.md)
 - [Çukurova’da su bitti, çiftçiye “ekmeyin” mesajı gönderildi](ali-ekber-yildirim-2024-08-06.md)
-- [Hayvancılık destekleri sorunları çözmeye yeter mi?](ali-ekber-yildirim-2024-07-31.md)

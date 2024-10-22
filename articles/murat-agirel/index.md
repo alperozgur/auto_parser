@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Katil doktor ve çetesinden sonra kiralık doktor da çıktı](murat-agirel-2024-10-22.md)
 - [İsrail’e ticaret Filistin’e ticaret oldu](murat-agirel-2024-10-19.md)
 - [Sahte diploma ve yargının acizliği](murat-agirel-2024-10-15.md)
 - [Ne yediğimiz belli değil](murat-agirel-2024-10-12.md)
@@ -14,4 +15,3 @@
 - [Narin ve bataklık](murat-agirel-2024-09-10.md)
 - [Özür dilerim](murat-agirel-2024-09-07.md)
 - [Mustafa Kemal'in askerleriyiz](murat-agirel-2024-09-03.md)
-- [Çürüme](murat-agirel-2024-08-31.md)

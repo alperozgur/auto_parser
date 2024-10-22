@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Yenidoğan çetesinde adı geçen hastane, SGK borcundan kurtulmak için konkordato ilan etmiş!](tolga-sardan-buyutec-2024-10-22.md)
 - [Yargı camiasındaki iddia: Yargıtay yönetimi, 11 üyeye “emekli olun” tavsiyesinde bulundu](tolga-sardan-buyutec-2024-10-18.md)
 - [Sisli Vadi dosyasında önemli gelişme: Tesis yöneticisinin ölümüyle ilgili cinayet soruşturması başlatıldı!](tolga-sardan-buyutec-2024-10-15.md)
 - [Eski MHP ilçe başkanı, cinayet soruşturmasında tutuklandı!](tolga-sardan-buyutec-2024-10-11.md)
@@ -11,4 +12,3 @@
 - [Vali kararnamesinde dikkat çeken ayrıntı: Vali tercihlerinde sıkıntı mı var?](tolga-sardan-buyutec-2024-09-20.md)
 - [Narin'in amcasının aracında ağabeyi Enes de var mıydı, diğer iki genç nerede?](tolga-sardan-buyutec-2024-09-17.md)
 - [Mafya liderine tahsis edilen "çakarlı" vekil aracı ve Harp Okulu'ndaki yemin krizinde ikinci perde](tolga-sardan-buyutec-2024-09-13.md)
-- [Narin, aile içinde olmaması gereken 'uygunsuz' bir sürece mi tanıklık etti; teğmenlerin yemin krizinin arkasında neler konuşuluyor?](tolga-sardan-buyutec-2024-09-10.md)
