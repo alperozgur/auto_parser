@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Polis Akademisi’nin uyarısı](baris-pehlivan-2024-10-23.md)
 - [O suçlar o yaşa nasıl sığdı](baris-pehlivan-2024-10-18.md)
 - [Peki, Öcalan ne diyor?](baris-pehlivan-2024-10-16.md)
 - [İnternette yeni bir dönem mi başlıyor?](baris-pehlivan-2024-10-11.md)
@@ -14,4 +15,3 @@
 - [Hani kalbin kuruyacaktı?](baris-pehlivan-2024-09-11.md)
 - [Emri vereni sorgulayacak cesaretiniz var mı?](baris-pehlivan-2024-09-06.md)
 - [Saldırıya uğrayan ismin saklı öyküsü](baris-pehlivan-2024-09-04.md)
-- [AKP’ye geçen ‘muhalif’ vekilin borçları](baris-pehlivan-2024-08-30.md)
