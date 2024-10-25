@@ -2,7 +2,7 @@
 
 ### Yayımlanma tarihi: 2024-09-14
 
-# Karanlık feodal düzen
+# Karanlık  feodal düzen
 
 Diyarbakır’da 8 yaşındaki Narin’in ölümüne ilişkin devam eden soruşturmada aralarında anne, ağabey ve amcanın da bulunduğu 8 zanlı tutuklandı.
 

@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [TUSAŞ saldırısında kader anı: Cevap alınamayan cep telefonu araması, taksicinin kaderini nasıl değiştirdi?](tolga-sardan-buyutec-2024-10-24.md)
 - [Yenidoğan çetesinde adı geçen hastane, SGK borcundan kurtulmak için konkordato ilan etmiş!](tolga-sardan-buyutec-2024-10-22.md)
 - [Yargı camiasındaki iddia: Yargıtay yönetimi, 11 üyeye “emekli olun” tavsiyesinde bulundu](tolga-sardan-buyutec-2024-10-18.md)
 - [Sisli Vadi dosyasında önemli gelişme: Tesis yöneticisinin ölümüyle ilgili cinayet soruşturması başlatıldı!](tolga-sardan-buyutec-2024-10-15.md)
@@ -11,4 +12,3 @@
 - [Emniyet'te deprem: Ankara'da iki polis müdürü Emniyet'ten ihraç edildi!](tolga-sardan-buyutec-2024-09-23.md)
 - [Vali kararnamesinde dikkat çeken ayrıntı: Vali tercihlerinde sıkıntı mı var?](tolga-sardan-buyutec-2024-09-20.md)
 - [Narin'in amcasının aracında ağabeyi Enes de var mıydı, diğer iki genç nerede?](tolga-sardan-buyutec-2024-09-17.md)
-- [Mafya liderine tahsis edilen "çakarlı" vekil aracı ve Harp Okulu'ndaki yemin krizinde ikinci perde](tolga-sardan-buyutec-2024-09-13.md)

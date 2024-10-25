@@ -2,7 +2,7 @@
 
 ### Yayımlanma tarihi: 2024-10-05
 
-# 2023’te sporculara 48 bin altın dağıtıldı
+# 2023’te sporculara  48 bin altın dağıtıldı
 
 2024 Paris Olimpiyatları’ndan Türkiye tam bir başarısızlıkla çıktı. Buna karşılık tüm dünya milli sporcumuz Yusuf Dikeç’in atış yaparken dikkat çeken rahat tavrı ikonik bir hal aldı.
 
