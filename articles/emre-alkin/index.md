@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Politika faizi ve döviz kurları...”](emre-alkin-2024-10-30.md)
 - [“Reset atmadan enflasyonu çözemeyiz…"](emre-alkin-2024-10-23.md)
 - [“Nobel Ekonomi Ödülü...”](emre-alkin-2024-10-16.md)
 - [“Ekonomi yönetiminin başarıları?!..”](emre-alkin-2024-10-09.md)
@@ -15,4 +16,3 @@
 - [“Bıraksalar ekonomi kendi kendine düzelir...”](emre-alkin-2024-07-31.md)
 - [“Not artışı ve ötesi…”](emre-alkin-2024-07-24.md)
 - ["Tok açın halinden anlamaz..."](emre-alkin-2024-07-17.md)
-- [“Enflasyon verisini budamak!..”](emre-alkin-2024-07-10.md)
