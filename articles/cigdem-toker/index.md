@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [İktidarın gündem “becerisi” ve 2025 bütçesi](cigdem-toker-2024-11-01.md)
 - [Yaz saati işkencesi](cigdem-toker-2024-10-30.md)
 - [Nakkaş-Başakşehir’de şirket operasyonları](cigdem-toker-2024-10-25.md)
 - [IMF raporundan öğrendiğimiz](cigdem-toker-2024-10-23.md)
@@ -11,4 +12,3 @@
 - [1,5 trilyon bütçen olsun okulların pis olsun](cigdem-toker-2024-10-02.md)
 - [Göstere göstere](cigdem-toker-2024-09-27.md)
 - [Üst Kurullar bütçe payında özensiz çıktı](cigdem-toker-2024-09-25.md)
-- [Anayasa'yı ihlal eden vekil](cigdem-toker-2024-09-20.md)

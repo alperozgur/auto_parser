@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Yaşanan yüksek enflasyonda iş dünyasının payı var mı?](profdr-burak-arzova-2024-11-01.md)
 - [Yurtiçi turizm verilerinden ekonomiyi okumak](profdr-burak-arzova-2024-10-25.md)
 - [Dışlayıcı kurumları ile Türkiye çok iyi bir laboratuvar](profdr-burak-arzova-2024-10-18.md)
 - [Yeni reeskont kredisi sistemine geçiş ile akla takılan sorular](profdr-burak-arzova-2024-10-11.md)
@@ -15,4 +16,3 @@
 - [Sanayi için durum gitgide kötüleşiyor](profdr-burak-arzova-2024-08-02.md)
 - [Rekabet noksanlığı enflasyonun temel sebeplerinden biri](profdr-burak-arzova-2024-07-26.md)
 - [Hizmet enflasyonu küresel ekonomi için hala bir tehdit](profdr-burak-arzova-2024-07-19.md)
-- [Rasyonelleşme mutlaka TÜİK’e de uğramalı](profdr-burak-arzova-2024-07-12.md)

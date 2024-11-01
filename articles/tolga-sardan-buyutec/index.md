@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [TUSAŞ saldırısında ikinci perde: İstihbarat tam iki ay önce geldi!](tolga-sardan-buyutec-2024-11-01.md)
 - [TUSAŞ saldırısı göz göre göre geldi: Tesis, özel güvenlik denetiminde sınıfta kalmış!](tolga-sardan-buyutec-2024-10-29.md)
 - [TUSAŞ saldırısında kader anı: Cevap alınamayan cep telefonu araması, taksicinin kaderini nasıl değiştirdi?](tolga-sardan-buyutec-2024-10-24.md)
 - [Yenidoğan çetesinde adı geçen hastane, SGK borcundan kurtulmak için konkordato ilan etmiş!](tolga-sardan-buyutec-2024-10-22.md)
@@ -11,4 +12,3 @@
 - [Narin soruşturmasında baz verilerinden çıkan iki kişi kim?](tolga-sardan-buyutec-2024-10-01.md)
 - [Polis Şeyda’yı şehit eden suç makinesi, polisin elinden nasıl kaçtı?](tolga-sardan-buyutec-2024-09-27.md)
 - [Emniyet'te deprem: Ankara'da iki polis müdürü Emniyet'ten ihraç edildi!](tolga-sardan-buyutec-2024-09-23.md)
-- [Vali kararnamesinde dikkat çeken ayrıntı: Vali tercihlerinde sıkıntı mı var?](tolga-sardan-buyutec-2024-09-20.md)
