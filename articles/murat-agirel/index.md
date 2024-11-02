@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Milli iradeye müdahale bumerang gibi dönecek](murat-agirel-2024-11-02.md)
 - [Şimdi Cumhuriyeti ayağa kaldırma zamanı](murat-agirel-2024-10-29.md)
 - [Bunca şehide, anasına babasına yazık](murat-agirel-2024-10-26.md)
 - [Katil doktor ve çetesinden sonra kiralık doktor da çıktı](murat-agirel-2024-10-22.md)
@@ -14,4 +15,3 @@
 - [Milli eğitim üzerinden adınızı kullanıyorlar](murat-agirel-2024-09-21.md)
 - [Patates soğan düzeni](murat-agirel-2024-09-17.md)
 - [Karanlık  feodal düzen](murat-agirel-2024-09-14.md)
-- [Narin ve bataklık](murat-agirel-2024-09-10.md)
