@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Apocularla ülkücüleri kucaklaştıran adam!](baris-terkoglu-2024-11-04.md)
 - [Demirtaşsız DEM İmamoğlusuz CHP!](baris-terkoglu-2024-10-30.md)
 - [İsrail’e dokundurmayan İslamcılar](baris-terkoglu-2024-10-28.md)
 - [Kandilsiz Apo, Demirtaşsız DEM](baris-terkoglu-2024-10-24.md)
@@ -14,4 +15,3 @@
 - ['Tayyip'e sor' davası](baris-terkoglu-2024-09-23.md)
 - [Çocuk çığlıklarını nasıl boğuyorlar](baris-terkoglu-2024-09-19.md)
 - [Profesör doktor Erdoğan!](baris-terkoglu-2024-09-16.md)
-- [Sesini kaybeden masumiyet](baris-terkoglu-2024-09-12.md)
