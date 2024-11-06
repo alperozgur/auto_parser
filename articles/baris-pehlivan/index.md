@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [50 kurban](baris-pehlivan-2024-11-06.md)
 - [İşte Öcalan’ın Bahçeli hakkında söyledikleri](baris-pehlivan-2024-10-25.md)
 - [Polis Akademisi’nin uyarısı](baris-pehlivan-2024-10-23.md)
 - [O suçlar o yaşa nasıl sığdı](baris-pehlivan-2024-10-18.md)
@@ -14,4 +15,3 @@
 - [S.Ö.](baris-pehlivan-2024-09-18.md)
 - [Boy değil işlev](baris-pehlivan-2024-09-13.md)
 - [Hani kalbin kuruyacaktı?](baris-pehlivan-2024-09-11.md)
-- [Emri vereni sorgulayacak cesaretiniz var mı?](baris-pehlivan-2024-09-06.md)
