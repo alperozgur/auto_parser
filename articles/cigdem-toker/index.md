@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Truva Bakır Maden’in sermayesi 2 milyara çıktı](cigdem-toker-2024-11-08.md)
 - [Türkiye, AKP ve hizalı şirketlerin tapulu malı mıdır?](cigdem-toker-2024-11-06.md)
 - [İktidarın gündem “becerisi” ve 2025 bütçesi](cigdem-toker-2024-11-01.md)
 - [Yaz saati işkencesi](cigdem-toker-2024-10-30.md)
@@ -11,4 +12,3 @@
 - [Çok fonksiyonlu “yeni anayasa” kaldıracı](cigdem-toker-2024-10-09.md)
 - [Şimşek’in kreş ve istihdam vurgusu](cigdem-toker-2024-10-04.md)
 - [1,5 trilyon bütçen olsun okulların pis olsun](cigdem-toker-2024-10-02.md)
-- [Göstere göstere](cigdem-toker-2024-09-27.md)

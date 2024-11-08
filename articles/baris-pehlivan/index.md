@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Hâkimin itirafı](baris-pehlivan-2024-11-08.md)
 - [50 kurban](baris-pehlivan-2024-11-06.md)
 - [İşte Öcalan’ın Bahçeli hakkında söyledikleri](baris-pehlivan-2024-10-25.md)
 - [Polis Akademisi’nin uyarısı](baris-pehlivan-2024-10-23.md)
@@ -14,4 +15,3 @@
 - [Bürokratın oğlundan istenen para](baris-pehlivan-2024-09-20.md)
 - [S.Ö.](baris-pehlivan-2024-09-18.md)
 - [Boy değil işlev](baris-pehlivan-2024-09-13.md)
-- [Hani kalbin kuruyacaktı?](baris-pehlivan-2024-09-11.md)
