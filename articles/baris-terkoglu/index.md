@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Önümde duran üç fotoğraf](baris-terkoglu-2024-11-11.md)
 - [Kelepçeli burjuvanın duyulmayan çığlığı](baris-terkoglu-2024-11-07.md)
 - [Apocularla ülkücüleri kucaklaştıran adam!](baris-terkoglu-2024-11-04.md)
 - [Demirtaşsız DEM İmamoğlusuz CHP!](baris-terkoglu-2024-10-30.md)
@@ -14,4 +15,3 @@
 - [Devlet diyenler devleti yedi!](baris-terkoglu-2024-09-30.md)
 - [Çare: Sedat Peker!](baris-terkoglu-2024-09-26.md)
 - ['Tayyip'e sor' davası](baris-terkoglu-2024-09-23.md)
-- [Çocuk çığlıklarını nasıl boğuyorlar](baris-terkoglu-2024-09-19.md)
