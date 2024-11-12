@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [12 ve 13 yaşında bebek doğuran çocuklar](murat-agirel-2024-11-12.md)
 - [Konser tartışmasına ABB ne diyor](murat-agirel-2024-11-09.md)
 - [Futbolda pis kokular yükseliyor](murat-agirel-2024-11-05.md)
 - [Milli iradeye müdahale bumerang gibi dönecek](murat-agirel-2024-11-02.md)
@@ -14,4 +15,3 @@
 - [Bu paranın hesabını veren var mı?](murat-agirel-2024-10-01.md)
 - [Sahte diploma furyası](murat-agirel-2024-09-28.md)
 - [Saatte 76 milyon TL faize gitti](murat-agirel-2024-09-24.md)
-- [Milli eğitim üzerinden adınızı kullanıyorlar](murat-agirel-2024-09-21.md)
