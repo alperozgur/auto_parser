@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Mahkemeler ‘Suç yok’ diyor](baris-pehlivan-2024-11-13.md)
 - [Hâkimin itirafı](baris-pehlivan-2024-11-08.md)
 - [50 kurban](baris-pehlivan-2024-11-06.md)
 - [İşte Öcalan’ın Bahçeli hakkında söyledikleri](baris-pehlivan-2024-10-25.md)
@@ -14,4 +15,3 @@
 - [Size bunları anlatmıyorlar](baris-pehlivan-2024-09-25.md)
 - [Bürokratın oğlundan istenen para](baris-pehlivan-2024-09-20.md)
 - [S.Ö.](baris-pehlivan-2024-09-18.md)
-- [Boy değil işlev](baris-pehlivan-2024-09-13.md)
