@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Ayşe’yi siz öldürdünüz!](baris-terkoglu-2024-11-14.md)
 - [Önümde duran üç fotoğraf](baris-terkoglu-2024-11-11.md)
 - [Kelepçeli burjuvanın duyulmayan çığlığı](baris-terkoglu-2024-11-07.md)
 - [Apocularla ülkücüleri kucaklaştıran adam!](baris-terkoglu-2024-11-04.md)
@@ -14,4 +15,3 @@
 - [‘Beni Erdoğan görevden’ aldı diyen CHP’li](baris-terkoglu-2024-10-03.md)
 - [Devlet diyenler devleti yedi!](baris-terkoglu-2024-09-30.md)
 - [Çare: Sedat Peker!](baris-terkoglu-2024-09-26.md)
-- ['Tayyip'e sor' davası](baris-terkoglu-2024-09-23.md)
