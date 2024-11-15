@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [MASAK’ın yasa dışı bahis ve kumar raporunda neler var?](tolga-sardan-buyutec-2024-11-15.md)
 - [Savcı Sisli Vadi’de “olası kasıtla adam öldürme”den ceza isterken, mahkeme “bilinçli taksirle” suçu neden hafifletti!](tolga-sardan-buyutec-2024-11-12.md)
 - [Ecevit, Avcıoğlu, CHP ve adaylık yarışı](tolga-sardan-buyutec-2024-11-08.md)
 - [TUSAŞ’ın korunmasındaki zafiyet kimin sorumluluğunda?](tolga-sardan-buyutec-2024-11-05.md)
@@ -11,4 +12,3 @@
 - [Sisli Vadi dosyasında önemli gelişme: Tesis yöneticisinin ölümüyle ilgili cinayet soruşturması başlatıldı!](tolga-sardan-buyutec-2024-10-15.md)
 - [Eski MHP ilçe başkanı, cinayet soruşturmasında tutuklandı!](tolga-sardan-buyutec-2024-10-11.md)
 - [Mafyada, cemaat tipi örgütlenme!](tolga-sardan-buyutec-2024-10-08.md)
-- [Başsavcı görevden alındı, Sisli Vadi’nin sisi kalkıyor!](tolga-sardan-buyutec-2024-10-04.md)

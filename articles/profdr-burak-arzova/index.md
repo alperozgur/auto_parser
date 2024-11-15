@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Türk tipi IMF programı ile enflasyonla mücadele](profdr-burak-arzova-2024-11-15.md)
 - [Trump versiyon 2.0 yüklendi](profdr-burak-arzova-2024-11-08.md)
 - [Yaşanan yüksek enflasyonda iş dünyasının payı var mı?](profdr-burak-arzova-2024-11-01.md)
 - [Yurtiçi turizm verilerinden ekonomiyi okumak](profdr-burak-arzova-2024-10-25.md)
@@ -15,4 +16,3 @@
 - [Türkiye stagflasyonun eşiğinde mi?](profdr-burak-arzova-2024-08-16.md)
 - [Instagram yasağı bir yasaktan daha ötesi](profdr-burak-arzova-2024-08-09.md)
 - [Sanayi için durum gitgide kötüleşiyor](profdr-burak-arzova-2024-08-02.md)
-- [Rekabet noksanlığı enflasyonun temel sebeplerinden biri](profdr-burak-arzova-2024-07-26.md)
