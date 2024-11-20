@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [7,5 yıl sonra yapılan keşif ve sıfırlanan telefonlar](tolga-sardan-buyutec-2024-11-20.md)
 - [Adaletin merhem ol(a)madığı yine bir evlat acısı dosyası mı?](tolga-sardan-buyutec-2024-11-19.md)
 - [MASAK’ın yasa dışı bahis ve kumar raporunda neler var?](tolga-sardan-buyutec-2024-11-15.md)
 - [Savcı Sisli Vadi’de “olası kasıtla adam öldürme”den ceza isterken, mahkeme “bilinçli taksirle” suçu neden hafifletti!](tolga-sardan-buyutec-2024-11-12.md)
@@ -11,4 +12,3 @@
 - [Yenidoğan çetesinde adı geçen hastane, SGK borcundan kurtulmak için konkordato ilan etmiş!](tolga-sardan-buyutec-2024-10-22.md)
 - [Yargı camiasındaki iddia: Yargıtay yönetimi, 11 üyeye “emekli olun” tavsiyesinde bulundu](tolga-sardan-buyutec-2024-10-18.md)
 - [Sisli Vadi dosyasında önemli gelişme: Tesis yöneticisinin ölümüyle ilgili cinayet soruşturması başlatıldı!](tolga-sardan-buyutec-2024-10-15.md)
-- [Eski MHP ilçe başkanı, cinayet soruşturmasında tutuklandı!](tolga-sardan-buyutec-2024-10-11.md)

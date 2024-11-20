@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Korumacılığın sonu enflasyon..”](emre-alkin-2024-11-20.md)
 - [“Trump ile dertler azalacak mı, artacak mı?”](emre-alkin-2024-11-13.md)
 - [“Enflasyon ve cari açık”](emre-alkin-2024-11-06.md)
 - [“Politika faizi ve döviz kurları...”](emre-alkin-2024-10-30.md)
@@ -15,4 +16,3 @@
 - [“Çok şükür demek yerine başardık diyoruz…”](emre-alkin-2024-08-21.md)
 - [“Başarısızlığa kayıtsız kalmak başarıyı önemsizleştirir..."](emre-alkin-2024-08-14.md)
 - ["Erken faiz indirimi kapıda mı, değil mi?"](emre-alkin-2024-08-07.md)
-- [“Bıraksalar ekonomi kendi kendine düzelir...”](emre-alkin-2024-07-31.md)

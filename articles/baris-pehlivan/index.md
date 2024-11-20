@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Mesele cami değil sen anlamadın mı?](baris-pehlivan-2024-11-20.md)
 - [Soner Ergin, Devlet Bahçeli ile görüşmesini anlattı](baris-pehlivan-2024-11-15.md)
 - [Mahkemeler ‘Suç yok’ diyor](baris-pehlivan-2024-11-13.md)
 - [Hâkimin itirafı](baris-pehlivan-2024-11-08.md)
@@ -14,4 +15,3 @@
 - [Dördün biri](baris-pehlivan-2024-10-02.md)
 - [O müdürün sırtını sıvazlayan karar](baris-pehlivan-2024-09-27.md)
 - [Size bunları anlatmıyorlar](baris-pehlivan-2024-09-25.md)
-- [Bürokratın oğlundan istenen para](baris-pehlivan-2024-09-20.md)
