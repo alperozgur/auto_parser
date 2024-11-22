@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Yapay zekâya geçiş ya şimdi ya da hiçbir zaman](profdr-burak-arzova-2024-11-22.md)
 - [Türk tipi IMF programı ile enflasyonla mücadele](profdr-burak-arzova-2024-11-15.md)
 - [Trump versiyon 2.0 yüklendi](profdr-burak-arzova-2024-11-08.md)
 - [Yaşanan yüksek enflasyonda iş dünyasının payı var mı?](profdr-burak-arzova-2024-11-01.md)
@@ -15,4 +16,3 @@
 - [Enflasyonda düşüş beklentileri neden oluşmuyor?](profdr-burak-arzova-2024-08-23.md)
 - [Türkiye stagflasyonun eşiğinde mi?](profdr-burak-arzova-2024-08-16.md)
 - [Instagram yasağı bir yasaktan daha ötesi](profdr-burak-arzova-2024-08-09.md)
-- [Sanayi için durum gitgide kötüleşiyor](profdr-burak-arzova-2024-08-02.md)

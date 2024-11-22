@@ -106,5 +106,3 @@ Bu sorulara tam yanıt vermeden, yolsuzlukların kamu kaynaklarında yol açtı�
 
 Yenidoğan çetesinin bize gösterdiği gerçeklerden biri de budur.
 
-
-

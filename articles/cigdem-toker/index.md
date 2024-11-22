@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Sağlık çıkmazı ve bütçe](cigdem-toker-2024-11-22.md)
 - [Denetim açığı öldürür](cigdem-toker-2024-11-20.md)
 - [Ağaç katliamı ile sponsorluk bir arada](cigdem-toker-2024-11-15.md)
 - [Gazetecilik dikte edilmemiş soruları sormaktır](cigdem-toker-2024-11-13.md)
@@ -11,4 +12,3 @@
 - [IMF raporundan öğrendiğimiz](cigdem-toker-2024-10-23.md)
 - [Atatürk Havalimanı ve bitmeyen kamu zararı](cigdem-toker-2024-10-18.md)
 - [İktidar, limite haraç öfkesini “gördü”](cigdem-toker-2024-10-16.md)
-- [Fernas’ın işçileri, milletin vekili](cigdem-toker-2024-10-11.md)

@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Dorukhan Büyükışık cinayetinde polislere yargı yolu](tolga-sardan-buyutec-2024-11-22.md)
 - [7,5 yıl sonra yapılan keşif ve sıfırlanan telefonlar](tolga-sardan-buyutec-2024-11-20.md)
 - [Adaletin merhem ol(a)madığı yine bir evlat acısı dosyası mı?](tolga-sardan-buyutec-2024-11-19.md)
 - [MASAK’ın yasa dışı bahis ve kumar raporunda neler var?](tolga-sardan-buyutec-2024-11-15.md)
@@ -11,4 +12,3 @@
 - [TUSAŞ saldırısında kader anı: Cevap alınamayan cep telefonu araması, taksicinin kaderini nasıl değiştirdi?](tolga-sardan-buyutec-2024-10-24.md)
 - [Yenidoğan çetesinde adı geçen hastane, SGK borcundan kurtulmak için konkordato ilan etmiş!](tolga-sardan-buyutec-2024-10-22.md)
 - [Yargı camiasındaki iddia: Yargıtay yönetimi, 11 üyeye “emekli olun” tavsiyesinde bulundu](tolga-sardan-buyutec-2024-10-18.md)
-- [Sisli Vadi dosyasında önemli gelişme: Tesis yöneticisinin ölümüyle ilgili cinayet soruşturması başlatıldı!](tolga-sardan-buyutec-2024-10-15.md)
