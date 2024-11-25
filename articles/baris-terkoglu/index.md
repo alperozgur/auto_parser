@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Türk ordusunun Kubilaysızlaştırılması](baris-terkoglu-2024-11-25.md)
 - [Kadınlara cehennem hazırlayanlar](baris-terkoglu-2024-11-21.md)
 - [Mustafa Kemal’in askerleriyiz!](baris-terkoglu-2024-11-18.md)
 - [Ayşe’yi siz öldürdünüz!](baris-terkoglu-2024-11-14.md)
@@ -14,4 +15,3 @@
 - [E-Nabız bizimse parası da bizim olsun!](baris-terkoglu-2024-10-14.md)
 - [E-Nabız deyip geçmeyin!](baris-terkoglu-2024-10-10.md)
 - [Yasak kardeşim yasak!](baris-terkoglu-2024-10-07.md)
-- [‘Beni Erdoğan görevden’ aldı diyen CHP’li](baris-terkoglu-2024-10-03.md)
