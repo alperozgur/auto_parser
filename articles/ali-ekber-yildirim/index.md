@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Yediğimiz sebze ve meyvenin “temiz” olduğuna inanan var mı?](ali-ekber-yildirim-2024-11-27.md)
 - [İnek ithalatında yeni yılda yeni kurallar geliyor](ali-ekber-yildirim-2024-11-19.md)
 - [Tarıma 2025 bütçesinden 135 milyar lira destek ödenecek](ali-ekber-yildirim-2024-10-31.md)
 - [Tarımda kadının emeği var, söz hakkı yok!](ali-ekber-yildirim-2024-10-22.md)
@@ -15,4 +16,3 @@
 - [İş Bankası’nın 100. yılında tarımda yeni bir hikâye yazılıyor](ali-ekber-yildirim-2024-08-26.md)
 - [Tarım Bakanlığı 2 yıl ekilmeyen tarım arazilerini kiraya verecek](ali-ekber-yildirim-2024-08-23.md)
 - [Güngör Uras’ın yıllar geçse de eskimeyen yazıları](ali-ekber-yildirim-2024-08-20.md)
-- [Kavun, karpuz, domates tarlada bedava, rafta ateş pahası](ali-ekber-yildirim-2024-08-14.md)
