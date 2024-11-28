@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Teğmenleri değil yargıçları konuşalım](baris-terkoglu-2024-11-28.md)
 - [Türk ordusunun Kubilaysızlaştırılması](baris-terkoglu-2024-11-25.md)
 - [Kadınlara cehennem hazırlayanlar](baris-terkoglu-2024-11-21.md)
 - [Mustafa Kemal’in askerleriyiz!](baris-terkoglu-2024-11-18.md)
@@ -14,4 +15,3 @@
 - [Meksika sınırındaki Türk çocuklar](baris-terkoglu-2024-10-17.md)
 - [E-Nabız bizimse parası da bizim olsun!](baris-terkoglu-2024-10-14.md)
 - [E-Nabız deyip geçmeyin!](baris-terkoglu-2024-10-10.md)
-- [Yasak kardeşim yasak!](baris-terkoglu-2024-10-07.md)
