@@ -1,5 +1,6 @@
 # Şant Manukyan
 
+- [Ruble ve etkileri](sant-manukyan-2024-11-29.md)
 - [Trump değil ekibi](sant-manukyan-2024-11-15.md)
 - [Altın ve dünya](sant-manukyan-2024-10-18.md)
 - [Çin ve coşku](sant-manukyan-2024-10-04.md)
@@ -15,4 +16,3 @@
 - [Yeni bir dünya kurulur altın yerini alır](sant-manukyan-2024-05-24.md)
 - [Sadece Fed vs ECB mi yoksa ABD vs AB mi?](sant-manukyan-2024-05-23.md)
 - [Altın bir kırılmaya mı işaret ediyor?](sant-manukyan-2024-04-26.md)
-- [ABD ve Çin](sant-manukyan-2024-04-05.md)

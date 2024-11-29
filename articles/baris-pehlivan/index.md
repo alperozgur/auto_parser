@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Mesele Erdoğan’ın konuşmasından daha derin](baris-pehlivan-2024-11-29.md)
 - [Bahçeli’nin masasındaki kitapta ne yazıyor?](baris-pehlivan-2024-11-27.md)
 - [Mahruki yine yandı](baris-pehlivan-2024-11-22.md)
 - [Mesele cami değil sen anlamadın mı?](baris-pehlivan-2024-11-20.md)
@@ -14,4 +15,3 @@
 - [İnternette yeni bir dönem mi başlıyor?](baris-pehlivan-2024-10-11.md)
 - [Suçun üstünü örttükleri bayrak](baris-pehlivan-2024-10-09.md)
 - [Apple ‘Sinan Ateş’ için ne diyecek?](baris-pehlivan-2024-10-04.md)
-- [Dördün biri](baris-pehlivan-2024-10-02.md)
