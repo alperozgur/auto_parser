@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Adalet kimin için tecelli edecek](murat-agirel-2024-11-30.md)
 - [Ankara’da konuşulan iddianame](murat-agirel-2024-11-26.md)
 - [‘Kar leoparı’ neden cezaevinde](murat-agirel-2024-11-23.md)
 - [AKP’li belediyede 330 milyonluk ihale](murat-agirel-2024-11-19.md)
@@ -14,4 +15,3 @@
 - [İsrail’e ticaret Filistin’e ticaret oldu](murat-agirel-2024-10-19.md)
 - [Sahte diploma ve yargının acizliği](murat-agirel-2024-10-15.md)
 - [Ne yediğimiz belli değil](murat-agirel-2024-10-12.md)
-- [Belediyelerin SGK borçları](murat-agirel-2024-10-08.md)
