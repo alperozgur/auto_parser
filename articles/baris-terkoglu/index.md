@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Bir garip İmamoğlu belgesi](baris-terkoglu-2024-12-02.md)
 - [Teğmenleri değil yargıçları konuşalım](baris-terkoglu-2024-11-28.md)
 - [Türk ordusunun Kubilaysızlaştırılması](baris-terkoglu-2024-11-25.md)
 - [Kadınlara cehennem hazırlayanlar](baris-terkoglu-2024-11-21.md)
@@ -14,4 +15,3 @@
 - [Hepiniz bal gibi biliyordunuz!](baris-terkoglu-2024-10-21.md)
 - [Meksika sınırındaki Türk çocuklar](baris-terkoglu-2024-10-17.md)
 - [E-Nabız bizimse parası da bizim olsun!](baris-terkoglu-2024-10-14.md)
-- [E-Nabız deyip geçmeyin!](baris-terkoglu-2024-10-10.md)
