@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Kara Harp Okulu’nda İzmir Marşı süreci ve Beşiktaş’ta “turuncu devrim”in önlenemeyen tükenişi](tolga-sardan-buyutec-2024-12-03.md)
 - [Kara Harp Okulu’nda yeni vaka: Öğrencilerin İzmir Marşı okuması da yasaklanmış!](tolga-sardan-buyutec-2024-11-29.md)
 - [Ufuk Uras: Bahçeli "Bizim 50 vekilimiz var, çoğunluk AK Parti’de, onların adım atması gerekiyor" dedi](tolga-sardan-buyutec-2024-11-26.md)
 - [Dorukhan Büyükışık cinayetinde polislere yargı yolu](tolga-sardan-buyutec-2024-11-22.md)
@@ -11,4 +12,3 @@
 - [TUSAŞ’ın korunmasındaki zafiyet kimin sorumluluğunda?](tolga-sardan-buyutec-2024-11-05.md)
 - [TUSAŞ saldırısında ikinci perde: İstihbarat tam iki ay önce geldi!](tolga-sardan-buyutec-2024-11-01.md)
 - [TUSAŞ saldırısı göz göre göre geldi: Tesis, özel güvenlik denetiminde sınıfta kalmış!](tolga-sardan-buyutec-2024-10-29.md)
-- [TUSAŞ saldırısında kader anı: Cevap alınamayan cep telefonu araması, taksicinin kaderini nasıl değiştirdi?](tolga-sardan-buyutec-2024-10-24.md)
