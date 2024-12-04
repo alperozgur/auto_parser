@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Faiz indiriminin zamanı değil…”](emre-alkin-2024-12-04.md)
 - [“TCMB başkanlarının görev süreleri ve CDS primleri…”](emre-alkin-2024-11-27.md)
 - [“Korumacılığın sonu enflasyon..”](emre-alkin-2024-11-20.md)
 - [“Trump ile dertler azalacak mı, artacak mı?”](emre-alkin-2024-11-13.md)
@@ -15,4 +16,3 @@
 - [“Büyüme rakamı bize kısaca ne diyor?”](emre-alkin-2024-09-04.md)
 - [“Enflasyonda doğru reçeteyi yazmak için…”](emre-alkin-2024-08-28.md)
 - [“Çok şükür demek yerine başardık diyoruz…”](emre-alkin-2024-08-21.md)
-- [“Başarısızlığa kayıtsız kalmak başarıyı önemsizleştirir..."](emre-alkin-2024-08-14.md)
