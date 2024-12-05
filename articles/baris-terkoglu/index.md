@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Biri hukuk devleti mi dedi?](baris-terkoglu-2024-12-05.md)
 - [Bir garip İmamoğlu belgesi](baris-terkoglu-2024-12-02.md)
 - [Teğmenleri değil yargıçları konuşalım](baris-terkoglu-2024-11-28.md)
 - [Türk ordusunun Kubilaysızlaştırılması](baris-terkoglu-2024-11-25.md)
@@ -14,4 +15,3 @@
 - [Kandilsiz Apo, Demirtaşsız DEM](baris-terkoglu-2024-10-24.md)
 - [Hepiniz bal gibi biliyordunuz!](baris-terkoglu-2024-10-21.md)
 - [Meksika sınırındaki Türk çocuklar](baris-terkoglu-2024-10-17.md)
-- [E-Nabız bizimse parası da bizim olsun!](baris-terkoglu-2024-10-14.md)
