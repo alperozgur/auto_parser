@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Asgari ücret artışındaki “denge”](cigdem-toker-2024-12-06.md)
 - [Asgari ücrette gerçek patron: Erdoğan](cigdem-toker-2024-12-04.md)
 - [Zam kıskacı şiddetlenirken...](cigdem-toker-2024-11-29.md)
 - [Kirazlı-Halkalı hattı ihalesi nasıl üçe katlandı?](cigdem-toker-2024-11-27.md)
@@ -11,4 +12,3 @@
 - [Türkiye, AKP ve hizalı şirketlerin tapulu malı mıdır?](cigdem-toker-2024-11-06.md)
 - [İktidarın gündem “becerisi” ve 2025 bütçesi](cigdem-toker-2024-11-01.md)
 - [Yaz saati işkencesi](cigdem-toker-2024-10-30.md)
-- [Nakkaş-Başakşehir’de şirket operasyonları](cigdem-toker-2024-10-25.md)
