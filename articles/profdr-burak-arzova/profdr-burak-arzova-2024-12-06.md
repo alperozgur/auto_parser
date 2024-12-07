@@ -8,8 +8,6 @@ Hemen söyleyeyim; bu başlığın sahibi ben değilim. Rahmetli Demirel’den k
 
 Ancak o kadar güzel ifade etti ki ben de arşivlerde kalsın istedim. O nedenle bu haftaki başlık Sevgili Hakan Kara Hoca’dan.
 
-
-
 Olmuyor olamıyor, enflasyon bir türlü düşmüyor
 
 Merkez Bankası 21 Kasım 2024 tarihli Para Politikası Kurulu (PPK) toplantısında her ne kadar ‘…Ekim ayında enflasyonun ana eğiliminde düşüş gözlenmiştir. Son çeyreğe ilişkin göstergeler yurt içi talebin yavaşlamaya devam ederek enflasyondaki düşüşü destekleyici seviyelere geldiğini ima etmektedir. Temel mal enflasyonu düşük seyretmeye devam ederken, hizmet enflasyonunda iyileşmeye dair sinyaller belirginleşmiştir…’ dese de hal böyle değil aslında.
@@ -20,8 +18,6 @@ Belli ki Merkez Bankası bu ifadeleri Aralık ayında olası bir faiz indirimi i
 
 03.Aralık.2024 tarihinde ise TÜİK’in açıkladığı Kasım ayı TÜFE yani resmi enflasyon rakamı aylık yüzde 2,24 ile piyasa beklentilerinin epey üzerinde gerçekleşti. Böylece, enflasyon resmi rakamlara göre hane halkının beklendiğinin altında, piyasacıların ise beklentilerinin üzerinde gelmiş oldu.
 
-
-
 Manşet rakam epey yüksek, fakat manşetin altına inip detaylara baktığımda önce umutlandım. Hatta uzun zaman sonra iyimser olduğumu da söyleyebilirim.
 
 Kasım 2024 enflasyonu manşette yüksek olmasına karşılık Kasım 2022 (yüzde 2,88) enflasyonun altında bir gerçekleşme gösterdi. Bunun yanında Merkez Bankası’nın gerek enflasyon raporlarında gerekse de aylık fiyat gelişmeleri raporlarında sıklıkla bahsettiği gıda ve alkolsüz içecekler aylık bazda 5,10 gelirken, içinde kira ve aidatı da barındıran konut manşetin biraz üzerinde yüzde 2,40 gerçekleşmiş. Sağlık, eğlence ve kültür de yüksek gelen hizmet kalemleri.
@@ -31,8 +27,6 @@ Gerek işlenmemiş gıda fiyatlarına gerekse hizmetlere Merkez Bankası’nın 
 Tablo bana şunu söylüyor. Hizmetlerde kısmi bir geri çekilme var, bazı mal fiyatlarında ise artış gözüküyor.
 
 Mal fiyatlarında artış olması elbette arzulanan bir husus değil. Merkez Bankası para politikası önlemleri ile talebe müdahale etmeyi amaçlıyor. Ancak ÜFE verisinden gördüğümüz kadarıyla Üretici Maliyetleri Kasım 2024’te oldukça düşük gerçekleşmesine rağmen (yüzde 0,66) aylık bazda yüksek sayıda üründe maliyet artışı manşet ÜFE üzerinde.
-
-
 
 İthalata dayalı ürünlerde ise kurun neredeyse hiç artmamasına rağmen maliyet artışı dikkat çekici. Dış Ticaret Bakanlığı İthalat-İhracat verilerinden gördüğümüz toplam ithalatın içerisinde tüketim malı ithalatı payının bir aydan diğerine artış gösterdiği. En son Kasım 2024 ‘İthalatın Dağılımında’ tüketim malları ithalatı yüzde 17,4 ile yatırım malları ithalatının (yüzde 13,9) üzerinde. Kasım ayında 4 milyar 129 milyon dolarlık tüketim malı ithalatı yapılmış. Yani talep hala yüksek.
 
@@ -51,24 +45,6 @@ Merkez Bankası 04 Aralık 2024 tarihinde yayınladığı aylık fiyat gelişmel
 ‘….Temel mal grubunda fiyat artışı düşük seyrini korumuştur. İstisna olarak, aya özgü indirim dönemine rağmen beyaz eşya ve elektrikli ev aletlerindeki fiyat artışları güçlü seyretmiştir. Söz konusu kalemler dışındaki dayanıklı mallarda fiyatların sınırlı bir şekilde yükseldiği gözlenmiştir. Mevsimsel etkilerle fiyatları düşüş sergileyen giyim ve ayakkabı alt grubu, temel mal aylık enflasyonunu olumlu etkilemiştir. Hizmet grubu aylık fiyat artışı kasım ayında ılımlı seyretmiştir. …’ diyerek aslında büyük ölçüde dediklerimizi teyit etmiş.
 
 Bu gelişmeler sonrasında sanırım onlar da faiz kapısının gereksiz yere açıldığı konusunda hem fikirdirler.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
