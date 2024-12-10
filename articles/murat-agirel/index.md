@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Bedava peynir fare kapanında olur](murat-agirel-2024-12-10.md)
 - [Bu çarktan hep birlikte çıkacağız](murat-agirel-2024-12-07.md)
 - [Adalet kimin için tecelli edecek](murat-agirel-2024-11-30.md)
 - [Ankara’da konuşulan iddianame](murat-agirel-2024-11-26.md)
@@ -14,4 +15,3 @@
 - [Bunca şehide, anasına babasına yazık](murat-agirel-2024-10-26.md)
 - [Katil doktor ve çetesinden sonra kiralık doktor da çıktı](murat-agirel-2024-10-22.md)
 - [İsrail’e ticaret Filistin’e ticaret oldu](murat-agirel-2024-10-19.md)
-- [Sahte diploma ve yargının acizliği](murat-agirel-2024-10-15.md)

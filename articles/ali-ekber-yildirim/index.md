@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Tariş, zeytinyağı alım fiyatını ne zaman açıklayacak?](ali-ekber-yildirim-2024-12-10.md)
 - [Yediğimiz sebze ve meyvenin “temiz” olduğuna inanan var mı?](ali-ekber-yildirim-2024-11-27.md)
 - [İnek ithalatında yeni yılda yeni kurallar geliyor](ali-ekber-yildirim-2024-11-19.md)
 - [Tarıma 2025 bütçesinden 135 milyar lira destek ödenecek](ali-ekber-yildirim-2024-10-31.md)
@@ -15,4 +16,3 @@
 - [İklim değişikliği gıda enflasyonunu tehdit ediyor](ali-ekber-yildirim-2024-08-28.md)
 - [İş Bankası’nın 100. yılında tarımda yeni bir hikâye yazılıyor](ali-ekber-yildirim-2024-08-26.md)
 - [Tarım Bakanlığı 2 yıl ekilmeyen tarım arazilerini kiraya verecek](ali-ekber-yildirim-2024-08-23.md)
-- [Güngör Uras’ın yıllar geçse de eskimeyen yazıları](ali-ekber-yildirim-2024-08-20.md)
