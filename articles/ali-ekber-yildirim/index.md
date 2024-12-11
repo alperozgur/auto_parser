@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Dünyanın en büyük zeytinyağı ithalatçısı Amerika](ali-ekber-yildirim-2024-12-11.md)
 - [Tariş, zeytinyağı alım fiyatını ne zaman açıklayacak?](ali-ekber-yildirim-2024-12-10.md)
 - [Yediğimiz sebze ve meyvenin “temiz” olduğuna inanan var mı?](ali-ekber-yildirim-2024-11-27.md)
 - [İnek ithalatında yeni yılda yeni kurallar geliyor](ali-ekber-yildirim-2024-11-19.md)
@@ -15,4 +16,3 @@
 - [Mazot ve gübre desteği kaldırıldı, yerine temel destek ödenecek](ali-ekber-yildirim-2024-08-30.md)
 - [İklim değişikliği gıda enflasyonunu tehdit ediyor](ali-ekber-yildirim-2024-08-28.md)
 - [İş Bankası’nın 100. yılında tarımda yeni bir hikâye yazılıyor](ali-ekber-yildirim-2024-08-26.md)
-- [Tarım Bakanlığı 2 yıl ekilmeyen tarım arazilerini kiraya verecek](ali-ekber-yildirim-2024-08-23.md)
