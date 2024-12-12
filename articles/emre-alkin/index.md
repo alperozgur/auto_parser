@@ -1,6 +1,6 @@
 # Emre Alkin
 
-- ["Suriye'deki sürecin galibi Türkiye mi?"](emre-alkin-2024-12-11.md)
+- [Suriye'deki sürecin galibi Türkiye mi?](emre-alkin-2024-12-11.md)
 - [“Faiz indiriminin zamanı değil…”](emre-alkin-2024-12-04.md)
 - [“TCMB başkanlarının görev süreleri ve CDS primleri…”](emre-alkin-2024-11-27.md)
 - [“Korumacılığın sonu enflasyon..”](emre-alkin-2024-11-20.md)

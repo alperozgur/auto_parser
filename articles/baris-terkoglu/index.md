@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Yeni Ortadoğu projesi eşbaşkanı](baris-terkoglu-2024-12-12.md)
 - [İnci İnci intihalde birinci](baris-terkoglu-2024-12-09.md)
 - [Biri hukuk devleti mi dedi?](baris-terkoglu-2024-12-05.md)
 - [Bir garip İmamoğlu belgesi](baris-terkoglu-2024-12-02.md)
@@ -14,4 +15,3 @@
 - [Demirtaşsız DEM İmamoğlusuz CHP!](baris-terkoglu-2024-10-30.md)
 - [İsrail’e dokundurmayan İslamcılar](baris-terkoglu-2024-10-28.md)
 - [Kandilsiz Apo, Demirtaşsız DEM](baris-terkoglu-2024-10-24.md)
-- [Hepiniz bal gibi biliyordunuz!](baris-terkoglu-2024-10-21.md)

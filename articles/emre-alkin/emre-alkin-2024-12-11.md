@@ -2,7 +2,7 @@
 
 ### Yayımlanma tarihi: 2024-12-11
 
-# "Suriye'deki sürecin galibi Türkiye mi?"
+# Suriye'deki sürecin galibi Türkiye mi?
 
 Önce meselenin ekonomik tarafına bakalım: Suriye rejimi ile Türkiye arasında sıkıntı çıkmadan hemen önce takriben 1,5 milyar dolar civarında ihracatımız vardı. Ancak bundan daha iyi günlerimiz de oldu.
 
