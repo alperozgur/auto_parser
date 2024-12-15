@@ -46,9 +46,9 @@ Evet, Türkiye hegemonya alanını genişletti. Anlatmak istediğim hiçbir şey
 
 Esad 12 günde devrilmedi. Esad devrildikten sonra ilk ne oldu?
 
-Borsa İstanbul’daki inşaat ve çimento şirketlerinin hisse değerleri fırladı. Çünkü Türkiye kendisine yeni bir inşaat ve ticaret pazarı yarattı. Petrolünü ABD alırken Suriye pazarındaki temel ihtiyaç pazarına da muhtemelen Türkiye yerleşecek. F
+Borsa İstanbul’daki inşaat ve çimento şirketlerinin hisse değerleri fırladı. Çünkü Türkiye kendisine yeni bir inşaat ve ticaret pazarı yarattı. Petrolünü ABD alırken Suriye pazarındaki temel ihtiyaç pazarına da muhtemelen Türkiye yerleşecek.
 
-akat ne yazık ki burada kazanan yine Türk milleti olmadı. Bu sömürge savaşında ne emeklilerimiz ne öğrencilerimiz ne de asgari ücretlilerimiz kazanarak çıkmadı. Aksine bu savaş onların ceplerinden finanse edildi.
+Fakat ne yazık ki burada kazanan yine Türk milleti olmadı. Bu sömürge savaşında ne emeklilerimiz ne öğrencilerimiz ne de asgari ücretlilerimiz kazanarak çıkmadı. Aksine bu savaş onların ceplerinden finanse edildi.
 
 Onlar ağır vergiler altında ezilmeye devam ederken yine birkaç kişi birkaç şirket bu pazarlarda zenginleşecek.
 
