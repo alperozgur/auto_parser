@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Bir acayip Türkiye hikâyesi](baris-terkoglu-2024-12-16.md)
 - [Yeni Ortadoğu projesi eşbaşkanı](baris-terkoglu-2024-12-12.md)
 - [İnci İnci intihalde birinci](baris-terkoglu-2024-12-09.md)
 - [Biri hukuk devleti mi dedi?](baris-terkoglu-2024-12-05.md)
@@ -14,4 +15,3 @@
 - [Apocularla ülkücüleri kucaklaştıran adam!](baris-terkoglu-2024-11-04.md)
 - [Demirtaşsız DEM İmamoğlusuz CHP!](baris-terkoglu-2024-10-30.md)
 - [İsrail’e dokundurmayan İslamcılar](baris-terkoglu-2024-10-28.md)
-- [Kandilsiz Apo, Demirtaşsız DEM](baris-terkoglu-2024-10-24.md)
