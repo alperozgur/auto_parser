@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Milli Savunma Bakanı Yaşar Güler’e sesleniyorum](murat-agirel-2024-12-17.md)
 - [Filler tepişiyor çimenler eziliyor](murat-agirel-2024-12-14.md)
 - [Bedava peynir fare kapanında olur](murat-agirel-2024-12-10.md)
 - [Bu çarktan hep birlikte çıkacağız](murat-agirel-2024-12-07.md)
@@ -14,4 +15,3 @@
 - [Milli iradeye müdahale bumerang gibi dönecek](murat-agirel-2024-11-02.md)
 - [Şimdi Cumhuriyeti ayağa kaldırma zamanı](murat-agirel-2024-10-29.md)
 - [Bunca şehide, anasına babasına yazık](murat-agirel-2024-10-26.md)
-- [Katil doktor ve çetesinden sonra kiralık doktor da çıktı](murat-agirel-2024-10-22.md)
