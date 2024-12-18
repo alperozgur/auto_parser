@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [İhale kanunundaki manidar gecikme](cigdem-toker-2024-12-18.md)
 - [Sağlık bütçesi kimin için?](cigdem-toker-2024-12-13.md)
 - [2025 bütçesinde KÖİ ve Dışişleri bütçesi](cigdem-toker-2024-12-11.md)
 - [Asgari ücret artışındaki “denge”](cigdem-toker-2024-12-06.md)
@@ -11,4 +12,3 @@
 - [Ağaç katliamı ile sponsorluk bir arada](cigdem-toker-2024-11-15.md)
 - [Gazetecilik dikte edilmemiş soruları sormaktır](cigdem-toker-2024-11-13.md)
 - [Truva Bakır Maden’in sermayesi 2 milyara çıktı](cigdem-toker-2024-11-08.md)
-- [Türkiye, AKP ve hizalı şirketlerin tapulu malı mıdır?](cigdem-toker-2024-11-06.md)

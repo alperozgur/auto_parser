@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Amerika’nın gözüyle Türkiye gıda perakende sektörü (2)](ali-ekber-yildirim-2024-12-18.md)
 - [Amerika’nın gözüyle Türkiye gıda perakende sektörü (1)](ali-ekber-yildirim-2024-12-17.md)
 - [Dünyanın en büyük zeytinyağı ithalatçısı Amerika](ali-ekber-yildirim-2024-12-11.md)
 - [Tariş, zeytinyağı alım fiyatını ne zaman açıklayacak?](ali-ekber-yildirim-2024-12-10.md)
@@ -15,4 +16,3 @@
 - [Pancarda hasat var fiyat yok](ali-ekber-yildirim-2024-09-17.md)
 - [Çiftçi gözüyle tarımda yeni destekleme modeli](ali-ekber-yildirim-2024-09-10.md)
 - [Mazot ve gübre desteği kaldırıldı, yerine temel destek ödenecek](ali-ekber-yildirim-2024-08-30.md)
-- [İklim değişikliği gıda enflasyonunu tehdit ediyor](ali-ekber-yildirim-2024-08-28.md)

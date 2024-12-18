@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [‘Eski bakan istiyor, tahliye edin’](baris-pehlivan-2024-12-18.md)
 - [Ayşenur Arslan’ın Colani ile ilişkisi](baris-pehlivan-2024-12-13.md)
 - [Mesele Erdoğan’ın konuşmasından daha derin](baris-pehlivan-2024-11-29.md)
 - [Bahçeli’nin masasındaki kitapta ne yazıyor?](baris-pehlivan-2024-11-27.md)
@@ -14,4 +15,3 @@
 - [O suçlar o yaşa nasıl sığdı](baris-pehlivan-2024-10-18.md)
 - [Peki, Öcalan ne diyor?](baris-pehlivan-2024-10-16.md)
 - [İnternette yeni bir dönem mi başlıyor?](baris-pehlivan-2024-10-11.md)
-- [Suçun üstünü örttükleri bayrak](baris-pehlivan-2024-10-09.md)
