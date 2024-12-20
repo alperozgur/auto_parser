@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [İkinci yılında 414 sayfada olmayanlar](baris-pehlivan-2024-12-20.md)
 - [‘Eski bakan istiyor, tahliye edin’](baris-pehlivan-2024-12-18.md)
 - [Ayşenur Arslan’ın Colani ile ilişkisi](baris-pehlivan-2024-12-13.md)
 - [Mesele Erdoğan’ın konuşmasından daha derin](baris-pehlivan-2024-11-29.md)
@@ -14,4 +15,3 @@
 - [Polis Akademisi’nin uyarısı](baris-pehlivan-2024-10-23.md)
 - [O suçlar o yaşa nasıl sığdı](baris-pehlivan-2024-10-18.md)
 - [Peki, Öcalan ne diyor?](baris-pehlivan-2024-10-16.md)
-- [İnternette yeni bir dönem mi başlıyor?](baris-pehlivan-2024-10-11.md)

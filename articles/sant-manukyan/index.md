@@ -1,5 +1,6 @@
 # Şant Manukyan
 
+- [Fed Noel Baba’yı kovalarken](sant-manukyan-2024-12-20.md)
 - [Son toplantıya doğru](sant-manukyan-2024-12-13.md)
 - [Ruble ve etkileri](sant-manukyan-2024-11-29.md)
 - [Trump değil ekibi](sant-manukyan-2024-11-15.md)
@@ -15,4 +16,3 @@
 - [Gelir Bilgi dağılımı eşitsizliğine dikkat](sant-manukyan-2024-06-28.md)
 - [Bakır ayrışması](sant-manukyan-2024-05-31.md)
 - [Yeni bir dünya kurulur altın yerini alır](sant-manukyan-2024-05-24.md)
-- [Sadece Fed vs ECB mi yoksa ABD vs AB mi?](sant-manukyan-2024-05-23.md)

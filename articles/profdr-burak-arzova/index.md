@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Asgari ücret değil ortalama ücret belirliyoruz](profdr-burak-arzova-2024-12-20.md)
 - [Sanayi üretiminden ülke ekonomisine bakış](profdr-burak-arzova-2024-12-13.md)
 - [Enflasyon tek kelime ile ‘iyi’ iki kelime ile ‘iyi değil’](profdr-burak-arzova-2024-12-06.md)
 - [Enflasyon konusunda reel sektör ne kadar gerçekçi, ne kadar değil?](profdr-burak-arzova-2024-11-29.md)
@@ -15,4 +16,3 @@
 - [Fed’in kararı TCMB üzerindeki baskıyı artırdı](profdr-burak-arzova-2024-09-20.md)
 - [Sanayi üretim rakamlarından Draghi raporuna bakış](profdr-burak-arzova-2024-09-13.md)
 - [Ağustos ayı enflasyonu moral bozdu](profdr-burak-arzova-2024-09-06.md)
-- [Sanayi kesimi para politikasının etkileri iliklerine kadar hissediyor](profdr-burak-arzova-2024-08-30.md)
