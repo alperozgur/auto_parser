@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [TikTok’ta neler oluyor](murat-agirel-2024-12-21.md)
 - [Milli Savunma Bakanı Yaşar Güler’e sesleniyorum](murat-agirel-2024-12-17.md)
 - [Filler tepişiyor çimenler eziliyor](murat-agirel-2024-12-14.md)
 - [Bedava peynir fare kapanında olur](murat-agirel-2024-12-10.md)
@@ -14,4 +15,3 @@
 - [Futbolda pis kokular yükseliyor](murat-agirel-2024-11-05.md)
 - [Milli iradeye müdahale bumerang gibi dönecek](murat-agirel-2024-11-02.md)
 - [Şimdi Cumhuriyeti ayağa kaldırma zamanı](murat-agirel-2024-10-29.md)
-- [Bunca şehide, anasına babasına yazık](murat-agirel-2024-10-26.md)
