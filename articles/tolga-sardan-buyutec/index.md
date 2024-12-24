@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [İliç faciasında tartışılan iddianame ve Emniyet Müdürü Çalışkan’ın mesajı](tolga-sardan-buyutec-2024-12-24.md)
 - [İzin](tolga-sardan-buyutec-2024-12-20.md)
 - [Mal varlığını açıklayamayan ünlü Savcı Bato’ya verilen hapis cezası ve İstanbul Emniyeti’ndeki tayinler](tolga-sardan-buyutec-2024-12-17.md)
 - [98 milyonluk mal varlığını açıklayamayan Vali Bilgin’e yargı yolu!](tolga-sardan-buyutec-2024-12-13.md)
@@ -11,4 +12,3 @@
 - [Dorukhan Büyükışık cinayetinde polislere yargı yolu](tolga-sardan-buyutec-2024-11-22.md)
 - [7,5 yıl sonra yapılan keşif ve sıfırlanan telefonlar](tolga-sardan-buyutec-2024-11-20.md)
 - [Adaletin merhem ol(a)madığı yine bir evlat acısı dosyası mı?](tolga-sardan-buyutec-2024-11-19.md)
-- [MASAK’ın yasa dışı bahis ve kumar raporunda neler var?](tolga-sardan-buyutec-2024-11-15.md)
