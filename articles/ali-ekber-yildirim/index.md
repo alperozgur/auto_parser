@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Çukurovalı çiftçiler sordu, TARSİM Genel Müdürü yanıtladı](ali-ekber-yildirim-2024-12-25.md)
 - [Tarım sigortalarında prim 27 milyar, hasar 12 milyar lira](ali-ekber-yildirim-2024-12-24.md)
 - [Amerika’nın gözüyle Türkiye gıda perakende sektörü (2)](ali-ekber-yildirim-2024-12-18.md)
 - [Amerika’nın gözüyle Türkiye gıda perakende sektörü (1)](ali-ekber-yildirim-2024-12-17.md)
@@ -15,4 +16,3 @@
 - [Bu sezon domatesten çıkarılacak büyük dersler var](ali-ekber-yildirim-2024-09-25.md)
 - [Trakya ve Anadolu’da çiftçi can çekişiyor](ali-ekber-yildirim-2024-09-24.md)
 - [Pancarda hasat var fiyat yok](ali-ekber-yildirim-2024-09-17.md)
-- [Çiftçi gözüyle tarımda yeni destekleme modeli](ali-ekber-yildirim-2024-09-10.md)

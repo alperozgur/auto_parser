@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Hayat pahalılığı ciddi bir sorunmuş](cigdem-toker-2024-12-25.md)
 - [Trump görev süresinde Erdoğan’a özenir mi?](cigdem-toker-2024-12-23.md)
 - [Adalet, hakikat, dezenformasyon](cigdem-toker-2024-12-20.md)
 - [İhale kanunundaki manidar gecikme](cigdem-toker-2024-12-18.md)
@@ -11,4 +12,3 @@
 - [Kirazlı-Halkalı hattı ihalesi nasıl üçe katlandı?](cigdem-toker-2024-11-27.md)
 - [Sağlık çıkmazı ve bütçe](cigdem-toker-2024-11-22.md)
 - [Denetim açığı öldürür](cigdem-toker-2024-11-20.md)
-- [Ağaç katliamı ile sponsorluk bir arada](cigdem-toker-2024-11-15.md)

@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Kredi koşulları iyileşmeden faiz indirimi sadece şov olur... “](emre-alkin-2024-12-25.md)
 - [“Asgari ücretten yeni hikâyeye”](emre-alkin-2024-12-18.md)
 - [Suriye'deki sürecin galibi Türkiye mi?](emre-alkin-2024-12-11.md)
 - [“Faiz indiriminin zamanı değil…”](emre-alkin-2024-12-04.md)
@@ -15,4 +16,3 @@
 - [“Bunları biliyor muydunuz? Daha doğrusu: Biliyorlar mı?”](emre-alkin-2024-09-25.md)
 - [“Enflasyonla mücadele yarım porsiyon yapılmaz...”](emre-alkin-2024-09-18.md)
 - [“Hayırlısı olsun denir böylesine…”](emre-alkin-2024-09-11.md)
-- [“Büyüme rakamı bize kısaca ne diyor?”](emre-alkin-2024-09-04.md)
