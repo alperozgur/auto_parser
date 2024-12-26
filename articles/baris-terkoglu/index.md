@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Nedir bu Emevi Camisi takıntısı?](baris-terkoglu-2024-12-26.md)
 - [Bombacı Mülayim neden tutuklandı](baris-terkoglu-2024-12-23.md)
 - [Soylu’nun istemesi gereken helallik](baris-terkoglu-2024-12-19.md)
 - [Bir acayip Türkiye hikâyesi](baris-terkoglu-2024-12-16.md)
@@ -14,4 +15,3 @@
 - [Ayşe’yi siz öldürdünüz!](baris-terkoglu-2024-11-14.md)
 - [Önümde duran üç fotoğraf](baris-terkoglu-2024-11-11.md)
 - [Kelepçeli burjuvanın duyulmayan çığlığı](baris-terkoglu-2024-11-07.md)
-- [Apocularla ülkücüleri kucaklaştıran adam!](baris-terkoglu-2024-11-04.md)
