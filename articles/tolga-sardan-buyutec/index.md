@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [İçişleri Bakanlığı müfettişleri, İBB’yi nasıl denetliyor, hangi konu başlıklarına mercek tutuyor?](tolga-sardan-buyutec-2024-12-27.md)
 - [İliç faciasında tartışılan iddianame ve Emniyet Müdürü Çalışkan’ın mesajı](tolga-sardan-buyutec-2024-12-24.md)
 - [İzin](tolga-sardan-buyutec-2024-12-20.md)
 - [Mal varlığını açıklayamayan ünlü Savcı Bato’ya verilen hapis cezası ve İstanbul Emniyeti’ndeki tayinler](tolga-sardan-buyutec-2024-12-17.md)
@@ -11,4 +12,3 @@
 - [Ufuk Uras: Bahçeli "Bizim 50 vekilimiz var, çoğunluk AK Parti’de, onların adım atması gerekiyor" dedi](tolga-sardan-buyutec-2024-11-26.md)
 - [Dorukhan Büyükışık cinayetinde polislere yargı yolu](tolga-sardan-buyutec-2024-11-22.md)
 - [7,5 yıl sonra yapılan keşif ve sıfırlanan telefonlar](tolga-sardan-buyutec-2024-11-20.md)
-- [Adaletin merhem ol(a)madığı yine bir evlat acısı dosyası mı?](tolga-sardan-buyutec-2024-11-19.md)

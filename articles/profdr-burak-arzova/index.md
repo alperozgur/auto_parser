@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Enflasyonla mücadelede ücret etkisi bahanesi ortadan kalktı](profdr-burak-arzova-2024-12-27.md)
 - [Asgari ücret değil ortalama ücret belirliyoruz](profdr-burak-arzova-2024-12-20.md)
 - [Sanayi üretiminden ülke ekonomisine bakış](profdr-burak-arzova-2024-12-13.md)
 - [Enflasyon tek kelime ile ‘iyi’ iki kelime ile ‘iyi değil’](profdr-burak-arzova-2024-12-06.md)
@@ -15,4 +16,3 @@
 - [23 Eylül 2021: Anmasaydık olmazdı](profdr-burak-arzova-2024-09-27.md)
 - [Fed’in kararı TCMB üzerindeki baskıyı artırdı](profdr-burak-arzova-2024-09-20.md)
 - [Sanayi üretim rakamlarından Draghi raporuna bakış](profdr-burak-arzova-2024-09-13.md)
-- [Ağustos ayı enflasyonu moral bozdu](profdr-burak-arzova-2024-09-06.md)

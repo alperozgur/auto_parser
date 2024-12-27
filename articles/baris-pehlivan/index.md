@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [AKP’li bakanın asgari ücretlilere tavsiyeleri](baris-pehlivan-2024-12-27.md)
 - [AKP’nin 2025 planı ne?](baris-pehlivan-2024-12-25.md)
 - [İkinci yılında 414 sayfada olmayanlar](baris-pehlivan-2024-12-20.md)
 - [‘Eski bakan istiyor, tahliye edin’](baris-pehlivan-2024-12-18.md)
@@ -14,4 +15,3 @@
 - [50 kurban](baris-pehlivan-2024-11-06.md)
 - [İşte Öcalan’ın Bahçeli hakkında söyledikleri](baris-pehlivan-2024-10-25.md)
 - [Polis Akademisi’nin uyarısı](baris-pehlivan-2024-10-23.md)
-- [O suçlar o yaşa nasıl sığdı](baris-pehlivan-2024-10-18.md)
