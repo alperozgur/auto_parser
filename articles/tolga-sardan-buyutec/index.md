@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Eski Mersin Emniyet Müdürü’nün, kaçakçılık suçu sabit görülen kardeşine hapis cezası!](tolga-sardan-buyutec-2024-12-31.md)
 - [İçişleri Bakanlığı müfettişleri, İBB’yi nasıl denetliyor, hangi konu başlıklarına mercek tutuyor?](tolga-sardan-buyutec-2024-12-27.md)
 - [İliç faciasında tartışılan iddianame ve Emniyet Müdürü Çalışkan’ın mesajı](tolga-sardan-buyutec-2024-12-24.md)
 - [İzin](tolga-sardan-buyutec-2024-12-20.md)
@@ -11,4 +12,3 @@
 - [Kara Harp Okulu’nda yeni vaka: Öğrencilerin İzmir Marşı okuması da yasaklanmış!](tolga-sardan-buyutec-2024-11-29.md)
 - [Ufuk Uras: Bahçeli "Bizim 50 vekilimiz var, çoğunluk AK Parti’de, onların adım atması gerekiyor" dedi](tolga-sardan-buyutec-2024-11-26.md)
 - [Dorukhan Büyükışık cinayetinde polislere yargı yolu](tolga-sardan-buyutec-2024-11-22.md)
-- [7,5 yıl sonra yapılan keşif ve sıfırlanan telefonlar](tolga-sardan-buyutec-2024-11-20.md)

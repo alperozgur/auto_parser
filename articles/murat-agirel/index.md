@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Umut değil eylem gerekiyor](murat-agirel-2024-12-31.md)
 - [Gayrimüslim mirası ve yolsuzluk hikâyesi: Bitmeyen adaletsizlik](murat-agirel-2024-12-28.md)
 - [Gayrimüslimlerin tapuları üzerinden dönen yolsuzluk](murat-agirel-2024-12-24.md)
 - [TikTok’ta neler oluyor](murat-agirel-2024-12-21.md)
@@ -14,4 +15,3 @@
 - [Derdiniz kamu yararı ise buyurun bakalım](murat-agirel-2024-11-16.md)
 - [12 ve 13 yaşında bebek doğuran çocuklar](murat-agirel-2024-11-12.md)
 - [Konser tartışmasına ABB ne diyor](murat-agirel-2024-11-09.md)
-- [Futbolda pis kokular yükseliyor](murat-agirel-2024-11-05.md)
