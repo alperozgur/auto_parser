@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [2025 bütçesi konteynırda](cigdem-toker-2025-01-01.md)
 - [Alamos Gold gitmeyecek gibi sermaye artırıyor](cigdem-toker-2024-12-27.md)
 - [Hayat pahalılığı ciddi bir sorunmuş](cigdem-toker-2024-12-25.md)
 - [Trump görev süresinde Erdoğan’a özenir mi?](cigdem-toker-2024-12-23.md)
@@ -11,4 +12,3 @@
 - [Asgari ücrette gerçek patron: Erdoğan](cigdem-toker-2024-12-04.md)
 - [Zam kıskacı şiddetlenirken...](cigdem-toker-2024-11-29.md)
 - [Kirazlı-Halkalı hattı ihalesi nasıl üçe katlandı?](cigdem-toker-2024-11-27.md)
-- [Sağlık çıkmazı ve bütçe](cigdem-toker-2024-11-22.md)
