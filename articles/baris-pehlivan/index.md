@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Gözaltından önce ‘Teröristlerle Konuşmak’](baris-pehlivan-2025-01-03.md)
 - [İki kimsesizin başarı öyküsü](baris-pehlivan-2025-01-01.md)
 - [AKP’li bakanın asgari ücretlilere tavsiyeleri](baris-pehlivan-2024-12-27.md)
 - [AKP’nin 2025 planı ne?](baris-pehlivan-2024-12-25.md)
@@ -14,4 +15,3 @@
 - [Mahkemeler ‘Suç yok’ diyor](baris-pehlivan-2024-11-13.md)
 - [Hâkimin itirafı](baris-pehlivan-2024-11-08.md)
 - [50 kurban](baris-pehlivan-2024-11-06.md)
-- [İşte Öcalan’ın Bahçeli hakkında söyledikleri](baris-pehlivan-2024-10-25.md)

@@ -26,5 +26,3 @@ Birleşik Kamu İş Federasyonu’nun yaptığı araştırmaya göre ise açlık
 
 2025 yılı bütçe kanunu 1 Ocak’ta yani bugün yürürlüğe girdi. Ekonomi yönetimi, çalışanları ve emeklileri enflasyona ezdirmesine gerekçe olarak gösterdiği deprem harcamaları konusunda hesap vermelidir. Deprem için yapılan harcamaların kaynakları, hangi kaleme ne kadar harcandığı, ihalelerde belirlenen yaklaşık maliyetlerin kamu kaynaklarında tasarrufla sonuçlanıp sonuçlanmadığını ve Şimşek’in ilan ettiği tasarruf tedbirlerinin sonuçlarını saydam bir şekilde kamuoyuna açıklamalıdır. Her şeyden önce bu, yani hesap verme Anayasal ve yasal bir sorumluluğun gereği. Dahası, sadece “dışarıya” değil, kendi vatandaşına da sorumluluk hisseden, inandırıcılık gibi bir derdi olan ekonomi yönetimi bunu yapmalıdır. Yapmıyorsa, o bütçe de onbinlerce depremzede vatandaşın temel altyapı hizmetlerinden mahrum kalarak yaşamaya çalıştığı konteynırlardan çıkamamış demektir.
 
-
-
