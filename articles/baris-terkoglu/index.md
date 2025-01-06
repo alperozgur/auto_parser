@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Mülakat mülakat Cumhuriyeti yıkıyorlar](baris-terkoglu-2025-01-06.md)
 - [Geçen yıldan kalan notlar](baris-terkoglu-2025-01-02.md)
 - [Bu düzenin adaleti madaleti yok!](baris-terkoglu-2024-12-30.md)
 - [Nedir bu Emevi Camisi takıntısı?](baris-terkoglu-2024-12-26.md)
@@ -14,4 +15,3 @@
 - [Türk ordusunun Kubilaysızlaştırılması](baris-terkoglu-2024-11-25.md)
 - [Kadınlara cehennem hazırlayanlar](baris-terkoglu-2024-11-21.md)
 - [Mustafa Kemal’in askerleriyiz!](baris-terkoglu-2024-11-18.md)
-- [Ayşe’yi siz öldürdünüz!](baris-terkoglu-2024-11-14.md)
