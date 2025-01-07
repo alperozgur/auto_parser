@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Siz harekete geçene kadar yazacağım](murat-agirel-2025-01-07.md)
 - [İstanbul’da ‘Tosun Paşa’ davası](murat-agirel-2025-01-04.md)
 - [Umut değil eylem gerekiyor](murat-agirel-2024-12-31.md)
 - [Gayrimüslim mirası ve yolsuzluk hikâyesi: Bitmeyen adaletsizlik](murat-agirel-2024-12-28.md)
@@ -14,4 +15,3 @@
 - [‘Kar leoparı’ neden cezaevinde](murat-agirel-2024-11-23.md)
 - [AKP’li belediyede 330 milyonluk ihale](murat-agirel-2024-11-19.md)
 - [Derdiniz kamu yararı ise buyurun bakalım](murat-agirel-2024-11-16.md)
-- [12 ve 13 yaşında bebek doğuran çocuklar](murat-agirel-2024-11-12.md)
