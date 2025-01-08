@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“TÜİK’ten TCMB’ye...”](emre-alkin-2025-01-08.md)
 - [“KKM’nin faturası mı daha yüksek, carry trade’in mi ?”](emre-alkin-2025-01-01.md)
 - [“Kredi koşulları iyileşmeden faiz indirimi sadece şov olur... “](emre-alkin-2024-12-25.md)
 - [“Asgari ücretten yeni hikâyeye”](emre-alkin-2024-12-18.md)
@@ -15,4 +16,3 @@
 - [“Ekonomi yönetiminin başarıları?!..”](emre-alkin-2024-10-09.md)
 - [“Mesele o kadar karışık değil…”](emre-alkin-2024-10-02.md)
 - [“Bunları biliyor muydunuz? Daha doğrusu: Biliyorlar mı?”](emre-alkin-2024-09-25.md)
-- [“Enflasyonla mücadele yarım porsiyon yapılmaz...”](emre-alkin-2024-09-18.md)

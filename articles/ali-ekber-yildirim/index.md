@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Hayvancılıkta planlı üretim destekleri 2025 bütçesinden ödenecek](ali-ekber-yildirim-2025-01-08.md)
 - [Tarım desteklerinde kafa karıştıran sorular ve yanıtları](ali-ekber-yildirim-2025-01-07.md)
 - [Pestisit denetiminde sahada neler oluyor?](ali-ekber-yildirim-2024-12-26.md)
 - [Çukurovalı çiftçiler sordu, TARSİM Genel Müdürü yanıtladı](ali-ekber-yildirim-2024-12-25.md)
@@ -15,4 +16,3 @@
 - [Çiftçi kadınların ilham veren hikayeleri- 2](ali-ekber-yildirim-2024-10-18.md)
 - [Çiftçi kadınların ilham veren hikayeleri-1](ali-ekber-yildirim-2024-10-17.md)
 - [Pamuğun geleceği toprağın korunması ve suya bağlı](ali-ekber-yildirim-2024-10-09.md)
-- [Bu sezon domatesten çıkarılacak büyük dersler var](ali-ekber-yildirim-2024-09-25.md)
