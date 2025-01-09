@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [İhracattan dönen kuru incir ve Antep fıstığı için sert önlemler](ali-ekber-yildirim-2025-01-09.md)
 - [Hayvancılıkta planlı üretim destekleri 2025 bütçesinden ödenecek](ali-ekber-yildirim-2025-01-08.md)
 - [Tarım desteklerinde kafa karıştıran sorular ve yanıtları](ali-ekber-yildirim-2025-01-07.md)
 - [Pestisit denetiminde sahada neler oluyor?](ali-ekber-yildirim-2024-12-26.md)
@@ -15,4 +16,3 @@
 - [Tarımda kadının emeği var, söz hakkı yok!](ali-ekber-yildirim-2024-10-22.md)
 - [Çiftçi kadınların ilham veren hikayeleri- 2](ali-ekber-yildirim-2024-10-18.md)
 - [Çiftçi kadınların ilham veren hikayeleri-1](ali-ekber-yildirim-2024-10-17.md)
-- [Pamuğun geleceği toprağın korunması ve suya bağlı](ali-ekber-yildirim-2024-10-09.md)
