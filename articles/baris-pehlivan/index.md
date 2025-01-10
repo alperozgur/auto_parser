@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [‘Oğlum’ yasağı](baris-pehlivan-2025-01-10.md)
 - [Feti Yıldız ile neler konuştum?](baris-pehlivan-2025-01-08.md)
 - [Gözaltından önce ‘Teröristlerle Konuşmak’](baris-pehlivan-2025-01-03.md)
 - [İki kimsesizin başarı öyküsü](baris-pehlivan-2025-01-01.md)
@@ -14,4 +15,3 @@
 - [Mesele cami değil sen anlamadın mı?](baris-pehlivan-2024-11-20.md)
 - [Soner Ergin, Devlet Bahçeli ile görüşmesini anlattı](baris-pehlivan-2024-11-15.md)
 - [Mahkemeler ‘Suç yok’ diyor](baris-pehlivan-2024-11-13.md)
-- [Hâkimin itirafı](baris-pehlivan-2024-11-08.md)

@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Hayat pahalılığı ve akla takılan sorular](profdr-burak-arzova-2025-01-10.md)
 - [Artık yeni şeyler söylediğimiz bir yıl olsun 2025](profdr-burak-arzova-2025-01-03.md)
 - [Enflasyonla mücadelede ücret etkisi bahanesi ortadan kalktı](profdr-burak-arzova-2024-12-27.md)
 - [Asgari ücret değil ortalama ücret belirliyoruz](profdr-burak-arzova-2024-12-20.md)
@@ -15,4 +16,3 @@
 - [Yeni reeskont kredisi sistemine geçiş ile akla takılan sorular](profdr-burak-arzova-2024-10-11.md)
 - [Enflasyon büyüme takası yakın olabilir](profdr-burak-arzova-2024-10-04.md)
 - [23 Eylül 2021: Anmasaydık olmazdı](profdr-burak-arzova-2024-09-27.md)
-- [Fed’in kararı TCMB üzerindeki baskıyı artırdı](profdr-burak-arzova-2024-09-20.md)

@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Bebek skandalında tek hastaneden 189 dava](cigdem-toker-2025-01-10.md)
 - [Açlığa ve hastalığa mahkûm eden “program”](cigdem-toker-2025-01-08.md)
 - [Hayret uyandıran her adım Anayasa’ya ayarlı](cigdem-toker-2025-01-03.md)
 - [2025 bütçesi konteynırda](cigdem-toker-2025-01-01.md)
@@ -11,4 +12,3 @@
 - [Sağlık bütçesi kimin için?](cigdem-toker-2024-12-13.md)
 - [2025 bütçesinde KÖİ ve Dışişleri bütçesi](cigdem-toker-2024-12-11.md)
 - [Asgari ücret artışındaki “denge”](cigdem-toker-2024-12-06.md)
-- [Asgari ücrette gerçek patron: Erdoğan](cigdem-toker-2024-12-04.md)
