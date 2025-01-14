@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Düzene dur diyecek savcı yok mu?](murat-agirel-2025-01-14.md)
 - [Mirasınıza çökebilirler dikkat edin](murat-agirel-2025-01-11.md)
 - [Siz harekete geçene kadar yazacağım](murat-agirel-2025-01-07.md)
 - [İstanbul’da ‘Tosun Paşa’ davası](murat-agirel-2025-01-04.md)
@@ -14,4 +15,3 @@
 - [Adalet kimin için tecelli edecek](murat-agirel-2024-11-30.md)
 - [Ankara’da konuşulan iddianame](murat-agirel-2024-11-26.md)
 - [‘Kar leoparı’ neden cezaevinde](murat-agirel-2024-11-23.md)
-- [AKP’li belediyede 330 milyonluk ihale](murat-agirel-2024-11-19.md)

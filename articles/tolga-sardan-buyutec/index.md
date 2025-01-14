@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [İntihardan cinayet soruşturmasına dönüşen Dorukhan Büyükışık dosyasında 8 polise dava açıldı!](tolga-sardan-buyutec-2025-01-14.md)
 - [Sisli Vadi dosyasında “yüz kızartan” vahim iddialar](tolga-sardan-buyutec-2025-01-10.md)
 - [İçişleri Bakanı Yerlikaya, polis müdürleri Alp Arslan ve Oben Özay’ın ihraç kararını imzaladı](tolga-sardan-buyutec-2025-01-06.md)
 - [Türkiye’nin 2024 suç istatistikleri ve IŞİD operasyonları](tolga-sardan-buyutec-2025-01-03.md)
@@ -11,4 +12,3 @@
 - [98 milyonluk mal varlığını açıklayamayan Vali Bilgin’e yargı yolu!](tolga-sardan-buyutec-2024-12-13.md)
 - [Emniyet’teki tayinlerin perde arkası: İstanbul’a yeni müdür atandı, Adıyaman’a müdür dayanmıyor!](tolga-sardan-buyutec-2024-12-10.md)
 - [İçişleri Bakanlığı, Sisli Vadi faciasında ikisi vali, 9 kamu görevlisi hakkında “soruşturma izni” verdi](tolga-sardan-buyutec-2024-12-06.md)
-- [Kara Harp Okulu’nda İzmir Marşı süreci ve Beşiktaş’ta “turuncu devrim”in önlenemeyen tükenişi](tolga-sardan-buyutec-2024-12-03.md)

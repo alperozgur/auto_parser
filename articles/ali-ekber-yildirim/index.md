@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Tarım öğretiminin 179. yılında tarımın geleceği ve gençler](ali-ekber-yildirim-2025-01-14.md)
 - [İhracattan dönen kuru incir ve Antep fıstığı için sert önlemler](ali-ekber-yildirim-2025-01-09.md)
 - [Hayvancılıkta planlı üretim destekleri 2025 bütçesinden ödenecek](ali-ekber-yildirim-2025-01-08.md)
 - [Tarım desteklerinde kafa karıştıran sorular ve yanıtları](ali-ekber-yildirim-2025-01-07.md)
@@ -15,4 +16,3 @@
 - [Tarıma 2025 bütçesinden 135 milyar lira destek ödenecek](ali-ekber-yildirim-2024-10-31.md)
 - [Tarımda kadının emeği var, söz hakkı yok!](ali-ekber-yildirim-2024-10-22.md)
 - [Çiftçi kadınların ilham veren hikayeleri- 2](ali-ekber-yildirim-2024-10-18.md)
-- [Çiftçi kadınların ilham veren hikayeleri-1](ali-ekber-yildirim-2024-10-17.md)
