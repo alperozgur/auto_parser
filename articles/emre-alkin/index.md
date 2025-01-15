@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [“Para politikasından evlilik yardımına...”](emre-alkin-2025-01-15.md)
 - [“TÜİK’ten TCMB’ye...”](emre-alkin-2025-01-08.md)
 - [“KKM’nin faturası mı daha yüksek, carry trade’in mi ?”](emre-alkin-2025-01-01.md)
 - [“Kredi koşulları iyileşmeden faiz indirimi sadece şov olur... “](emre-alkin-2024-12-25.md)
@@ -15,4 +16,3 @@
 - [“Nobel Ekonomi Ödülü...”](emre-alkin-2024-10-16.md)
 - [“Ekonomi yönetiminin başarıları?!..”](emre-alkin-2024-10-09.md)
 - [“Mesele o kadar karışık değil…”](emre-alkin-2024-10-02.md)
-- [“Bunları biliyor muydunuz? Daha doğrusu: Biliyorlar mı?”](emre-alkin-2024-09-25.md)

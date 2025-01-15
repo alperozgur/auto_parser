@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Milletin cebinden çıkmayan ne?](cigdem-toker-2025-01-15.md)
 - [Bebek skandalında tek hastaneden 189 dava](cigdem-toker-2025-01-10.md)
 - [Açlığa ve hastalığa mahkûm eden “program”](cigdem-toker-2025-01-08.md)
 - [Hayret uyandıran her adım Anayasa’ya ayarlı](cigdem-toker-2025-01-03.md)
@@ -11,4 +12,3 @@
 - [İhale kanunundaki manidar gecikme](cigdem-toker-2024-12-18.md)
 - [Sağlık bütçesi kimin için?](cigdem-toker-2024-12-13.md)
 - [2025 bütçesinde KÖİ ve Dışişleri bütçesi](cigdem-toker-2024-12-11.md)
-- [Asgari ücret artışındaki “denge”](cigdem-toker-2024-12-06.md)
