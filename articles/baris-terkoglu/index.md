@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [İktidar hesaplaşmasına yolsuzluk bahanesi](baris-terkoglu-2025-01-16.md)
 - [Çocukları öldüren mülakat düzeni](baris-terkoglu-2025-01-13.md)
 - [Birşah Süt’teki su sandığınız gibi değil!](baris-terkoglu-2025-01-09.md)
 - [Mülakat mülakat Cumhuriyeti yıkıyorlar](baris-terkoglu-2025-01-06.md)
@@ -14,4 +15,3 @@
 - [Biri hukuk devleti mi dedi?](baris-terkoglu-2024-12-05.md)
 - [Bir garip İmamoğlu belgesi](baris-terkoglu-2024-12-02.md)
 - [Teğmenleri değil yargıçları konuşalım](baris-terkoglu-2024-11-28.md)
-- [Türk ordusunun Kubilaysızlaştırılması](baris-terkoglu-2024-11-25.md)
