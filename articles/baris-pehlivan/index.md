@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Bir rapor, bir karar, çok ders](baris-pehlivan-2025-01-17.md)
 - [Ölümü bekleyen 300 kişi](baris-pehlivan-2025-01-15.md)
 - [‘Oğlum’ yasağı](baris-pehlivan-2025-01-10.md)
 - [Feti Yıldız ile neler konuştum?](baris-pehlivan-2025-01-08.md)
@@ -14,4 +15,3 @@
 - [Bahçeli’nin masasındaki kitapta ne yazıyor?](baris-pehlivan-2024-11-27.md)
 - [Mahruki yine yandı](baris-pehlivan-2024-11-22.md)
 - [Mesele cami değil sen anlamadın mı?](baris-pehlivan-2024-11-20.md)
-- [Soner Ergin, Devlet Bahçeli ile görüşmesini anlattı](baris-pehlivan-2024-11-15.md)

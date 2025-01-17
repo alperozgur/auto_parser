@@ -1,5 +1,6 @@
 # Şant Manukyan
 
+- [Yeni yılda tahvil piyasaları](sant-manukyan-2025-01-17.md)
 - [Fed Noel Baba’yı kovalarken](sant-manukyan-2024-12-20.md)
 - [Son toplantıya doğru](sant-manukyan-2024-12-13.md)
 - [Ruble ve etkileri](sant-manukyan-2024-11-29.md)
@@ -15,4 +16,3 @@
 - [ABD siyaseti](sant-manukyan-2024-07-05.md)
 - [Gelir Bilgi dağılımı eşitsizliğine dikkat](sant-manukyan-2024-06-28.md)
 - [Bakır ayrışması](sant-manukyan-2024-05-31.md)
-- [Yeni bir dünya kurulur altın yerini alır](sant-manukyan-2024-05-24.md)

@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Komiser Kürşat’ın intiharının ardından “Moskova skandalı” çıktı!](tolga-sardan-buyutec-2025-01-17.md)
 - [İntihardan cinayet soruşturmasına dönüşen Dorukhan Büyükışık dosyasında 8 polise dava açıldı!](tolga-sardan-buyutec-2025-01-14.md)
 - [Sisli Vadi dosyasında “yüz kızartan” vahim iddialar](tolga-sardan-buyutec-2025-01-10.md)
 - [İçişleri Bakanı Yerlikaya, polis müdürleri Alp Arslan ve Oben Özay’ın ihraç kararını imzaladı](tolga-sardan-buyutec-2025-01-06.md)
@@ -11,4 +12,3 @@
 - [Mal varlığını açıklayamayan ünlü Savcı Bato’ya verilen hapis cezası ve İstanbul Emniyeti’ndeki tayinler](tolga-sardan-buyutec-2024-12-17.md)
 - [98 milyonluk mal varlığını açıklayamayan Vali Bilgin’e yargı yolu!](tolga-sardan-buyutec-2024-12-13.md)
 - [Emniyet’teki tayinlerin perde arkası: İstanbul’a yeni müdür atandı, Adıyaman’a müdür dayanmıyor!](tolga-sardan-buyutec-2024-12-10.md)
-- [İçişleri Bakanlığı, Sisli Vadi faciasında ikisi vali, 9 kamu görevlisi hakkında “soruşturma izni” verdi](tolga-sardan-buyutec-2024-12-06.md)
