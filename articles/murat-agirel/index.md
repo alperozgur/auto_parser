@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Motosikletlilerin kaportası canlarıdır](murat-agirel-2025-01-18.md)
 - [Düzene dur diyecek savcı yok mu?](murat-agirel-2025-01-14.md)
 - [Mirasınıza çökebilirler dikkat edin](murat-agirel-2025-01-11.md)
 - [Siz harekete geçene kadar yazacağım](murat-agirel-2025-01-07.md)
@@ -14,4 +15,3 @@
 - [Bu çarktan hep birlikte çıkacağız](murat-agirel-2024-12-07.md)
 - [Adalet kimin için tecelli edecek](murat-agirel-2024-11-30.md)
 - [Ankara’da konuşulan iddianame](murat-agirel-2024-11-26.md)
-- [‘Kar leoparı’ neden cezaevinde](murat-agirel-2024-11-23.md)
