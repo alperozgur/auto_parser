@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Kapansın tarikatlar kurtulsun Müslümanlar](baris-terkoglu-2025-01-20.md)
 - [İktidar hesaplaşmasına yolsuzluk bahanesi](baris-terkoglu-2025-01-16.md)
 - [Çocukları öldüren mülakat düzeni](baris-terkoglu-2025-01-13.md)
 - [Birşah Süt’teki su sandığınız gibi değil!](baris-terkoglu-2025-01-09.md)
@@ -14,4 +15,3 @@
 - [İnci İnci intihalde birinci](baris-terkoglu-2024-12-09.md)
 - [Biri hukuk devleti mi dedi?](baris-terkoglu-2024-12-05.md)
 - [Bir garip İmamoğlu belgesi](baris-terkoglu-2024-12-02.md)
-- [Teğmenleri değil yargıçları konuşalım](baris-terkoglu-2024-11-28.md)
