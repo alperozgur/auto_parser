@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Kara Harp Okulu’ndaki teğmen krizinde “Cumhurbaşkanı” detayı](tolga-sardan-buyutec-2025-01-21.md)
 - [Komiser Kürşat’ın intiharının ardından “Moskova skandalı” çıktı!](tolga-sardan-buyutec-2025-01-17.md)
 - [İntihardan cinayet soruşturmasına dönüşen Dorukhan Büyükışık dosyasında 8 polise dava açıldı!](tolga-sardan-buyutec-2025-01-14.md)
 - [Sisli Vadi dosyasında “yüz kızartan” vahim iddialar](tolga-sardan-buyutec-2025-01-10.md)
@@ -11,4 +12,3 @@
 - [İzin](tolga-sardan-buyutec-2024-12-20.md)
 - [Mal varlığını açıklayamayan ünlü Savcı Bato’ya verilen hapis cezası ve İstanbul Emniyeti’ndeki tayinler](tolga-sardan-buyutec-2024-12-17.md)
 - [98 milyonluk mal varlığını açıklayamayan Vali Bilgin’e yargı yolu!](tolga-sardan-buyutec-2024-12-13.md)
-- [Emniyet’teki tayinlerin perde arkası: İstanbul’a yeni müdür atandı, Adıyaman’a müdür dayanmıyor!](tolga-sardan-buyutec-2024-12-10.md)
