@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- ["Kanla yazılan yönetmelik”e ne oldu?](cigdem-toker-2025-01-21.md)
 - [Yolsuzlukla mücadele böyle olur](cigdem-toker-2025-01-17.md)
 - [Milletin cebinden çıkmayan ne?](cigdem-toker-2025-01-15.md)
 - [Bebek skandalında tek hastaneden 189 dava](cigdem-toker-2025-01-10.md)
@@ -11,4 +12,3 @@
 - [Trump görev süresinde Erdoğan’a özenir mi?](cigdem-toker-2024-12-23.md)
 - [Adalet, hakikat, dezenformasyon](cigdem-toker-2024-12-20.md)
 - [İhale kanunundaki manidar gecikme](cigdem-toker-2024-12-18.md)
-- [Sağlık bütçesi kimin için?](cigdem-toker-2024-12-13.md)
