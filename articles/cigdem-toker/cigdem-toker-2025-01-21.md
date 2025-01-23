@@ -20,7 +20,7 @@ Benzer birçok felaket ve faciada olduğu gibi sorumlu olması gereken kurumlar�
 
 ### Sistemi nasıl bozdular?
 
-İstanbul Üniversitesi Sivil Savunma ve İtfaiyecilik Programı Başkanı Dr. Erhan Bakır, yangınla ilgili yönetmeliklerin kanla yazıldığını söylüyordu dün Halk TV yayınında. (Sivil havacılık kuralları için söylenen bu söz yangın mevzuatı için de geçerliymiş.)
+İstanbul Üniversitesi Sivil Savunma ve İtfaiyecilik Programı Başkanı Dr. Erhan Bakırcı, yangınla ilgili yönetmeliklerin kanla yazıldığını söylüyordu dün Halk TV yayınında. (Sivil havacılık kuralları için söylenen bu söz yangın mevzuatı için de geçerliymiş.)
 
 Gelin görün ki kanla yazılan bu kuralların dahi inşaat şirketlerinin talebiyle nasıl bozulup yozlaştırıldığını da Bahadır Özgür’ün Gazete Duvar’daki yazısıyla öğreniyoruz. 2007 tarihli Binaların Yangından Korunması Hakkında Yönetmelik, 2012 yılında öyle ince, öyle sinsice bir değişikliğe uğratılıyor ki, emlak projelerindeki izin sürecinde itfaiye kurumunun denetim yetkisi ortadan kaldırılıyor. Hem de yine bir torba usulle. Birbirine benzemez birden çok yönetmeliği değiştiren bir yönetmelikte, bir cümlenin yarısının çıkarıldığı bir madde konularak.
 
