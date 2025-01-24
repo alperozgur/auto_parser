@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Kartalkaya’da ne oldu, Masquerade yangınından ders çıkarılsaydı otel faciası yaşanır mıydı?](tolga-sardan-buyutec-2025-01-24.md)
 - [Kara Harp Okulu’ndaki teğmen krizinde “Cumhurbaşkanı” detayı](tolga-sardan-buyutec-2025-01-21.md)
 - [Komiser Kürşat’ın intiharının ardından “Moskova skandalı” çıktı!](tolga-sardan-buyutec-2025-01-17.md)
 - [İntihardan cinayet soruşturmasına dönüşen Dorukhan Büyükışık dosyasında 8 polise dava açıldı!](tolga-sardan-buyutec-2025-01-14.md)
@@ -11,4 +12,3 @@
 - [İliç faciasında tartışılan iddianame ve Emniyet Müdürü Çalışkan’ın mesajı](tolga-sardan-buyutec-2024-12-24.md)
 - [İzin](tolga-sardan-buyutec-2024-12-20.md)
 - [Mal varlığını açıklayamayan ünlü Savcı Bato’ya verilen hapis cezası ve İstanbul Emniyeti’ndeki tayinler](tolga-sardan-buyutec-2024-12-17.md)
-- [98 milyonluk mal varlığını açıklayamayan Vali Bilgin’e yargı yolu!](tolga-sardan-buyutec-2024-12-13.md)

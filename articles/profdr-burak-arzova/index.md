@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Trump’ın II. dönem ekonomi politikaları ve etkileri](profdr-burak-arzova-2025-01-24.md)
 - [İllüzyon ekonomisi kaldığı yerden devam](profdr-burak-arzova-2025-01-17.md)
 - [Hayat pahalılığı ve akla takılan sorular](profdr-burak-arzova-2025-01-10.md)
 - [Artık yeni şeyler söylediğimiz bir yıl olsun 2025](profdr-burak-arzova-2025-01-03.md)
@@ -15,4 +16,3 @@
 - [Yurtiçi turizm verilerinden ekonomiyi okumak](profdr-burak-arzova-2024-10-25.md)
 - [Dışlayıcı kurumları ile Türkiye çok iyi bir laboratuvar](profdr-burak-arzova-2024-10-18.md)
 - [Yeni reeskont kredisi sistemine geçiş ile akla takılan sorular](profdr-burak-arzova-2024-10-11.md)
-- [Enflasyon büyüme takası yakın olabilir](profdr-burak-arzova-2024-10-04.md)

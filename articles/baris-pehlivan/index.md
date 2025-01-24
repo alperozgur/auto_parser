@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Z raporu](baris-pehlivan-2025-01-24.md)
 - [Özdağ’ın beklediği senaryo](baris-pehlivan-2025-01-22.md)
 - [Bir rapor, bir karar, çok ders](baris-pehlivan-2025-01-17.md)
 - [Ölümü bekleyen 300 kişi](baris-pehlivan-2025-01-15.md)
@@ -14,4 +15,3 @@
 - [Ayşenur Arslan’ın Colani ile ilişkisi](baris-pehlivan-2024-12-13.md)
 - [Mesele Erdoğan’ın konuşmasından daha derin](baris-pehlivan-2024-11-29.md)
 - [Bahçeli’nin masasındaki kitapta ne yazıyor?](baris-pehlivan-2024-11-27.md)
-- [Mahruki yine yandı](baris-pehlivan-2024-11-22.md)
