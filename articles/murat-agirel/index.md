@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Hesap soracak cesaretimiz var mı?](murat-agirel-2025-01-25.md)
 - [İhale yolsuzluklarını araştıran savcılara açık mektup](murat-agirel-2025-01-21.md)
 - [Motosikletlilerin kaportası canlarıdır](murat-agirel-2025-01-18.md)
 - [Düzene dur diyecek savcı yok mu?](murat-agirel-2025-01-14.md)
@@ -14,4 +15,3 @@
 - [Filler tepişiyor çimenler eziliyor](murat-agirel-2024-12-14.md)
 - [Bedava peynir fare kapanında olur](murat-agirel-2024-12-10.md)
 - [Bu çarktan hep birlikte çıkacağız](murat-agirel-2024-12-07.md)
-- [Adalet kimin için tecelli edecek](murat-agirel-2024-11-30.md)

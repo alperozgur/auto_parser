@@ -7,8 +7,6 @@
 
 ### İnsan hayatını doğrudan ilgilendiren bir yönetmelik, “kanla yazılmış” olsa bile, çıkarılış amacını değiştirecek değişikliğin yine kamu kurumları eliyle yapılmasının ne kadar dehşet verici olduğu üzerine düşünelim. Giden onca canı geri getirmeyecek olsa dahi...
 
-Grand Kartal Otel
-
 Yarı yıl tatili için gittikleri otelde (Grand Kartal) çıkan yangın sonucu çok sayıda çocuğun aralarında bulunduğu 66 kişinin trajik ölümü, hepimizi derinden etkiledi.
 
 Dinlenmek, güzel bir zaman kesiti geçirebilmek için yüksek bir fiyat ödenen, sırf bu nedenle güvenli olduğu öngörülen inanılan bir konaklama merkezinde, yozlaşmış bir sistem ve işini düzgün yapmayanlar yüzünden çaresizlik içinde hayattan kopmak; nasıl bir ülkede yaşadığımızı bize kim bilir kaçıncı kez tekrar düşündürtüyor.
