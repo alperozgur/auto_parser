@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Can Atalay’ın değil Can Gürkan’ın yargısı](baris-terkoglu-2025-01-27.md)
 - [Kapansın tarikatlar kurtulsun Müslümanlar](baris-terkoglu-2025-01-20.md)
 - [İktidar hesaplaşmasına yolsuzluk bahanesi](baris-terkoglu-2025-01-16.md)
 - [Çocukları öldüren mülakat düzeni](baris-terkoglu-2025-01-13.md)
@@ -14,4 +15,3 @@
 - [Yeni Ortadoğu projesi eşbaşkanı](baris-terkoglu-2024-12-12.md)
 - [İnci İnci intihalde birinci](baris-terkoglu-2024-12-09.md)
 - [Biri hukuk devleti mi dedi?](baris-terkoglu-2024-12-05.md)
-- [Bir garip İmamoğlu belgesi](baris-terkoglu-2024-12-02.md)
