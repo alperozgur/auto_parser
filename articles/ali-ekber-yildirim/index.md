@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Çiğ süt fiyatı ve üretim sözleşmesi](ali-ekber-yildirim-2025-01-28.md)
 - [Dijital tarım teknolojilerinde sorunlar ve fırsatlar](ali-ekber-yildirim-2025-01-22.md)
 - [Tarımda dijital teknolojilerin önemi](ali-ekber-yildirim-2025-01-21.md)
 - [Tarım öğretiminin 179. yılında tarımın geleceği ve gençler](ali-ekber-yildirim-2025-01-14.md)
@@ -15,4 +16,3 @@
 - [Tariş, zeytinyağı alım fiyatını ne zaman açıklayacak?](ali-ekber-yildirim-2024-12-10.md)
 - [Yediğimiz sebze ve meyvenin “temiz” olduğuna inanan var mı?](ali-ekber-yildirim-2024-11-27.md)
 - [İnek ithalatında yeni yılda yeni kurallar geliyor](ali-ekber-yildirim-2024-11-19.md)
-- [Tarıma 2025 bütçesinden 135 milyar lira destek ödenecek](ali-ekber-yildirim-2024-10-31.md)
