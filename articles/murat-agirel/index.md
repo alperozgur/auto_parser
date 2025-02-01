@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Tartışılan bilirkişinin tartışmalı raporu](murat-agirel-2025-02-01.md)
 - [Milyon dolarlık ‘zimmet’](murat-agirel-2025-01-28.md)
 - [Hesap soracak cesaretimiz var mı?](murat-agirel-2025-01-25.md)
 - [İhale yolsuzluklarını araştıran savcılara açık mektup](murat-agirel-2025-01-21.md)
@@ -14,4 +15,3 @@
 - [TikTok’ta neler oluyor](murat-agirel-2024-12-21.md)
 - [Milli Savunma Bakanı Yaşar Güler’e sesleniyorum](murat-agirel-2024-12-17.md)
 - [Filler tepişiyor çimenler eziliyor](murat-agirel-2024-12-14.md)
-- [Bedava peynir fare kapanında olur](murat-agirel-2024-12-10.md)
