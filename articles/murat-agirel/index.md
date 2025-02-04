@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Göcek Tüneli’ne para vermeye devam](murat-agirel-2025-02-04.md)
 - [Tartışılan bilirkişinin tartışmalı raporu](murat-agirel-2025-02-01.md)
 - [Milyon dolarlık ‘zimmet’](murat-agirel-2025-01-28.md)
 - [Hesap soracak cesaretimiz var mı?](murat-agirel-2025-01-25.md)
@@ -14,4 +15,3 @@
 - [Gayrimüslimlerin tapuları üzerinden dönen yolsuzluk](murat-agirel-2024-12-24.md)
 - [TikTok’ta neler oluyor](murat-agirel-2024-12-21.md)
 - [Milli Savunma Bakanı Yaşar Güler’e sesleniyorum](murat-agirel-2024-12-17.md)
-- [Filler tepişiyor çimenler eziliyor](murat-agirel-2024-12-14.md)

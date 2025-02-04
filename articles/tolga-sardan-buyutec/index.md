@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [İhraç teğmenler soruşturması: Kara Harp Okulu’ndaki bahçıvanın bile ifadesi alındı!](tolga-sardan-buyutec-2025-02-04.md)
 - [Kartalkaya’da 12 günde ne oldu?](tolga-sardan-buyutec-2025-01-31.md)
 - [Onur Özkan’ın ölümüyle ilgili İstinaf’a başvuran Aile ve Sosyal Hizmetler Bakanlığı: Beraat kararıyla hukuki garabet içine girildi!](tolga-sardan-buyutec-2025-01-28.md)
 - [Kartalkaya’da ne oldu, Masquerade yangınından ders çıkarılsaydı otel faciası yaşanır mıydı?](tolga-sardan-buyutec-2025-01-24.md)
@@ -11,4 +12,3 @@
 - [Türkiye’nin 2024 suç istatistikleri ve IŞİD operasyonları](tolga-sardan-buyutec-2025-01-03.md)
 - [Eski Mersin Emniyet Müdürü’nün, kaçakçılık suçu sabit görülen kardeşine hapis cezası!](tolga-sardan-buyutec-2024-12-31.md)
 - [İçişleri Bakanlığı müfettişleri, İBB’yi nasıl denetliyor, hangi konu başlıklarına mercek tutuyor?](tolga-sardan-buyutec-2024-12-27.md)
-- [İliç faciasında tartışılan iddianame ve Emniyet Müdürü Çalışkan’ın mesajı](tolga-sardan-buyutec-2024-12-24.md)
