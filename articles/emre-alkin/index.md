@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [Bildikleri bir şey vardır diyoruz ama...](emre-alkin-2025-02-05.md)
 - [Merkez Bankası kararları: Sorular ve cevaplar…](emre-alkin-2025-01-29.md)
 - [“Faiz kararına doğru..”](emre-alkin-2025-01-22.md)
 - [“Para politikasından evlilik yardımına...”](emre-alkin-2025-01-15.md)
@@ -15,4 +16,3 @@
 - [“Enflasyon ve cari açık”](emre-alkin-2024-11-06.md)
 - [“Politika faizi ve döviz kurları...”](emre-alkin-2024-10-30.md)
 - [“Reset atmadan enflasyonu çözemeyiz…"](emre-alkin-2024-10-23.md)
-- [“Nobel Ekonomi Ödülü...”](emre-alkin-2024-10-16.md)

@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Erdoğan’ın yapması gereken uyarı](baris-pehlivan-2025-02-05.md)
 - [Suat abi](baris-pehlivan-2025-01-31.md)
 - [Özdağ’ın bir haftası nasıl geçti?](baris-pehlivan-2025-01-29.md)
 - [Z raporu](baris-pehlivan-2025-01-24.md)
@@ -14,4 +15,3 @@
 - [AKP’nin 2025 planı ne?](baris-pehlivan-2024-12-25.md)
 - [İkinci yılında 414 sayfada olmayanlar](baris-pehlivan-2024-12-20.md)
 - [‘Eski bakan istiyor, tahliye edin’](baris-pehlivan-2024-12-18.md)
-- [Ayşenur Arslan’ın Colani ile ilişkisi](baris-pehlivan-2024-12-13.md)
