@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Hayvancılığa destek projesinin başvuru koşulları](ali-ekber-yildirim-2025-02-06.md)
 - [Çiğ süt fiyatı ve üretim sözleşmesi](ali-ekber-yildirim-2025-01-28.md)
 - [Dijital tarım teknolojilerinde sorunlar ve fırsatlar](ali-ekber-yildirim-2025-01-22.md)
 - [Tarımda dijital teknolojilerin önemi](ali-ekber-yildirim-2025-01-21.md)
@@ -15,4 +16,3 @@
 - [Dünyanın en büyük zeytinyağı ithalatçısı Amerika](ali-ekber-yildirim-2024-12-11.md)
 - [Tariş, zeytinyağı alım fiyatını ne zaman açıklayacak?](ali-ekber-yildirim-2024-12-10.md)
 - [Yediğimiz sebze ve meyvenin “temiz” olduğuna inanan var mı?](ali-ekber-yildirim-2024-11-27.md)
-- [İnek ithalatında yeni yılda yeni kurallar geliyor](ali-ekber-yildirim-2024-11-19.md)

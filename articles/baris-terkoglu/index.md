@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [İki yılda anladık: Aslında en acımasız cinayet, yaşama olan inancı öldürmekmiş](baris-terkoglu-2025-02-06.md)
 - [Yenilmeyen teğmenler](baris-terkoglu-2025-02-03.md)
 - [Adalet için izin](baris-terkoglu-2025-01-30.md)
 - [Can Atalay’ın değil Can Gürkan’ın yargısı](baris-terkoglu-2025-01-27.md)
@@ -14,4 +15,3 @@
 - [Bombacı Mülayim neden tutuklandı](baris-terkoglu-2024-12-23.md)
 - [Soylu’nun istemesi gereken helallik](baris-terkoglu-2024-12-19.md)
 - [Bir acayip Türkiye hikâyesi](baris-terkoglu-2024-12-16.md)
-- [Yeni Ortadoğu projesi eşbaşkanı](baris-terkoglu-2024-12-12.md)

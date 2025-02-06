@@ -32,5 +32,5 @@
 ### Bölük Komutanı: “Otoritemizi zayıflatacak uygulamalar emredildi”
 
 
-### Hukukçu Üsteğmen’in dikkat çeken tespiti
+### Üsteğmen’in dikkat çeken 3 tespiti
 
