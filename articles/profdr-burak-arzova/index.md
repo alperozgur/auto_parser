@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Enflasyonla mücadelede samimi miyiz?](profdr-burak-arzova-2025-02-07.md)
 - [Hükümetin sertleşmesinin ardında ekonomi mi var?](profdr-burak-arzova-2025-01-31.md)
 - [Trump’ın II. dönem ekonomi politikaları ve etkileri](profdr-burak-arzova-2025-01-24.md)
 - [İllüzyon ekonomisi kaldığı yerden devam](profdr-burak-arzova-2025-01-17.md)
@@ -15,4 +16,3 @@
 - [Trump versiyon 2.0 yüklendi](profdr-burak-arzova-2024-11-08.md)
 - [Yaşanan yüksek enflasyonda iş dünyasının payı var mı?](profdr-burak-arzova-2024-11-01.md)
 - [Yurtiçi turizm verilerinden ekonomiyi okumak](profdr-burak-arzova-2024-10-25.md)
-- [Dışlayıcı kurumları ile Türkiye çok iyi bir laboratuvar](profdr-burak-arzova-2024-10-18.md)

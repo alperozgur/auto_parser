@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Polis, Kara Harp Okulu’nu mu takip ediyor?!](tolga-sardan-buyutec-2025-02-07.md)
 - [30 Ağustos’taki mezuniyet töreninden önce Kara Harp Okulu’nda nasıl bir tablo vardı?](tolga-sardan-buyutec-2025-02-05.md)
 - [İhraç teğmenler soruşturması: Kara Harp Okulu’ndaki bahçıvanın bile ifadesi alındı!](tolga-sardan-buyutec-2025-02-04.md)
 - [Kartalkaya’da 12 günde ne oldu?](tolga-sardan-buyutec-2025-01-31.md)
@@ -11,4 +12,3 @@
 - [Sisli Vadi dosyasında “yüz kızartan” vahim iddialar](tolga-sardan-buyutec-2025-01-10.md)
 - [İçişleri Bakanı Yerlikaya, polis müdürleri Alp Arslan ve Oben Özay’ın ihraç kararını imzaladı](tolga-sardan-buyutec-2025-01-06.md)
 - [Türkiye’nin 2024 suç istatistikleri ve IŞİD operasyonları](tolga-sardan-buyutec-2025-01-03.md)
-- [Eski Mersin Emniyet Müdürü’nün, kaçakçılık suçu sabit görülen kardeşine hapis cezası!](tolga-sardan-buyutec-2024-12-31.md)
