@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Dünya bakliyat üretimini ve ticaretini 4 ülke yönlendiriyor](ali-ekber-yildirim-2025-02-10.md)
 - [Hayvancılığa destek projesinin başvuru koşulları](ali-ekber-yildirim-2025-02-06.md)
 - [Çiğ süt fiyatı ve üretim sözleşmesi](ali-ekber-yildirim-2025-01-28.md)
 - [Dijital tarım teknolojilerinde sorunlar ve fırsatlar](ali-ekber-yildirim-2025-01-22.md)
@@ -15,4 +16,3 @@
 - [Amerika’nın gözüyle Türkiye gıda perakende sektörü (1)](ali-ekber-yildirim-2024-12-17.md)
 - [Dünyanın en büyük zeytinyağı ithalatçısı Amerika](ali-ekber-yildirim-2024-12-11.md)
 - [Tariş, zeytinyağı alım fiyatını ne zaman açıklayacak?](ali-ekber-yildirim-2024-12-10.md)
-- [Yediğimiz sebze ve meyvenin “temiz” olduğuna inanan var mı?](ali-ekber-yildirim-2024-11-27.md)
