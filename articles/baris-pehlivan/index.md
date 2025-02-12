@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [CHP soruşturmasının kronolojisi](baris-pehlivan-2025-02-12.md)
 - [Yasa hasret kalanlar](baris-pehlivan-2025-02-07.md)
 - [Erdoğan’ın yapması gereken uyarı](baris-pehlivan-2025-02-05.md)
 - [Suat abi](baris-pehlivan-2025-01-31.md)
@@ -14,4 +15,3 @@
 - [İki kimsesizin başarı öyküsü](baris-pehlivan-2025-01-01.md)
 - [AKP’li bakanın asgari ücretlilere tavsiyeleri](baris-pehlivan-2024-12-27.md)
 - [AKP’nin 2025 planı ne?](baris-pehlivan-2024-12-25.md)
-- [İkinci yılında 414 sayfada olmayanlar](baris-pehlivan-2024-12-20.md)

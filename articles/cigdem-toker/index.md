@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Kamu bankalarına Hazine desteği TVF raporunda](cigdem-toker-2025-02-12.md)
 - [Deprem harcamaları kimi harcıyor?](cigdem-toker-2025-02-07.md)
 - [Bu gıda kriziyle enflasyon mu düşer?](cigdem-toker-2025-02-05.md)
 - [Çağrılsa ifade vermeye gidecek](cigdem-toker-2025-01-31.md)
@@ -11,4 +12,3 @@
 - [Bebek skandalında tek hastaneden 189 dava](cigdem-toker-2025-01-10.md)
 - [Açlığa ve hastalığa mahkûm eden “program”](cigdem-toker-2025-01-08.md)
 - [Hayret uyandıran her adım Anayasa’ya ayarlı](cigdem-toker-2025-01-03.md)
-- [2025 bütçesi konteynırda](cigdem-toker-2025-01-01.md)
