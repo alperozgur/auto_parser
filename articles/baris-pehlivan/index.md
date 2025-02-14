@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Diyanet’ten şaşırtan uyarılar](baris-pehlivan-2025-02-14.md)
 - [CHP soruşturmasının kronolojisi](baris-pehlivan-2025-02-12.md)
 - [Yasa hasret kalanlar](baris-pehlivan-2025-02-07.md)
 - [Erdoğan’ın yapması gereken uyarı](baris-pehlivan-2025-02-05.md)
@@ -14,4 +15,3 @@
 - [Gözaltından önce ‘Teröristlerle Konuşmak’](baris-pehlivan-2025-01-03.md)
 - [İki kimsesizin başarı öyküsü](baris-pehlivan-2025-01-01.md)
 - [AKP’li bakanın asgari ücretlilere tavsiyeleri](baris-pehlivan-2024-12-27.md)
-- [AKP’nin 2025 planı ne?](baris-pehlivan-2024-12-25.md)

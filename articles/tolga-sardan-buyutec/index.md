@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Bolu’daki otel yangını facia değil, katliammış! Katliamı “izleyenler”e ne olacak?](tolga-sardan-buyutec-2025-02-14.md)
 - [Uyuşturucuyla yakalanan Özel harekatçılar, Komiser Kürşat’ın intiharıyla bağlantılı tayinler: Emniyet’te neler oluyor?](tolga-sardan-buyutec-2025-02-11.md)
 - [Polis, Kara Harp Okulu’nu mu takip ediyor?!](tolga-sardan-buyutec-2025-02-07.md)
 - [30 Ağustos’taki mezuniyet töreninden önce Kara Harp Okulu’nda nasıl bir tablo vardı?](tolga-sardan-buyutec-2025-02-05.md)
@@ -11,4 +12,3 @@
 - [Komiser Kürşat’ın intiharının ardından “Moskova skandalı” çıktı!](tolga-sardan-buyutec-2025-01-17.md)
 - [İntihardan cinayet soruşturmasına dönüşen Dorukhan Büyükışık dosyasında 8 polise dava açıldı!](tolga-sardan-buyutec-2025-01-14.md)
 - [Sisli Vadi dosyasında “yüz kızartan” vahim iddialar](tolga-sardan-buyutec-2025-01-10.md)
-- [İçişleri Bakanı Yerlikaya, polis müdürleri Alp Arslan ve Oben Özay’ın ihraç kararını imzaladı](tolga-sardan-buyutec-2025-01-06.md)
