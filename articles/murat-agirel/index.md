@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Bu çark kırılmalı](murat-agirel-2025-02-15.md)
 - [Depremzede muhtarlara haciz](murat-agirel-2025-02-11.md)
 - [Deprem bölgesinde 651 bin kişi halen evsiz](murat-agirel-2025-02-08.md)
 - [Göcek Tüneli’ne para vermeye devam](murat-agirel-2025-02-04.md)
@@ -14,4 +15,3 @@
 - [İstanbul’da ‘Tosun Paşa’ davası](murat-agirel-2025-01-04.md)
 - [Umut değil eylem gerekiyor](murat-agirel-2024-12-31.md)
 - [Gayrimüslim mirası ve yolsuzluk hikâyesi: Bitmeyen adaletsizlik](murat-agirel-2024-12-28.md)
-- [Gayrimüslimlerin tapuları üzerinden dönen yolsuzluk](murat-agirel-2024-12-24.md)
