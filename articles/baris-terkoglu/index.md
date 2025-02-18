@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Zengin susar kurtulur da olan yine bize olur](baris-terkoglu-2025-02-17.md)
 - [Neee Hakan Şükür FETÖ’cü müymüş!](baris-terkoglu-2025-02-13.md)
 - [Kartalkaya dosyasından gelen koku](baris-terkoglu-2025-02-10.md)
 - [İki yılda anladık: Aslında en acımasız cinayet, yaşama olan inancı öldürmekmiş](baris-terkoglu-2025-02-06.md)
@@ -14,4 +15,3 @@
 - [Geçen yıldan kalan notlar](baris-terkoglu-2025-01-02.md)
 - [Bu düzenin adaleti madaleti yok!](baris-terkoglu-2024-12-30.md)
 - [Nedir bu Emevi Camisi takıntısı?](baris-terkoglu-2024-12-26.md)
-- [Bombacı Mülayim neden tutuklandı](baris-terkoglu-2024-12-23.md)
