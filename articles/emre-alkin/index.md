@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [Büyük yanılsama!!..](emre-alkin-2025-02-19.md)
 - [Bile bile lades…](emre-alkin-2025-02-12.md)
 - [Bildikleri bir şey vardır diyoruz ama...](emre-alkin-2025-02-05.md)
 - [Merkez Bankası kararları: Sorular ve cevaplar…](emre-alkin-2025-01-29.md)
@@ -15,4 +16,3 @@
 - [“Korumacılığın sonu enflasyon..”](emre-alkin-2024-11-20.md)
 - [“Trump ile dertler azalacak mı, artacak mı?”](emre-alkin-2024-11-13.md)
 - [“Enflasyon ve cari açık”](emre-alkin-2024-11-06.md)
-- [“Politika faizi ve döviz kurları...”](emre-alkin-2024-10-30.md)

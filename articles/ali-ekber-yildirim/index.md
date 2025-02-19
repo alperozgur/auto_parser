@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Pestisit analizinde taban fiyat tartışması](ali-ekber-yildirim-2025-02-19.md)
 - [Gıda sahtekarları ve etkili denetimin önemi](ali-ekber-yildirim-2025-02-18.md)
 - [Dünya bakliyat üretimini ve ticaretini 4 ülke yönlendiriyor](ali-ekber-yildirim-2025-02-10.md)
 - [Hayvancılığa destek projesinin başvuru koşulları](ali-ekber-yildirim-2025-02-06.md)
@@ -15,4 +16,3 @@
 - [Tarım sigortalarında prim 27 milyar, hasar 12 milyar lira](ali-ekber-yildirim-2024-12-24.md)
 - [Amerika’nın gözüyle Türkiye gıda perakende sektörü (2)](ali-ekber-yildirim-2024-12-18.md)
 - [Amerika’nın gözüyle Türkiye gıda perakende sektörü (1)](ali-ekber-yildirim-2024-12-17.md)
-- [Dünyanın en büyük zeytinyağı ithalatçısı Amerika](ali-ekber-yildirim-2024-12-11.md)
