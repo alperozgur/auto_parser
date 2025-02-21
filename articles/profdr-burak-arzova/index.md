@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Trump, Ukrayna’yı Avrupa’nın kucağına bıraktı](profdr-burak-arzova-2025-02-21.md)
 - [Hurafe](profdr-burak-arzova-2025-02-14.md)
 - [Enflasyonla mücadelede samimi miyiz?](profdr-burak-arzova-2025-02-07.md)
 - [Hükümetin sertleşmesinin ardında ekonomi mi var?](profdr-burak-arzova-2025-01-31.md)
@@ -15,4 +16,3 @@
 - [Yapay zekâya geçiş ya şimdi ya da hiçbir zaman](profdr-burak-arzova-2024-11-22.md)
 - [Türk tipi IMF programı ile enflasyonla mücadele](profdr-burak-arzova-2024-11-15.md)
 - [Trump versiyon 2.0 yüklendi](profdr-burak-arzova-2024-11-08.md)
-- [Yaşanan yüksek enflasyonda iş dünyasının payı var mı?](profdr-burak-arzova-2024-11-01.md)

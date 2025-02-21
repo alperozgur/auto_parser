@@ -34,7 +34,7 @@ HÜDA PAR denen partinin toplantısına gelelim.
 
 “Kürt Meselesine İnsani Çözüm” çalıştayında bir de bildirge yayımlamışlar evlere şenlik. Okuyunca bütün FETÖ operasyonları süreçlerindeki hislerim geri döndü. Başlatılan süreçte “Bize de yer açın” diyor aslında şeriatçı Kürtler.
 
-İşin garibi yazının girişinde saydığım Taraf gazetesi tayfasının tamamı da bu çalıştaya katılmış.
+İşin garibi yazının girişinde saydığım Taraf gazetesi tayfasından bu çalıştaya katılanlar da olmuş.
 
 Dahası toplantıda “Türkiye Cumhuriyeti bölünmeli laiklik yok edilmeli” diye kendi paralayan kim var ise çalıştayda yer almış. Kadir Mısıroğlu yaşasa koşa koşa katılır o cins bir toplantı.
 

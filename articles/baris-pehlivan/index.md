@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Haykıracak nefesin kalmadıysa](baris-pehlivan-2025-02-21.md)
 - [Sahi, siyasi yasak nasıl geldi?](baris-pehlivan-2025-02-19.md)
 - [Diyanet’ten şaşırtan uyarılar](baris-pehlivan-2025-02-14.md)
 - [CHP soruşturmasının kronolojisi](baris-pehlivan-2025-02-12.md)
@@ -14,4 +15,3 @@
 - [‘Oğlum’ yasağı](baris-pehlivan-2025-01-10.md)
 - [Feti Yıldız ile neler konuştum?](baris-pehlivan-2025-01-08.md)
 - [Gözaltından önce ‘Teröristlerle Konuşmak’](baris-pehlivan-2025-01-03.md)
-- [İki kimsesizin başarı öyküsü](baris-pehlivan-2025-01-01.md)

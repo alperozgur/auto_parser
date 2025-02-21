@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Bakan Ersoy’un “2024’te denetledik” dediği Grand Kartalkaya Oteli denetimden yeni bir skandal çıktı!](tolga-sardan-buyutec-2025-02-21.md)
 - [Bolu'daki otel yangınını araştıran müfettiş raporundan: "Hijyen ve gıda güvenliği denetlendi ama yangın önlemleri denetlenmedi!"](tolga-sardan-buyutec-2025-02-18.md)
 - [Bolu’daki otel yangını facia değil, katliammış! Katliamı “izleyenler”e ne olacak?](tolga-sardan-buyutec-2025-02-14.md)
 - [Uyuşturucuyla yakalanan Özel harekatçılar, Komiser Kürşat’ın intiharıyla bağlantılı tayinler: Emniyet’te neler oluyor?](tolga-sardan-buyutec-2025-02-11.md)
@@ -11,4 +12,3 @@
 - [Kartalkaya’da ne oldu, Masquerade yangınından ders çıkarılsaydı otel faciası yaşanır mıydı?](tolga-sardan-buyutec-2025-01-24.md)
 - [Kara Harp Okulu’ndaki teğmen krizinde “Cumhurbaşkanı” detayı](tolga-sardan-buyutec-2025-01-21.md)
 - [Komiser Kürşat’ın intiharının ardından “Moskova skandalı” çıktı!](tolga-sardan-buyutec-2025-01-17.md)
-- [İntihardan cinayet soruşturmasına dönüşen Dorukhan Büyükışık dosyasında 8 polise dava açıldı!](tolga-sardan-buyutec-2025-01-14.md)
