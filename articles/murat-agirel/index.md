@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [‘Kirli çark’ her şeyi açığa çıkarıyor](murat-agirel-2025-02-22.md)
 - [‘Taraf’ şürekâsı yine ortaya çıktı](murat-agirel-2025-02-18.md)
 - [Bu çark kırılmalı](murat-agirel-2025-02-15.md)
 - [Depremzede muhtarlara haciz](murat-agirel-2025-02-11.md)
@@ -14,4 +15,3 @@
 - [Mirasınıza çökebilirler dikkat edin](murat-agirel-2025-01-11.md)
 - [Siz harekete geçene kadar yazacağım](murat-agirel-2025-01-07.md)
 - [İstanbul’da ‘Tosun Paşa’ davası](murat-agirel-2025-01-04.md)
-- [Umut değil eylem gerekiyor](murat-agirel-2024-12-31.md)
