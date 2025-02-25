@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Avrupa Birliği’nin “Tarım ve Gıda Vizyonu” ve Türkiye’ye etkileri](ali-ekber-yildirim-2025-02-25.md)
 - [Pestisit analizinde taban fiyat tartışması](ali-ekber-yildirim-2025-02-19.md)
 - [Gıda sahtekarları ve etkili denetimin önemi](ali-ekber-yildirim-2025-02-18.md)
 - [Dünya bakliyat üretimini ve ticaretini 4 ülke yönlendiriyor](ali-ekber-yildirim-2025-02-10.md)
@@ -15,4 +16,3 @@
 - [Çukurovalı çiftçiler sordu, TARSİM Genel Müdürü yanıtladı](ali-ekber-yildirim-2024-12-25.md)
 - [Tarım sigortalarında prim 27 milyar, hasar 12 milyar lira](ali-ekber-yildirim-2024-12-24.md)
 - [Amerika’nın gözüyle Türkiye gıda perakende sektörü (2)](ali-ekber-yildirim-2024-12-18.md)
-- [Amerika’nın gözüyle Türkiye gıda perakende sektörü (1)](ali-ekber-yildirim-2024-12-17.md)
