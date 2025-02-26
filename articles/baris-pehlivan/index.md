@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Katil çıkacak, Gezi kalacak mı?](baris-pehlivan-2025-02-26.md)
 - [Haykıracak nefesin kalmadıysa](baris-pehlivan-2025-02-21.md)
 - [Sahi, siyasi yasak nasıl geldi?](baris-pehlivan-2025-02-19.md)
 - [Diyanet’ten şaşırtan uyarılar](baris-pehlivan-2025-02-14.md)
@@ -14,4 +15,3 @@
 - [Ölümü bekleyen 300 kişi](baris-pehlivan-2025-01-15.md)
 - [‘Oğlum’ yasağı](baris-pehlivan-2025-01-10.md)
 - [Feti Yıldız ile neler konuştum?](baris-pehlivan-2025-01-08.md)
-- [Gözaltından önce ‘Teröristlerle Konuşmak’](baris-pehlivan-2025-01-03.md)

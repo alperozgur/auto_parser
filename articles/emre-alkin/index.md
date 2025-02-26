@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [Doğru ile gerçek arasında karışmış akıllar…](emre-alkin-2025-02-26.md)
 - [Büyük yanılsama!!..](emre-alkin-2025-02-19.md)
 - [Bile bile lades…](emre-alkin-2025-02-12.md)
 - [Bildikleri bir şey vardır diyoruz ama...](emre-alkin-2025-02-05.md)
@@ -15,4 +16,3 @@
 - [“TCMB başkanlarının görev süreleri ve CDS primleri…”](emre-alkin-2024-11-27.md)
 - [“Korumacılığın sonu enflasyon..”](emre-alkin-2024-11-20.md)
 - [“Trump ile dertler azalacak mı, artacak mı?”](emre-alkin-2024-11-13.md)
-- [“Enflasyon ve cari açık”](emre-alkin-2024-11-06.md)
