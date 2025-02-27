@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Zehra gel kavga var](baris-terkoglu-2025-02-27.md)
 - [Naci Baba'nın bir çiftliği var](baris-terkoglu-2025-02-24.md)
 - [Kimi kime şikâyet edeceksin!](baris-terkoglu-2025-02-20.md)
 - [Zengin susar kurtulur da olan yine bize olur](baris-terkoglu-2025-02-17.md)
@@ -14,4 +15,3 @@
 - [Çocukları öldüren mülakat düzeni](baris-terkoglu-2025-01-13.md)
 - [Birşah Süt’teki su sandığınız gibi değil!](baris-terkoglu-2025-01-09.md)
 - [Mülakat mülakat Cumhuriyeti yıkıyorlar](baris-terkoglu-2025-01-06.md)
-- [Geçen yıldan kalan notlar](baris-terkoglu-2025-01-02.md)
