@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Firmaların yatırım iştahı neredeyse hiç kalmadı](profdr-burak-arzova-2025-02-28.md)
 - [Trump, Ukrayna’yı Avrupa’nın kucağına bıraktı](profdr-burak-arzova-2025-02-21.md)
 - [Hurafe](profdr-burak-arzova-2025-02-14.md)
 - [Enflasyonla mücadelede samimi miyiz?](profdr-burak-arzova-2025-02-07.md)
@@ -15,4 +16,3 @@
 - [Enflasyon konusunda reel sektör ne kadar gerçekçi, ne kadar değil?](profdr-burak-arzova-2024-11-29.md)
 - [Yapay zekâya geçiş ya şimdi ya da hiçbir zaman](profdr-burak-arzova-2024-11-22.md)
 - [Türk tipi IMF programı ile enflasyonla mücadele](profdr-burak-arzova-2024-11-15.md)
-- [Trump versiyon 2.0 yüklendi](profdr-burak-arzova-2024-11-08.md)

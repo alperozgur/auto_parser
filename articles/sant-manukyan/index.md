@@ -1,5 +1,6 @@
 # Şant Manukyan
 
+- [OPEC+](sant-manukyan-2025-02-28.md)
 - [DeepSeek ve gelecek](sant-manukyan-2025-01-31.md)
 - [Yeni yılda tahvil piyasaları](sant-manukyan-2025-01-17.md)
 - [Fed Noel Baba’yı kovalarken](sant-manukyan-2024-12-20.md)
@@ -15,4 +16,3 @@
 - [İzin verin tanıştırayım](sant-manukyan-2024-08-09.md)
 - [Kolay para](sant-manukyan-2024-07-26.md)
 - [ABD siyaseti](sant-manukyan-2024-07-05.md)
-- [Gelir Bilgi dağılımı eşitsizliğine dikkat](sant-manukyan-2024-06-28.md)

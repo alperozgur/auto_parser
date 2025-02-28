@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [İçişleri Bakanlığı müfettişlerinin Kartalkaya'daki otel yangınına ilişkin ikinci raporundan: “Can ve mal kaybı ihtimali yüksek olan otelin faaliyeti durdurulmalıydı”](tolga-sardan-buyutec-2025-02-28.md)
 - [Suç örgütü lideri emekli polise parasal yardım yaptı, emniyetten ses yok!](tolga-sardan-buyutec-2025-02-25.md)
 - [Bakan Ersoy’un “2024’te denetledik” dediği Grand Kartalkaya Oteli denetimden yeni bir skandal çıktı!](tolga-sardan-buyutec-2025-02-21.md)
 - [Bolu'daki otel yangınını araştıran müfettiş raporundan: "Hijyen ve gıda güvenliği denetlendi ama yangın önlemleri denetlenmedi!"](tolga-sardan-buyutec-2025-02-18.md)
@@ -11,4 +12,3 @@
 - [Kartalkaya’da 12 günde ne oldu?](tolga-sardan-buyutec-2025-01-31.md)
 - [Onur Özkan’ın ölümüyle ilgili İstinaf’a başvuran Aile ve Sosyal Hizmetler Bakanlığı: Beraat kararıyla hukuki garabet içine girildi!](tolga-sardan-buyutec-2025-01-28.md)
 - [Kartalkaya’da ne oldu, Masquerade yangınından ders çıkarılsaydı otel faciası yaşanır mıydı?](tolga-sardan-buyutec-2025-01-24.md)
-- [Kara Harp Okulu’ndaki teğmen krizinde “Cumhurbaşkanı” detayı](tolga-sardan-buyutec-2025-01-21.md)

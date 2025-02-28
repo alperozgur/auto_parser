@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [İklim krizi tahvil takasıyla mı çözülecek?](cigdem-toker-2025-02-28.md)
 - [360’a doğru adım adım](cigdem-toker-2025-02-26.md)
 - [Buyurun beklenti yönetimine](cigdem-toker-2025-02-21.md)
 - [Kuşatmanın ardındaki ekonomi](cigdem-toker-2025-02-19.md)
@@ -11,4 +12,3 @@
 - [Şimşek’in grafikleri kimin için?](cigdem-toker-2025-01-29.md)
 - [Zaten siyasetin daniskası, ne aleti?](cigdem-toker-2025-01-24.md)
 - ["Kanla yazılan yönetmelik”e ne oldu?](cigdem-toker-2025-01-21.md)
-- [Yolsuzlukla mücadele böyle olur](cigdem-toker-2025-01-17.md)

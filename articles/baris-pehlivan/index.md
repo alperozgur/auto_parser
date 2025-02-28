@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Mahalle yanarken saç taramıyorum](baris-pehlivan-2025-02-28.md)
 - [Katil çıkacak, Gezi kalacak mı?](baris-pehlivan-2025-02-26.md)
 - [Haykıracak nefesin kalmadıysa](baris-pehlivan-2025-02-21.md)
 - [Sahi, siyasi yasak nasıl geldi?](baris-pehlivan-2025-02-19.md)
@@ -14,4 +15,3 @@
 - [Bir rapor, bir karar, çok ders](baris-pehlivan-2025-01-17.md)
 - [Ölümü bekleyen 300 kişi](baris-pehlivan-2025-01-15.md)
 - [‘Oğlum’ yasağı](baris-pehlivan-2025-01-10.md)
-- [Feti Yıldız ile neler konuştum?](baris-pehlivan-2025-01-08.md)
