@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Halk TV burada Yeni Şafak nerede!](baris-terkoglu-2025-03-03.md)
 - [Zehra gel kavga var](baris-terkoglu-2025-02-27.md)
 - [Naci Baba'nın bir çiftliği var](baris-terkoglu-2025-02-24.md)
 - [Kimi kime şikâyet edeceksin!](baris-terkoglu-2025-02-20.md)
@@ -14,4 +15,3 @@
 - [İktidar hesaplaşmasına yolsuzluk bahanesi](baris-terkoglu-2025-01-16.md)
 - [Çocukları öldüren mülakat düzeni](baris-terkoglu-2025-01-13.md)
 - [Birşah Süt’teki su sandığınız gibi değil!](baris-terkoglu-2025-01-09.md)
-- [Mülakat mülakat Cumhuriyeti yıkıyorlar](baris-terkoglu-2025-01-06.md)

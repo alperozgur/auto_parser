@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Adana Kozan’ın bereketli toprakları ve insanları](ali-ekber-yildirim-2025-03-04.md)
 - [Tarımsal üretimde riskler ve fırsatlar](ali-ekber-yildirim-2025-02-26.md)
 - [Avrupa Birliği’nin “Tarım ve Gıda Vizyonu” ve Türkiye’ye etkileri](ali-ekber-yildirim-2025-02-25.md)
 - [Pestisit analizinde taban fiyat tartışması](ali-ekber-yildirim-2025-02-19.md)
@@ -15,4 +16,3 @@
 - [Tarım desteklerinde kafa karıştıran sorular ve yanıtları](ali-ekber-yildirim-2025-01-07.md)
 - [Pestisit denetiminde sahada neler oluyor?](ali-ekber-yildirim-2024-12-26.md)
 - [Çukurovalı çiftçiler sordu, TARSİM Genel Müdürü yanıtladı](ali-ekber-yildirim-2024-12-25.md)
-- [Tarım sigortalarında prim 27 milyar, hasar 12 milyar lira](ali-ekber-yildirim-2024-12-24.md)

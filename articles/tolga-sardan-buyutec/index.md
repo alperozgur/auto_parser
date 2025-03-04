@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [“Acılı anne”ye Meclis yasağı ve Cübbeli’nin çakarı](tolga-sardan-buyutec-2025-03-04.md)
 - [Otel sahibinin damadı Aras: Silah ruhsatı başvurusu yapabilmek için genel müdür sıfatıyla görevlendirildim](tolga-sardan-buyutec-2025-03-02.md)
 - [Grand Kartal Otel’in yöneticisi anlatıyor: Emir Bey, “Eksikleri gidermek çok masraflı, bunları yapamayız, başvuruyu geri çekin” dedi; dilekçe verip geri çektim](tolga-sardan-buyutec-2025-03-01.md)
 - [İçişleri Bakanlığı müfettişlerinin Kartalkaya'daki otel yangınına ilişkin ikinci raporundan: “Can ve mal kaybı ihtimali yüksek olan otelin faaliyeti durdurulmalıydı”](tolga-sardan-buyutec-2025-02-28.md)
@@ -11,4 +12,3 @@
 - [Polis, Kara Harp Okulu’nu mu takip ediyor?!](tolga-sardan-buyutec-2025-02-07.md)
 - [30 Ağustos’taki mezuniyet töreninden önce Kara Harp Okulu’nda nasıl bir tablo vardı?](tolga-sardan-buyutec-2025-02-05.md)
 - [İhraç teğmenler soruşturması: Kara Harp Okulu’ndaki bahçıvanın bile ifadesi alındı!](tolga-sardan-buyutec-2025-02-04.md)
-- [Kartalkaya’da 12 günde ne oldu?](tolga-sardan-buyutec-2025-01-31.md)
