@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [Ha gayret enflasyon düşü(rülü)yor !!..](emre-alkin-2025-03-05.md)
 - [Doğru ile gerçek arasında karışmış akıllar…](emre-alkin-2025-02-26.md)
 - [Büyük yanılsama!!..](emre-alkin-2025-02-19.md)
 - [Bile bile lades…](emre-alkin-2025-02-12.md)
@@ -15,4 +16,3 @@
 - [“Faiz indiriminin zamanı değil…”](emre-alkin-2024-12-04.md)
 - [“TCMB başkanlarının görev süreleri ve CDS primleri…”](emre-alkin-2024-11-27.md)
 - [“Korumacılığın sonu enflasyon..”](emre-alkin-2024-11-20.md)
-- [“Trump ile dertler azalacak mı, artacak mı?”](emre-alkin-2024-11-13.md)
