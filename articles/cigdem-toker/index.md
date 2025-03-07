@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Bütçede kadına bakış](cigdem-toker-2025-03-07.md)
 - [Mattia Ahmet’in ardından](cigdem-toker-2025-03-05.md)
 - [İklim krizi tahvil takasıyla mı çözülecek?](cigdem-toker-2025-02-28.md)
 - [360’a doğru adım adım](cigdem-toker-2025-02-26.md)
@@ -11,4 +12,3 @@
 - [Bu gıda kriziyle enflasyon mu düşer?](cigdem-toker-2025-02-05.md)
 - [Çağrılsa ifade vermeye gidecek](cigdem-toker-2025-01-31.md)
 - [Şimşek’in grafikleri kimin için?](cigdem-toker-2025-01-29.md)
-- [Zaten siyasetin daniskası, ne aleti?](cigdem-toker-2025-01-24.md)
