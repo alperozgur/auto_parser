@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Kim bu milyarlarca liralık çarkı döndürenler (1)](murat-agirel-2025-03-08.md)
 - [YÖK aracında uyuşturucu yakalandı](murat-agirel-2025-03-07.md)
 - [Çakarlı cipin sahibi ne kadar vergi ödedi](murat-agirel-2025-03-04.md)
 - [Öcalan’ın mektubu Erdoğan’ın yolunu açar mı?](murat-agirel-2025-03-01.md)
@@ -14,4 +15,3 @@
 - [Milyon dolarlık ‘zimmet’](murat-agirel-2025-01-28.md)
 - [Hesap soracak cesaretimiz var mı?](murat-agirel-2025-01-25.md)
 - [İhale yolsuzluklarını araştıran savcılara açık mektup](murat-agirel-2025-01-21.md)
-- [Motosikletlilerin kaportası canlarıdır](murat-agirel-2025-01-18.md)
