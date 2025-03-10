@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Kuraklık ve su sorunu tarımsal üretimi tehdit ediyor](ali-ekber-yildirim-2025-03-10.md)
 - [Adana Kozan’ın bereketli toprakları ve insanları](ali-ekber-yildirim-2025-03-04.md)
 - [Tarımsal üretimde riskler ve fırsatlar](ali-ekber-yildirim-2025-02-26.md)
 - [Avrupa Birliği’nin “Tarım ve Gıda Vizyonu” ve Türkiye’ye etkileri](ali-ekber-yildirim-2025-02-25.md)
@@ -15,4 +16,3 @@
 - [Hayvancılıkta planlı üretim destekleri 2025 bütçesinden ödenecek](ali-ekber-yildirim-2025-01-08.md)
 - [Tarım desteklerinde kafa karıştıran sorular ve yanıtları](ali-ekber-yildirim-2025-01-07.md)
 - [Pestisit denetiminde sahada neler oluyor?](ali-ekber-yildirim-2024-12-26.md)
-- [Çukurovalı çiftçiler sordu, TARSİM Genel Müdürü yanıtladı](ali-ekber-yildirim-2024-12-25.md)

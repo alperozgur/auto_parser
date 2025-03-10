@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Kim bu milyarlarca liralık çarkı döndürenler (3)](murat-agirel-2025-03-10.md)
 - [Kim bu milyarlarca liralık çarkı döndürenler (2)](murat-agirel-2025-03-09.md)
 - [Kim bu milyarlarca liralık çarkı döndürenler (1)](murat-agirel-2025-03-08.md)
 - [YÖK aracında uyuşturucu yakalandı](murat-agirel-2025-03-07.md)
@@ -14,4 +15,3 @@
 - [Göcek Tüneli’ne para vermeye devam](murat-agirel-2025-02-04.md)
 - [Tartışılan bilirkişinin tartışmalı raporu](murat-agirel-2025-02-01.md)
 - [Milyon dolarlık ‘zimmet’](murat-agirel-2025-01-28.md)
-- [Hesap soracak cesaretimiz var mı?](murat-agirel-2025-01-25.md)
