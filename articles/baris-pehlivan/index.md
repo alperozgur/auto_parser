@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Televizyondaki abla](baris-pehlivan-2025-03-12.md)
 - [Sürecin kanununu yazacaklar mı yeniden?](baris-pehlivan-2025-03-07.md)
 - [Mahalle yanarken saç taramıyorum](baris-pehlivan-2025-02-28.md)
 - [Katil çıkacak, Gezi kalacak mı?](baris-pehlivan-2025-02-26.md)
@@ -14,4 +15,3 @@
 - [Z raporu](baris-pehlivan-2025-01-24.md)
 - [Özdağ’ın beklediği senaryo](baris-pehlivan-2025-01-22.md)
 - [Bir rapor, bir karar, çok ders](baris-pehlivan-2025-01-17.md)
-- [Ölümü bekleyen 300 kişi](baris-pehlivan-2025-01-15.md)
