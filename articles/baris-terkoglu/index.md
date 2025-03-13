@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Nereden çıktı bu ‘kurucu önder’ lafı?](baris-terkoglu-2025-03-13.md)
 - [İmamoğlu’nun en uzun ‘mart’ı](baris-terkoglu-2025-03-10.md)
 - [Adalet bakanı konuşuyor da...](baris-terkoglu-2025-03-06.md)
 - [Halk TV burada Yeni Şafak nerede!](baris-terkoglu-2025-03-03.md)
@@ -14,4 +15,3 @@
 - [Adalet için izin](baris-terkoglu-2025-01-30.md)
 - [Can Atalay’ın değil Can Gürkan’ın yargısı](baris-terkoglu-2025-01-27.md)
 - [Kapansın tarikatlar kurtulsun Müslümanlar](baris-terkoglu-2025-01-20.md)
-- [İktidar hesaplaşmasına yolsuzluk bahanesi](baris-terkoglu-2025-01-16.md)
