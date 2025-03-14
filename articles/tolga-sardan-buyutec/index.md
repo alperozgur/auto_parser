@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [Tunceli’de ikinci perde](tolga-sardan-buyutec-2025-03-14.md)
 - [Tunceli Jandarma’da ortaya çıkan bir dizi skandal!](tolga-sardan-buyutec-2025-03-11.md)
 - [21 Mart’ta sokaklarda Öcalan posteri açılırsa, güvenlik güçleri ne yapacak?](tolga-sardan-buyutec-2025-03-07.md)
 - [“Acılı anne”ye Meclis yasağı ve Cübbeli’nin çakarı](tolga-sardan-buyutec-2025-03-04.md)
@@ -11,4 +12,3 @@
 - [Bolu'daki otel yangınını araştıran müfettiş raporundan: "Hijyen ve gıda güvenliği denetlendi ama yangın önlemleri denetlenmedi!"](tolga-sardan-buyutec-2025-02-18.md)
 - [Bolu’daki otel yangını facia değil, katliammış! Katliamı “izleyenler”e ne olacak?](tolga-sardan-buyutec-2025-02-14.md)
 - [Uyuşturucuyla yakalanan Özel harekatçılar, Komiser Kürşat’ın intiharıyla bağlantılı tayinler: Emniyet’te neler oluyor?](tolga-sardan-buyutec-2025-02-11.md)
-- [Polis, Kara Harp Okulu’nu mu takip ediyor?!](tolga-sardan-buyutec-2025-02-07.md)

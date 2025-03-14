@@ -1,5 +1,6 @@
 # Şant Manukyan
 
+- [G.V.Ö. ve G.V.S.](sant-manukyan-2025-03-14.md)
 - [OPEC+](sant-manukyan-2025-02-28.md)
 - [DeepSeek ve gelecek](sant-manukyan-2025-01-31.md)
 - [Yeni yılda tahvil piyasaları](sant-manukyan-2025-01-17.md)
@@ -15,4 +16,3 @@
 - [Sahnede Fed, geride Çin](sant-manukyan-2024-08-16.md)
 - [İzin verin tanıştırayım](sant-manukyan-2024-08-09.md)
 - [Kolay para](sant-manukyan-2024-07-26.md)
-- [ABD siyaseti](sant-manukyan-2024-07-05.md)
