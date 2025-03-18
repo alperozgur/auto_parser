@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Milyarlarca lira için çok önemli adım](murat-agirel-2025-03-18.md)
 - [GAİN Medya’yı kim satın aldı?](murat-agirel-2025-03-15.md)
 - [Kim bu milyarlarca liralık çarkı döndürenler (4)](murat-agirel-2025-03-11.md)
 - [Kim bu milyarlarca liralık çarkı döndürenler (3)](murat-agirel-2025-03-10.md)
@@ -14,4 +15,3 @@
 - [Bu çark kırılmalı](murat-agirel-2025-02-15.md)
 - [Depremzede muhtarlara haciz](murat-agirel-2025-02-11.md)
 - [Deprem bölgesinde 651 bin kişi halen evsiz](murat-agirel-2025-02-08.md)
-- [Göcek Tüneli’ne para vermeye devam](murat-agirel-2025-02-04.md)

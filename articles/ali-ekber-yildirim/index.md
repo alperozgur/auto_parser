@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [ABD’nin yumurta krizi ve Türkiye’ye yansımaları](ali-ekber-yildirim-2025-03-18.md)
 - [Tarımda planlı üretim Büyük Menderes Havzası’nda suya düştü](ali-ekber-yildirim-2025-03-12.md)
 - [Kuraklık ve su sorunu tarımsal üretimi tehdit ediyor](ali-ekber-yildirim-2025-03-10.md)
 - [Adana Kozan’ın bereketli toprakları ve insanları](ali-ekber-yildirim-2025-03-04.md)
@@ -15,4 +16,3 @@
 - [Tarım öğretiminin 179. yılında tarımın geleceği ve gençler](ali-ekber-yildirim-2025-01-14.md)
 - [İhracattan dönen kuru incir ve Antep fıstığı için sert önlemler](ali-ekber-yildirim-2025-01-09.md)
 - [Hayvancılıkta planlı üretim destekleri 2025 bütçesinden ödenecek](ali-ekber-yildirim-2025-01-08.md)
-- [Tarım desteklerinde kafa karıştıran sorular ve yanıtları](ali-ekber-yildirim-2025-01-07.md)
