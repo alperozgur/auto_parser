@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Darbe dönemi ile karşılaştırınca…](baris-pehlivan-2025-03-19.md)
 - [Yumruk, ihraç, koltuk](baris-pehlivan-2025-03-14.md)
 - [Televizyondaki abla](baris-pehlivan-2025-03-12.md)
 - [Sürecin kanununu yazacaklar mı yeniden?](baris-pehlivan-2025-03-07.md)
@@ -14,4 +15,3 @@
 - [Suat abi](baris-pehlivan-2025-01-31.md)
 - [Özdağ’ın bir haftası nasıl geçti?](baris-pehlivan-2025-01-29.md)
 - [Z raporu](baris-pehlivan-2025-01-24.md)
-- [Özdağ’ın beklediği senaryo](baris-pehlivan-2025-01-22.md)
