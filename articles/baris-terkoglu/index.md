@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Demokrasisiz seçim düzeninin ilanı](baris-terkoglu-2025-03-20.md)
 - [Kirli çarkın sahiplerinin takı kuyruğu](baris-terkoglu-2025-03-17.md)
 - [Nereden çıktı bu ‘kurucu önder’ lafı?](baris-terkoglu-2025-03-13.md)
 - [İmamoğlu’nun en uzun ‘mart’ı](baris-terkoglu-2025-03-10.md)
@@ -14,4 +15,3 @@
 - [İki yılda anladık: Aslında en acımasız cinayet, yaşama olan inancı öldürmekmiş](baris-terkoglu-2025-02-06.md)
 - [Yenilmeyen teğmenler](baris-terkoglu-2025-02-03.md)
 - [Adalet için izin](baris-terkoglu-2025-01-30.md)
-- [Can Atalay’ın değil Can Gürkan’ın yargısı](baris-terkoglu-2025-01-27.md)
