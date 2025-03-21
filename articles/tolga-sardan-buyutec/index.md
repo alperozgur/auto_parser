@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [İmamoğlu operasyonu](tolga-sardan-buyutec-2025-03-21.md)
 - [Kara para aklama iddiasıyla tutuklanan Erkan Kork’un, “Banker Bilo”dan banka ve medya patronluğuna uzanan öyküsü](tolga-sardan-buyutec-2025-03-18.md)
 - [Tunceli’de ikinci perde](tolga-sardan-buyutec-2025-03-14.md)
 - [Tunceli Jandarma’da ortaya çıkan bir dizi skandal!](tolga-sardan-buyutec-2025-03-11.md)
@@ -11,4 +12,3 @@
 - [Suç örgütü lideri emekli polise parasal yardım yaptı, emniyetten ses yok!](tolga-sardan-buyutec-2025-02-25.md)
 - [Bakan Ersoy’un “2024’te denetledik” dediği Grand Kartalkaya Oteli denetimden yeni bir skandal çıktı!](tolga-sardan-buyutec-2025-02-21.md)
 - [Bolu'daki otel yangınını araştıran müfettiş raporundan: "Hijyen ve gıda güvenliği denetlendi ama yangın önlemleri denetlenmedi!"](tolga-sardan-buyutec-2025-02-18.md)
-- [Bolu’daki otel yangını facia değil, katliammış! Katliamı “izleyenler”e ne olacak?](tolga-sardan-buyutec-2025-02-14.md)

@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Bir çuval inciri mahvetmek](profdr-burak-arzova-2025-03-21.md)
 - [Almanya’nın savunma bütçesi Türkiye’ye fayda sağlar mı?](profdr-burak-arzova-2025-03-14.md)
 - [Sen veriye uyamıyorsan veri sana uysun](profdr-burak-arzova-2025-03-07.md)
 - [Firmaların yatırım iştahı neredeyse hiç kalmadı](profdr-burak-arzova-2025-02-28.md)
@@ -15,4 +16,3 @@
 - [Asgari ücret değil ortalama ücret belirliyoruz](profdr-burak-arzova-2024-12-20.md)
 - [Sanayi üretiminden ülke ekonomisine bakış](profdr-burak-arzova-2024-12-13.md)
 - [Enflasyon tek kelime ile ‘iyi’ iki kelime ile ‘iyi değil’](profdr-burak-arzova-2024-12-06.md)
-- [Enflasyon konusunda reel sektör ne kadar gerçekçi, ne kadar değil?](profdr-burak-arzova-2024-11-29.md)

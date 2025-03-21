@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Hukuki güvenlik](cigdem-toker-2025-03-21.md)
 - [KÖİ zararını tarihsel ve milli günlerle makyajlamak](cigdem-toker-2025-03-19.md)
 - ["Dolduruş"](cigdem-toker-2025-03-14.md)
 - [8 Mart ve bir Almanya seyahatinden izlenimler](cigdem-toker-2025-03-12.md)
@@ -11,4 +12,3 @@
 - [Kuşatmanın ardındaki ekonomi](cigdem-toker-2025-02-19.md)
 - [Yolsuzluğa sıfır tolerans diyebiliyor musunuz?](cigdem-toker-2025-02-14.md)
 - [Kamu bankalarına Hazine desteği TVF raporunda](cigdem-toker-2025-02-12.md)
-- [Deprem harcamaları kimi harcıyor?](cigdem-toker-2025-02-07.md)
