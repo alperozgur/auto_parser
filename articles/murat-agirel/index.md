@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [İBB soruşturmasında garip bir detay](murat-agirel-2025-03-25.md)
 - [Her şey aynı bir tek ‘bavulları’ yok](murat-agirel-2025-03-22.md)
 - [Milyarlarca lira için çok önemli adım](murat-agirel-2025-03-18.md)
 - [GAİN Medya’yı kim satın aldı?](murat-agirel-2025-03-15.md)
@@ -14,4 +15,3 @@
 - [‘Kirli çark’ her şeyi açığa çıkarıyor](murat-agirel-2025-02-22.md)
 - [‘Taraf’ şürekâsı yine ortaya çıktı](murat-agirel-2025-02-18.md)
 - [Bu çark kırılmalı](murat-agirel-2025-02-15.md)
-- [Depremzede muhtarlara haciz](murat-agirel-2025-02-11.md)
