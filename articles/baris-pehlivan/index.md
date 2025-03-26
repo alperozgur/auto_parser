@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [İmamoğlu raporundaki sır](baris-pehlivan-2025-03-26.md)
 - [İşte o davalar](baris-pehlivan-2025-03-21.md)
 - [Darbe dönemi ile karşılaştırınca…](baris-pehlivan-2025-03-19.md)
 - [Yumruk, ihraç, koltuk](baris-pehlivan-2025-03-14.md)
@@ -14,4 +15,3 @@
 - [Yasa hasret kalanlar](baris-pehlivan-2025-02-07.md)
 - [Erdoğan’ın yapması gereken uyarı](baris-pehlivan-2025-02-05.md)
 - [Suat abi](baris-pehlivan-2025-01-31.md)
-- [Özdağ’ın bir haftası nasıl geçti?](baris-pehlivan-2025-01-29.md)
