@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [‘Seçim kazandıran adam’ da tutuklandı](baris-terkoglu-2025-03-27.md)
 - [Yenikapı durağındaki ekim çelişkisi](baris-terkoglu-2025-03-24.md)
 - [Demokrasisiz seçim düzeninin ilanı](baris-terkoglu-2025-03-20.md)
 - [Kirli çarkın sahiplerinin takı kuyruğu](baris-terkoglu-2025-03-17.md)
@@ -14,4 +15,3 @@
 - [Neee Hakan Şükür FETÖ’cü müymüş!](baris-terkoglu-2025-02-13.md)
 - [Kartalkaya dosyasından gelen koku](baris-terkoglu-2025-02-10.md)
 - [İki yılda anladık: Aslında en acımasız cinayet, yaşama olan inancı öldürmekmiş](baris-terkoglu-2025-02-06.md)
-- [Yenilmeyen teğmenler](baris-terkoglu-2025-02-03.md)
