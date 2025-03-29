@@ -1,5 +1,6 @@
 # Şant Manukyan
 
+- [ABD’nin oyunu Çin’in topu](sant-manukyan-2025-03-28.md)
 - [G.V.Ö. ve G.V.S.](sant-manukyan-2025-03-14.md)
 - [OPEC+](sant-manukyan-2025-02-28.md)
 - [DeepSeek ve gelecek](sant-manukyan-2025-01-31.md)
@@ -15,4 +16,3 @@
 - [Ne dilediğinize dikkat edin!](sant-manukyan-2024-08-30.md)
 - [Sahnede Fed, geride Çin](sant-manukyan-2024-08-16.md)
 - [İzin verin tanıştırayım](sant-manukyan-2024-08-09.md)
-- [Kolay para](sant-manukyan-2024-07-26.md)
