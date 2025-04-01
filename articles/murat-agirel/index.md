@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [İBB’deki 1.8 milyarlık kamu zararı](murat-agirel-2025-04-01.md)
 - [İmamoğlu’na operasyon aceleye geldi](murat-agirel-2025-03-29.md)
 - [İBB soruşturmasında garip bir detay](murat-agirel-2025-03-25.md)
 - [Her şey aynı bir tek ‘bavulları’ yok](murat-agirel-2025-03-22.md)
@@ -14,4 +15,3 @@
 - [Öcalan’ın mektubu Erdoğan’ın yolunu açar mı?](murat-agirel-2025-03-01.md)
 - [Deprem bölgesinde yaşanan skandal](murat-agirel-2025-02-25.md)
 - [‘Kirli çark’ her şeyi açığa çıkarıyor](murat-agirel-2025-02-22.md)
-- [‘Taraf’ şürekâsı yine ortaya çıktı](murat-agirel-2025-02-18.md)
