@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [Herkes Türkiye'de neler olduğunu merak ediyor…](emre-alkin-2025-04-02.md)
 - [Biz çok konuştuk, şimdi sıra sizde arkadaş…](emre-alkin-2025-03-26.md)
 - [Hata yapan temele geri dönsün](emre-alkin-2025-03-19.md)
 - [Kötünün iyisine razı olunca…](emre-alkin-2025-03-12.md)
@@ -15,4 +16,3 @@
 - [“KKM’nin faturası mı daha yüksek, carry trade’in mi ?”](emre-alkin-2025-01-01.md)
 - [“Kredi koşulları iyileşmeden faiz indirimi sadece şov olur... “](emre-alkin-2024-12-25.md)
 - [“Asgari ücretten yeni hikâyeye”](emre-alkin-2024-12-18.md)
-- [Suriye'deki sürecin galibi Türkiye mi?](emre-alkin-2024-12-11.md)

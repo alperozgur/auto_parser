@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Tutuklu başkan için kritik rapor](baris-pehlivan-2025-04-02.md)
 - [Yeni başlayanlar için hukuk sözlüğü](baris-pehlivan-2025-03-28.md)
 - [İmamoğlu raporundaki sır](baris-pehlivan-2025-03-26.md)
 - [İşte o davalar](baris-pehlivan-2025-03-21.md)
@@ -14,4 +15,3 @@
 - [Diyanet’ten şaşırtan uyarılar](baris-pehlivan-2025-02-14.md)
 - [CHP soruşturmasının kronolojisi](baris-pehlivan-2025-02-12.md)
 - [Yasa hasret kalanlar](baris-pehlivan-2025-02-07.md)
-- [Erdoğan’ın yapması gereken uyarı](baris-pehlivan-2025-02-05.md)

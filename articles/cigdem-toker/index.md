@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Zorla para harcatamazsınız](cigdem-toker-2025-04-02.md)
 - [Herkesin sesini her zaman kısamazsınız](cigdem-toker-2025-03-28.md)
 - [Gerçekler baskıyla örtülemez](cigdem-toker-2025-03-26.md)
 - [Hukuki güvenlik](cigdem-toker-2025-03-21.md)
@@ -11,4 +12,3 @@
 - [İklim krizi tahvil takasıyla mı çözülecek?](cigdem-toker-2025-02-28.md)
 - [360’a doğru adım adım](cigdem-toker-2025-02-26.md)
 - [Buyurun beklenti yönetimine](cigdem-toker-2025-02-21.md)
-- [Kuşatmanın ardındaki ekonomi](cigdem-toker-2025-02-19.md)
