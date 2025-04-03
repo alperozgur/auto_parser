@@ -1,5 +1,6 @@
 # Barış Terkoğlu
 
+- [Hedefteki isim ilk kez konuştu](baris-terkoglu-2025-04-03.md)
 - [Annesinin son sütünü hatırlayamayan bebek](baris-terkoglu-2025-03-31.md)
 - [‘Seçim kazandıran adam’ da tutuklandı](baris-terkoglu-2025-03-27.md)
 - [Yenikapı durağındaki ekim çelişkisi](baris-terkoglu-2025-03-24.md)
@@ -14,4 +15,3 @@
 - [Kimi kime şikâyet edeceksin!](baris-terkoglu-2025-02-20.md)
 - [Zengin susar kurtulur da olan yine bize olur](baris-terkoglu-2025-02-17.md)
 - [Neee Hakan Şükür FETÖ’cü müymüş!](baris-terkoglu-2025-02-13.md)
-- [Kartalkaya dosyasından gelen koku](baris-terkoglu-2025-02-10.md)
