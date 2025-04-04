@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [İstanbul’da ne oldu, ne oluyor, ne olacak?](tolga-sardan-buyutec-2025-04-04.md)
 - [Balıkesir’deki patlama faciasında ikinci perde](tolga-sardan-buyutec-2025-04-01.md)
 - [Amasra’daki maden faciasının isyan ettiren mahkeme kararı](tolga-sardan-buyutec-2025-03-28.md)
 - [İBB soruşturması: Ankara ve İstanbul’da ışıklar daha ne kadar yanacak?](tolga-sardan-buyutec-2025-03-25.md)
@@ -11,4 +12,3 @@
 - [“Acılı anne”ye Meclis yasağı ve Cübbeli’nin çakarı](tolga-sardan-buyutec-2025-03-04.md)
 - [Otel sahibinin damadı Aras: Silah ruhsatı başvurusu yapabilmek için genel müdür sıfatıyla görevlendirildim](tolga-sardan-buyutec-2025-03-02.md)
 - [Grand Kartal Otel’in yöneticisi anlatıyor: Emir Bey, “Eksikleri gidermek çok masraflı, bunları yapamayız, başvuruyu geri çekin” dedi; dilekçe verip geri çektim](tolga-sardan-buyutec-2025-03-01.md)
-- [İçişleri Bakanlığı müfettişlerinin Kartalkaya'daki otel yangınına ilişkin ikinci raporundan: “Can ve mal kaybı ihtimali yüksek olan otelin faaliyeti durdurulmalıydı”](tolga-sardan-buyutec-2025-02-28.md)
