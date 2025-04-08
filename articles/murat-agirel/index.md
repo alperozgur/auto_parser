@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Doluya koydum almadı, boşa koydum dolmadı](murat-agirel-2025-04-08.md)
 - [Yeni bir yola çıkarken...](murat-agirel-2025-04-05.md)
 - [İBB’deki 1.8 milyarlık kamu zararı](murat-agirel-2025-04-01.md)
 - [İmamoğlu’na operasyon aceleye geldi](murat-agirel-2025-03-29.md)
@@ -14,4 +15,3 @@
 - [YÖK aracında uyuşturucu yakalandı](murat-agirel-2025-03-07.md)
 - [Çakarlı cipin sahibi ne kadar vergi ödedi](murat-agirel-2025-03-04.md)
 - [Öcalan’ın mektubu Erdoğan’ın yolunu açar mı?](murat-agirel-2025-03-01.md)
-- [Deprem bölgesinde yaşanan skandal](murat-agirel-2025-02-25.md)

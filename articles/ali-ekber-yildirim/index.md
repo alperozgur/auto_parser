@@ -1,5 +1,6 @@
 # Ali Ekber Yıldırım
 
+- [Tarımsal ürünlerde ihracat yasağı fiyatları düşürür mü?](ali-ekber-yildirim-2025-04-08.md)
 - [Kuraklık, su krizi ve yeniden kuru tarım](ali-ekber-yildirim-2025-03-25.md)
 - [ABD’nin yumurta krizi ve Türkiye’ye yansımaları](ali-ekber-yildirim-2025-03-18.md)
 - [Tarımda planlı üretim Büyük Menderes Havzası’nda suya düştü](ali-ekber-yildirim-2025-03-12.md)
@@ -15,4 +16,3 @@
 - [Dijital tarım teknolojilerinde sorunlar ve fırsatlar](ali-ekber-yildirim-2025-01-22.md)
 - [Tarımda dijital teknolojilerin önemi](ali-ekber-yildirim-2025-01-21.md)
 - [Tarım öğretiminin 179. yılında tarımın geleceği ve gençler](ali-ekber-yildirim-2025-01-14.md)
-- [İhracattan dönen kuru incir ve Antep fıstığı için sert önlemler](ali-ekber-yildirim-2025-01-09.md)
