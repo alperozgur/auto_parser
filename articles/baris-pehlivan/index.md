@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Gizli suç](baris-pehlivan-2025-04-09.md)
 - [2911](baris-pehlivan-2025-04-04.md)
 - [Tutuklu başkan için kritik rapor](baris-pehlivan-2025-04-02.md)
 - [Yeni başlayanlar için hukuk sözlüğü](baris-pehlivan-2025-03-28.md)
@@ -14,4 +15,3 @@
 - [Haykıracak nefesin kalmadıysa](baris-pehlivan-2025-02-21.md)
 - [Sahi, siyasi yasak nasıl geldi?](baris-pehlivan-2025-02-19.md)
 - [Diyanet’ten şaşırtan uyarılar](baris-pehlivan-2025-02-14.md)
-- [CHP soruşturmasının kronolojisi](baris-pehlivan-2025-02-12.md)
