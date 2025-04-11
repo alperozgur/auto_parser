@@ -1,5 +1,6 @@
 # Tolga Şardan
 
+- [180. yılında Emniyet teşkilatı: Polis yıldızından geriye kalanlar](tolga-sardan-buyutec-2025-04-11.md)
 - [29 canın yitirildiği gece kulübü faciasının bilirkişi raporundan: Vali yardımcısından Kaymakam’a, belediyecilerden iş yeri sahiplerine kadar sorumluluk var](tolga-sardan-buyutec-2025-04-09.md)
 - [29 kişinin öldüğü Beşiktaş yangınının bilirkişi raporundan: Çalışanlar, yangına önce üfleyerek, sonra bir kova su ile müdahale ettiler](tolga-sardan-buyutec-2025-04-08.md)
 - [İstanbul’da ne oldu, ne oluyor, ne olacak?](tolga-sardan-buyutec-2025-04-04.md)
@@ -11,4 +12,3 @@
 - [Tunceli’de ikinci perde](tolga-sardan-buyutec-2025-03-14.md)
 - [Tunceli Jandarma’da ortaya çıkan bir dizi skandal!](tolga-sardan-buyutec-2025-03-11.md)
 - [21 Mart’ta sokaklarda Öcalan posteri açılırsa, güvenlik güçleri ne yapacak?](tolga-sardan-buyutec-2025-03-07.md)
-- [“Acılı anne”ye Meclis yasağı ve Cübbeli’nin çakarı](tolga-sardan-buyutec-2025-03-04.md)
