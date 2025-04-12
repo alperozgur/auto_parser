@@ -1,6 +1,5 @@
 # Barış Terkoğlu
 
-- [Kritik belgeler dosyaya girdi: Adaylar merkezden](baris-terkoglu-2025-04-11.md)
 - [Ülkeyi seçime götürecek seçim](baris-terkoglu-2025-04-10.md)
 - [Çocukluğu çalınmış kadının davası](baris-terkoglu-2025-04-07.md)
 - [Hedefteki isim ilk kez konuştu](baris-terkoglu-2025-04-03.md)
@@ -15,3 +14,4 @@
 - [Halk TV burada Yeni Şafak nerede!](baris-terkoglu-2025-03-03.md)
 - [Zehra gel kavga var](baris-terkoglu-2025-02-27.md)
 - [Naci Baba'nın bir çiftliği var](baris-terkoglu-2025-02-24.md)
+- [Kimi kime şikâyet edeceksin!](baris-terkoglu-2025-02-20.md)
