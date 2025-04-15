@@ -1,5 +1,6 @@
 # Murat Ağırel
 
+- [Hak yiyorlar anladık, hukuku da yiyip bitirdiler](murat-agirel-2025-04-15.md)
 - [İmamoğlu dosyasına dokunan yanıyor mu?](murat-agirel-2025-04-12.md)
 - [Doluya koydum almadı, boşa koydum dolmadı](murat-agirel-2025-04-08.md)
 - [Yeni bir yola çıkarken...](murat-agirel-2025-04-05.md)
@@ -14,4 +15,3 @@
 - [Kim bu milyarlarca liralık çarkı döndürenler (2)](murat-agirel-2025-03-09.md)
 - [Kim bu milyarlarca liralık çarkı döndürenler (1)](murat-agirel-2025-03-08.md)
 - [YÖK aracında uyuşturucu yakalandı](murat-agirel-2025-03-07.md)
-- [Çakarlı cipin sahibi ne kadar vergi ödedi](murat-agirel-2025-03-04.md)
