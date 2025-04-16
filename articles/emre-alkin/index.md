@@ -1,5 +1,6 @@
 # Emre Alkin
 
+- [Ne yapsan eleştiriyorlar ise doğrusunu yap !..](emre-alkin-2025-04-16.md)
 - [Bize bir şey olmaz kafası ile yola devam…](emre-alkin-2025-04-09.md)
 - [Herkes Türkiye'de neler olduğunu merak ediyor…](emre-alkin-2025-04-02.md)
 - [Biz çok konuştuk, şimdi sıra sizde arkadaş…](emre-alkin-2025-03-26.md)
@@ -15,4 +16,3 @@
 - [“Para politikasından evlilik yardımına...”](emre-alkin-2025-01-15.md)
 - [“TÜİK’ten TCMB’ye...”](emre-alkin-2025-01-08.md)
 - [“KKM’nin faturası mı daha yüksek, carry trade’in mi ?”](emre-alkin-2025-01-01.md)
-- [“Kredi koşulları iyileşmeden faiz indirimi sadece şov olur... “](emre-alkin-2024-12-25.md)

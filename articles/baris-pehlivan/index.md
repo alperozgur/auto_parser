@@ -1,5 +1,6 @@
 # Barış Pehlivan
 
+- [Yeni rapor AKP dönemini işaret etti](baris-pehlivan-2025-04-16.md)
 - [Murat ve Timur](baris-pehlivan-2025-04-11.md)
 - [Gizli suç](baris-pehlivan-2025-04-09.md)
 - [2911](baris-pehlivan-2025-04-04.md)
@@ -14,4 +15,3 @@
 - [Mahalle yanarken saç taramıyorum](baris-pehlivan-2025-02-28.md)
 - [Katil çıkacak, Gezi kalacak mı?](baris-pehlivan-2025-02-26.md)
 - [Haykıracak nefesin kalmadıysa](baris-pehlivan-2025-02-21.md)
-- [Sahi, siyasi yasak nasıl geldi?](baris-pehlivan-2025-02-19.md)

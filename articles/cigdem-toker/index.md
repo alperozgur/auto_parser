@@ -1,5 +1,6 @@
 # Çiğdem Toker
 
+- [Öğrenciler yurttaşlık bağını hatırlatıyor](cigdem-toker-2025-04-16.md)
 - [OECD Türkiye Raporu’nun gri sayfaları](cigdem-toker-2025-04-11.md)
 - [Alın terimiz holdinglere akarken](cigdem-toker-2025-04-09.md)
 - [Boykot verileri günlük çıkar mı?](cigdem-toker-2025-04-04.md)
@@ -11,4 +12,3 @@
 - ["Dolduruş"](cigdem-toker-2025-03-14.md)
 - [8 Mart ve bir Almanya seyahatinden izlenimler](cigdem-toker-2025-03-12.md)
 - [Bütçede kadına bakış](cigdem-toker-2025-03-07.md)
-- [Mattia Ahmet’in ardından](cigdem-toker-2025-03-05.md)
