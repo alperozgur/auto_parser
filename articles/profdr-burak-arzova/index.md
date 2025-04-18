@@ -1,5 +1,6 @@
 # Burak Arzova
 
+- [Merkez Bankası ipin kaçan ucunu yakalamak istedi](profdr-burak-arzova-2025-04-18.md)
 - [Trump politikaları: Şaşkın ördek tersten dalar](profdr-burak-arzova-2025-04-11.md)
 - [Boykotların enflasyonla mücadeleye katkısı](profdr-burak-arzova-2025-04-04.md)
 - [Siyasetin güdümündeki Türkiye ekonomisini neler bekliyor?](profdr-burak-arzova-2025-03-28.md)
@@ -15,4 +16,3 @@
 - [İllüzyon ekonomisi kaldığı yerden devam](profdr-burak-arzova-2025-01-17.md)
 - [Hayat pahalılığı ve akla takılan sorular](profdr-burak-arzova-2025-01-10.md)
 - [Artık yeni şeyler söylediğimiz bir yıl olsun 2025](profdr-burak-arzova-2025-01-03.md)
-- [Enflasyonla mücadelede ücret etkisi bahanesi ortadan kalktı](profdr-burak-arzova-2024-12-27.md)
